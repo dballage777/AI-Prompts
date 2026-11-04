@@ -53,3 +53,10 @@ Everything: the Project Registry and its columns, unique Project IDs, the Merge 
 | Confidentiality | R9 |
 | No claims about unavailable integrations | R11; Parts 4 & 5 |
 | Works on its own | Self-contained; doesn't reference v1 |
+
+## Revision: student IDs are optional (v2.1)
+- Setup Step 1 now asks for **one file: the student roster with parent emails**. Student IDs aren't required, and Gemini won't ask for them or stop because they're missing.
+- If the roster already has parent emails, **Step 2 is skipped**. Gemini asks for a separate parent file only when the roster has no emails.
+- Students without IDs get a **Student Key** (S001, S002, …) that Gemini uses to keep track of each student across the spreadsheet tabs.
+- **Matching by name:** an exact first and last name that appears only once in each file matches automatically. Repeated names and close-but-not-exact names (nicknames, typos, hyphenated names) still need the teacher's OK.
+- Gradebook updates match by name the same way. IDs are used only when both files have them.
