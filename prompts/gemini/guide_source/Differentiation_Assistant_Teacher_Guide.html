@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Differentiation Assistant — Teacher Guide</title>
+<style>
+  @page { size: Letter; margin: 0.55in 0.6in; }
+  :root{
+    --ink:#1f2933; --muted:#52606d; --line:#d9e2ec;
+    --start:#1d4ed8; --start-bg:#e8efff;
+    --sup:#0b6e4f;  --sup-bg:#e3f6ee;
+    --chal:#6d28d9; --chal-bg:#f0e9ff;
+    --both:#b45309; --both-bg:#fff3e0;
+    --asmt:#c2410c; --asmt-bg:#ffece3;
+    --co:#0e7490;   --co-bg:#e0f5f9;
+    --lang:#be185d; --lang-bg:#fde7f1;
+    --safe:#334e68; --safe-bg:#eef2f7;
+  }
+  *{box-sizing:border-box}
+  body{font-family:"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);font-size:9.6pt;line-height:1.3;margin:0}
+  h1{font-size:20pt;margin:0 0 4px;color:var(--start)}
+  h2{font-size:12pt;margin:11px 0 6px;padding:4px 10px;border-radius:6px;color:#fff}
+  h3{font-size:10.5pt;margin:0 0 4px}
+  p{margin:4px 0}
+  .sub{color:var(--muted);font-size:10pt;margin-bottom:8px}
+  .hero{border:2px solid var(--start);background:var(--start-bg);border-radius:10px;padding:8px 12px}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}
+  .card{border-radius:8px;padding:7px 10px;border-left:6px solid;break-inside:avoid}
+  .tag{display:inline-block;font-size:8.5pt;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:10px;color:#fff;margin-bottom:4px}
+  .start{background:var(--start)} .card.start{background:var(--start-bg);border-color:var(--start);color:var(--ink)}
+  .sup{background:var(--sup)}  .card.sup{background:var(--sup-bg);border-color:var(--sup);color:var(--ink)}
+  .chal{background:var(--chal)} .card.chal{background:var(--chal-bg);border-color:var(--chal);color:var(--ink)}
+  .both{background:var(--both)} .card.both{background:var(--both-bg);border-color:var(--both);color:var(--ink)}
+  .asmt{background:var(--asmt)} .card.asmt{background:var(--asmt-bg);border-color:var(--asmt);color:var(--ink)}
+  .co{background:var(--co)}   .card.co{background:var(--co-bg);border-color:var(--co);color:var(--ink)}
+  .lang{background:var(--lang)} .card.lang{background:var(--lang-bg);border-color:var(--lang);color:var(--ink)}
+  .safe{background:var(--safe)} .card.safe{background:var(--safe-bg);border-color:var(--safe);color:var(--ink)}
+  ul{margin:4px 0 0 18px;padding:0} li{margin:1px 0}
+  .steps{counter-reset:s;list-style:none;margin:0;padding:0}
+  .steps li{counter-increment:s;position:relative;padding:4px 10px 4px 40px;margin:4px 0;background:var(--start-bg);border-radius:8px;break-inside:avoid}
+  .steps li::before{content:counter(s);position:absolute;left:9px;top:4px;width:22px;height:22px;border-radius:50%;background:var(--start);color:#fff;font-weight:700;text-align:center;line-height:22px}
+  .legend{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 2px}
+  .legend span{font-size:9pt;font-weight:700;color:#fff;padding:3px 9px;border-radius:12px}
+  .page-break{break-after:page}
+  table{width:100%;border-collapse:collapse;font-size:10pt}
+  th,td{border:1px solid var(--line);padding:5px 7px;text-align:left;vertical-align:top}
+  th{background:#f5f7fa}
+  .num{font-weight:700;color:var(--muted)}
+  .foot{margin-top:14px;font-size:9pt;color:var(--muted);border-top:1px solid var(--line);padding-top:6px}
+  .say{white-space:nowrap;font-family:Consolas,monospace;font-size:9pt;background:#fff;border:1px dashed var(--start);padding:2px 6px;border-radius:4px}
+</style>
+</head>
+<body>
+
+<!-- PAGE 1 -->
+<h1>Your Differentiation Assistant</h1>
+<div class="sub">A plain-language guide to the Gemini prompt for reteaching, differentiation, challenge, and co-teaching (version 4)</div>
+
+<div class="hero">
+  <h3>What it does, in one sentence</h3>
+  <p>You give Gemini your materials (a test, your notes, or a spreadsheet of results), and it walks you step by step to <b>ready-to-use materials</b> that help students who <b>don't get it yet</b>, students who <b>already get it</b>, and everyone in between. Then it delivers them as a Google Doc, Slides, a Form, a Sheet, or text you can copy.</p>
+</div>
+
+<div class="legend" aria-label="Color key">
+  <span class="start">BLUE = Getting started</span>
+  <span class="sup">GREEN = Support (not yet)</span>
+  <span class="chal">PURPLE = Challenge (got it)</span>
+  <span class="both">GOLD = Whole class</span>
+  <span class="asmt">ORANGE = Assessment</span>
+  <span class="co">TEAL = Co-teaching</span>
+  <span class="lang">PINK = English learners</span>
+  <span class="safe">GRAY = Safety &amp; limits</span>
+</div>
+
+<h2 class="start">How to start (pick one)</h2>
+<div class="grid3">
+  <div class="card start"><span class="tag start">Best</span><h3>Make a Gem</h3><p>In Gemini, choose <b>Gems → New Gem</b>, paste the prompt text into <b>Instructions</b>, and save. Open the Gem and type <span class="say">hi</span>.</p></div>
+  <div class="card start"><span class="tag start">Good</span><h3>Paste the text</h3><p>Copy all the text below the line in the file, paste it as your first message, and press <b>Send</b>.</p></div>
+  <div class="card start"><span class="tag start">OK</span><h3>Upload the file</h3><p>Upload the .txt file and type: <span class="say">Follow these instructions. Start with Step 1.</span></p></div>
+</div>
+<p style="margin-top:6px"><b>Settings:</b> use your <b>school Google account</b> and the <b>Pro</b> model, with <b>Guided Learning off</b>. Answer each question with just a number or a few words.</p>
+
+<h2 class="start">What happens: 7 simple steps</h2>
+<ol class="steps">
+  <li><b>Tell it your goal.</b> Choose from: analyze results, differentiate, reteach, challenge, co-teach, or build assessments.</li>
+  <li><b>Share your materials.</b> Upload a PDF, a CSV, a Doc, or a photo, or just describe what you need.</li>
+  <li><b>It checks your files</b> and tells you what it found. You confirm the course, grade, and lesson goal.</li>
+  <li><b>It shows who needs what.</b> You get a question-by-question results table and groups listed by <b>row number</b>, never by name.</li>
+  <li><b>You pick what to make.</b> You only see the options that fit your goal (type <span class="say">ALL</span> to see every option).</li>
+  <li><b>You pick the format.</b> Google Doc, Slides, Form, Sheet, or copy-and-paste text.</li>
+  <li><b>It shows a short plan, then builds it.</b> It checks every answer, delivers the work in parts if it's long, and offers revisions.</li>
+</ol>
+
+<div class="page-break"></div>
+
+<!-- PAGE 2 -->
+<h2 class="asmt">Using your test results (including Pear Assessment)</h2>
+<div class="grid2">
+  <div class="card asmt">
+    <span class="tag asmt">Do this</span>
+    <h3>Bring your results in</h3>
+    <ul>
+      <li><b>Pear Assessment (formerly Edulastic):</b> Gemini <b>can't log in</b>, so download a report table as a <b>CSV</b> (from Insights or Reports). Some reports need a Premium or Enterprise plan.</li>
+      <li>Save the <b>test as a PDF</b> using the print option, then "Save as PDF".</li>
+      <li>Upload <b>both files together</b>. You can delete the names column first.</li>
+    </ul>
+  </div>
+  <div class="card asmt">
+    <span class="tag asmt">You get</span>
+    <h3>A clear results table</h3>
+    <ul>
+      <li>For each question: the skill, <b>% correct</b>, the most common wrong answer, and the likely misconception.</li>
+      <li>Flags: <b>below 60%</b> = reteach, <b>60–79%</b> = practice, <b>80%+</b> = mastered. You can change these.</li>
+      <li>Groups: Mastered / Partial / Not yet, listed by <b>row number</b> so you can match them to names yourself.</li>
+    </ul>
+  </div>
+</div>
+
+<h2 class="both">What it can make for you: 26 options</h2>
+<div class="grid2">
+  <div class="card sup"><span class="tag sup">Support: not yet</span>
+    <ul>
+      <li><span class="num">1</span> Reteach mini-lesson (a new way to explain it)</li>
+      <li><span class="num">2</span> Fill a missing earlier skill</li>
+      <li><span class="num">3</span> Scaffolded version of an assignment</li>
+      <li><span class="num">4</span> "Find and fix the mistake" task</li>
+      <li><span class="num">5</span> Guided notes or graphic organizer</li>
+      <li><span class="num">6</span> Vocabulary pre-teach set</li>
+    </ul></div>
+  <div class="card chal"><span class="tag chal">Challenge: got it</span>
+    <ul>
+      <li><span class="num">7</span> Extension task (deeper thinking)</li>
+      <li><span class="num">8</span> Compacting: skip what they've mastered</li>
+      <li><span class="num">9</span> Easy-to-start, hard-to-finish problem</li>
+      <li><span class="num">10</span> Independent project with a contract</li>
+      <li><span class="num">11</span> "Try it before the lesson" challenge</li>
+    </ul></div>
+  <div class="card both"><span class="tag both">Whole class</span>
+    <ul>
+      <li><span class="num">12</span> Three-tier assignment (Circle / Square / Triangle)</li>
+      <li><span class="num">13</span> Mild / Medium / Spicy practice</li>
+      <li><span class="num">14</span> Next-day small groups</li>
+      <li><span class="num">15</span> Station rotation plan</li>
+      <li><span class="num">16</span> Choice board</li>
+      <li><span class="num">17</span> Leveled reading (with the original text too)</li>
+      <li><span class="num">18</span> Spiral review warm-ups</li>
+    </ul></div>
+  <div class="card asmt"><span class="tag asmt">Assessment</span>
+    <ul>
+      <li><span class="num">19</span> Exit ticket and quick-check questions</li>
+      <li><span class="num">20</span> Pre-check before a unit</li>
+      <li><span class="num">21</span> Accessible test and retake version</li>
+      <li><span class="num">22</span> Feedback comment bank</li>
+      <li><span class="num">23</span> Student self-reflection sheet</li>
+    </ul></div>
+  <div class="card co"><span class="tag co">Co-teaching</span>
+    <ul>
+      <li><span class="num">24</span> Co-taught lesson plan: which model to use, who does what (minute by minute), groups, and materials</li>
+      <li><span class="num">25</span> Quick strategy ideas</li>
+    </ul></div>
+  <div class="card lang"><span class="tag lang">English learners</span>
+    <ul>
+      <li><span class="num">26</span> Language supports by proficiency level: sentence starters, key words, and visuals. <b>The language gets simpler; the thinking doesn't.</b></li>
+    </ul></div>
+</div>
+
+<div class="page-break"></div>
+
+<!-- PAGE 3 -->
+<h2 class="start">How your finished work arrives</h2>
+<table>
+  <tr><th style="width:26%">You choose</th><th>What you get</th></tr>
+  <tr><td><b>1. Google Doc</b></td><td>Built in Canvas. Click <b>Export to Docs</b>. To print or save a PDF: <b>File → Download → PDF</b>.</td></tr>
+  <tr><td><b>2. Google Slides</b></td><td>One idea per slide, with speaker notes, exported to Slides.</td></tr>
+  <tr><td><b>3. Google Form quiz</b></td><td>Questions and choices ready to paste into a Form, with correct answers marked.</td></tr>
+  <tr><td><b>4. Google Sheet</b></td><td>Clean tables you can export to Sheets.</td></tr>
+  <tr><td><b>5. Copy and paste</b></td><td>Text in the chat. This is always available.</td></tr>
+</table>
+<p style="margin-top:6px"><b>Every document has the same layout:</b> a <b>Teacher Packet</b> (goal, data summary, how to run it, groups, prep time, answer keys), then <b>Student Pages</b>, each version on its own page, with <b>no answer keys</b>. Long documents come in parts. Type <span class="say">NEXT</span> to get the next part.</p>
+
+<h2 class="safe">Built-in safeguards</h2>
+<div class="grid2">
+  <div class="card safe"><span class="tag safe">Fair for every student</span>
+    <ul>
+      <li><b>Same goal for everyone.</b> Support adds help, not less work. Challenge adds depth, not more work.</li>
+      <li>Groups change based on evidence and have neutral names (no "low" or "gifted" labels).</li>
+      <li>It never sorts students by "learning styles."</li>
+    </ul></div>
+  <div class="card safe"><span class="tag safe">Accurate &amp; private</span>
+    <ul>
+      <li>Solves every problem and checks every answer key and calculation. Anything uncertain is marked <b>[VERIFY]</b>.</li>
+      <li><b>No student names</b> in its replies, only row numbers.</li>
+      <li><b>You decide</b> groups, grades, and accommodations. It never reads IEP or 504 documents.</li>
+    </ul></div>
+</div>
+
+<h2 class="safe">What it can't do</h2>
+<div class="card safe">
+  <ul>
+    <li>It can't log in to Pear Assessment, Google Classroom, or any other website. Download your files and upload them.</li>
+    <li>It can't send, post, or save files for you. It drafts them, and you export or copy them.</li>
+    <li>Export buttons depend on your school account. If they're missing, use copy-and-paste text.</li>
+    <li>It can make mistakes. <b>Always review before using it with students.</b></li>
+  </ul>
+</div>
+
+<h2 class="start">Quick tips</h2>
+<div class="grid3">
+  <div class="card start"><h3>Stuck?</h3><p>Type <span class="say">continue</span> or answer its last question with a number.</p></div>
+  <div class="card start"><h3>Want everything?</h3><p>Type <span class="say">ALL</span> to see all 26 options.</p></div>
+  <div class="card start"><h3>Change your mind?</h3><p>Type <span class="say">revise</span>, or ask for the same material in another format.</p></div>
+</div>
+
+<div class="foot">Prompt file: Differentiation_Reteaching_CoTeaching_Assistant_Prompt_v4.txt · Guide version 1.0 · November 2026 · Features depend on your school's Google Workspace settings. Not yet tested in Gemini.</div>
+</body>
+</html>
