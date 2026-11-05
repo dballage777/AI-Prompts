@@ -1,0 +1,85 @@
+KNOWLEDGE LIBRARY 02: CHALLENGING ADVANCED STUDENTS (Grades 9–12)
+Uses the same 9-point card format as Library 01.
+
+GUIDING PRINCIPLE
+Raise the COMPLEXITY, DEPTH, AUTONOMY, or PACE. Do not raise the VOLUME.
+Extra problems of the same kind are not enrichment. [R18, R19, R10, R09; critique in R29]
+Regular-classroom DI is often weak for the most able students (Hertberg-Davis), so it should be planned deliberately.
+
+----------------------------------------------------------------------
+A1. CURRICULUM COMPACTING   (MODERATE; mostly elementary evidence · R10)
+1. What: Pre-assess. Document what the student has already mastered. Skip practice on that material. Use the freed time for enrichment or acceleration.
+2. Why: Teachers removed 40–50% of curriculum for talented students with no achievement loss.
+3. Who: Students who show mastery on a pre-assessment.
+4. When: At the start of a unit, using a pre-test or a "most difficult first" check.
+5. Teacher: Use a compactor form with three columns: (a) what's mastered, (b) evidence, (c) replacement activities. Students still take the unit assessment.
+6. AI: Generate a unit pre-assessment mapped to the objectives, a mastery rule, and a replacement menu (depth or complexity tasks, an independent investigation, acceleration content).
+7. Prompt must include: the unit objectives; the pre-assessment length; the mastery threshold (e.g., 80–85%); the replacement options tied to the same discipline.
+8. Quality control: every objective is assessed; replacement tasks are harder in kind, not just longer.
+9. Avoid: "help the teacher" or "tutor others" as the replacement; busywork; more of the same problems.
+
+A2. ACCELERATION (subject, course, dual enrollment, credit by exam, compacted sequences)   (STRONG · R08 g = 0.70; R09)
+1. What: Moving through content faster or earlier.
+2. Why: It is the intervention with the strongest evidence for high-ability learners.
+3. Who: Students with demonstrated readiness. School policies apply.
+4. When: Course placement, self-paced units, AP and dual enrollment.
+5. Teacher: Coordinate with counselors, offer self-paced mastery paths (R24), and allow students to test out.
+6. AI: Generate accelerated pacing guides, the next unit's materials, and readiness checks.
+7. Prompt must include: course sequence constraints; prerequisites; mastery checks before advancing.
+8. Quality control: no prerequisites skipped; alignment to the next course's standards.
+9. Avoid: acceleration without a mastery check; gaps in foundational skills.
+
+A3. INCREASE DEPTH & COMPLEXITY (DOK 3–4; Kaplan; Hess)   (EXPERT · R18, R19)
+1. What: Raise the cognitive demand of the SAME content. Use:
+   - strategic or extended thinking (DOK 3–4)
+   - depth prompts (patterns, rules, ethics, big ideas, unanswered questions)
+   - complexity prompts (change over time, multiple perspectives, connections across disciplines)
+2. Why: It challenges students without adding volume and keeps the class on one topic.
+3. Who: Students who have mastered the core skill.
+4. When: Extensions within a lesson; tier 3 of tiered tasks.
+5. Teacher: Add a "go deeper" card to each task. Example: "Over time, how has this law/model/interpretation changed, and why?"
+6. AI: Transform an on-level task into a DOK 3–4 version, labeling the DOK level and the depth/complexity element used.
+7. Prompt must include: the base task; the target DOK level; the allowed depth/complexity elements; a rubric for open responses.
+8. Quality control: the task actually requires reasoning or synthesis (not just more steps); it still addresses the same standard; the rubric is clear.
+9. Avoid: confusing "harder numbers" with higher DOK; the inaccurate "DOK wheel" verb lists; vague "research this" tasks.
+
+A4. LOW-FLOOR / HIGH-CEILING AND OPEN-ENDED TASKS   (PRACTITIONER/EXPERT · R23; NCTM-style practice)
+1. What: One task that everyone can start but that extends far (e.g., "How many rectangles have perimeter 20? Which has the greatest area? Prove it. Generalize.").
+2. Why: It differentiates within a single task, reduces prep, and avoids labeling students.
+3. Who: The whole class, with natural extension for advanced students.
+4. When: Problem-solving lessons; Building Thinking Classrooms (BTC) tasks.
+5. Teacher: Prepare 2–3 extension prompts and 2–3 hint prompts in advance. Give them as groups need them.
+6. AI: Generate the task, its entry point, an extension ladder (3 levels), a hint ladder, and the expected solution paths.
+7. Prompt must include: the content goal; the floor (what minimum knowledge is required); the ceiling (what generalization or proof is the top level).
+8. Quality control: the extensions stay on the content goal; the solutions are verified.
+9. Avoid: tasks that are only "easy → hard" lists; extensions that drift off-topic.
+
+A5. CHALLENGE-FIRST (PRODUCTIVE FAILURE) FOR READY STUDENTS   (MODERATE · R15)
+1. What: Ready students attempt a rich problem BEFORE instruction, then the teacher consolidates the canonical method.
+2. Why: Averaged across studies, this beats instruction-first (g = 0.36), but it requires prior knowledge.
+3. Who: Students with solid prerequisites. Novices without prerequisites should get explicit instruction first.
+4. When: The opening of a new concept.
+5. Teacher: Give 15–20 minutes of exploration, collect the students' methods, and compare them to the expert method.
+6. AI: Generate a rich problem with multiple solution paths, anticipated student approaches, and consolidation notes.
+7. Prompt must include: the prerequisite check; the target concept; the anticipated approaches; how the teacher should consolidate.
+8. Quality control: the problem is solvable with the prerequisites; it leads to the target concept.
+9. Avoid: giving this to students without prerequisites; skipping the consolidation step.
+
+A6. INDEPENDENT INVESTIGATIONS / AUTHENTIC APPLICATIONS   (EXPERT/PRACTITIONER · R10, R22, R21)
+1. What: A student-driven question in the discipline, with real-world data, primary sources, or an authentic audience. Examples: a historical inquiry using unmodified sources; a science investigation (guided → open inquiry); a CTE client project; an ACTFL presentational task one level above the student's current range.
+2. Why: It builds autonomy and expert practice.
+3. Who: Students who are compacted or accelerated.
+4. When: Multi-week, alongside the unit.
+5. Teacher: Use a learning contract with milestones, check-ins, and a rubric.
+6. AI: Generate a contract template, a question-refinement guide, milestones, a rubric, and source suggestions. Sources should come from the teacher; never invent citations.
+7. Prompt must include: the discipline's practices; the time frame; milestones; the assessment rubric; the instruction that sources must be real and verifiable.
+8. Quality control: feasibility; alignment to standards; a rubric that values reasoning.
+9. Avoid: unstructured "projects"; fabricated sources; assigning these instead of instruction without checking in.
+
+COMMON MISTAKES
+- More problems of the same kind.
+- Making the advanced student the class tutor.
+- Enrichment that is fun but off-standard.
+- Acceleration without mastery checks.
+- No assessment of enrichment work.
+- Fixed "gifted group" labels.

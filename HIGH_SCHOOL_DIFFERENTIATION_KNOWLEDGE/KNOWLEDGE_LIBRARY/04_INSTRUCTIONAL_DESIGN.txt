@@ -1,0 +1,108 @@
+KNOWLEDGE LIBRARY 04: INSTRUCTIONAL DESIGN & DELIVERY
+
+I1. DESIGN UNIVERSALLY FIRST, THEN DIFFERENTIATE   (EXPERT · R12; EMERGING outcome evidence)
+- Build options into the base lesson for every student:
+  - multiple representations (text, visual, worked example)
+  - multiple ways to respond
+  - clear goals
+  - choice where it serves the goal
+- UDL 3.0 goal: learner agency.
+- AI prompt: "Include at least two representations of the key idea and two response options in the base lesson before creating tiers."
+
+I2. FLEXIBLE GROUPING   (MODERATE, CONTESTED · R16, R08, R02; EEF 2026)
+- Groups are temporary and decided by data. The basis changes with the purpose:
+  - readiness (reteach or extension)
+  - interest
+  - random (Building Thinking Classrooms)
+  - mixed (peer support)
+- Size 2–4. Groups of 5 or more show little benefit.
+- Evidence notes:
+  - Low attainers may gain more in mixed groups.
+  - High attainers may gain more in similar-ability groups.
+  - Between-class tracking: near-zero benefit for average and low students.
+- AI prompt: produce a grouping plan from aggregated data, with the purpose and duration of each group. Never use names; use "Group A: 6 students with error X."
+
+I3. SMALL-GROUP MINI-LESSON WHILE OTHERS WORK   (MODERATE · R05, R27)
+- Lesson structure:
+  1. Whole-class launch (10 min)
+  2. Formative check, either a hinge question or a pre-check
+  3. Split:
+     - teacher-led reteach for "not yet"
+     - on-level practice
+     - extension for "got it"
+  4. Exit ticket
+- AI generates all three strands from one objective, plus the routines that keep independent groups working (checklists, answer-check stations, "ask 3 before me").
+
+I4. STATION ROTATION (blended)   (PRACTITIONER; thin HS evidence · R28)
+- Typical stations:
+  - teacher-led (differentiated small group)
+  - online adaptive or practice
+  - collaborative task
+  - independent or offline
+- Rotate every 15–20 minutes, or over 2 days.
+- AI generates the station materials, the rotation schedule, and directions at each station.
+
+I5. FLIPPED INSTRUCTION   (MODERATE · R25 d = 0.42)
+- Short instruction videos or readings at home. Class time is used for practice and small groups.
+- Effects are larger in shorter interventions.
+- Equity: students need home access, or an in-class alternative.
+- AI generates the video script outline, the guided notes, and an entry check.
+
+I6. SELF-PACED MASTERY UNITS (Modern Classrooms model)   (PRACTITIONER/EMERGING · R24)
+- Teacher-made short videos, then self-paced lessons, then a mastery check before moving on.
+- Three tiers of content in each unit:
+  - must-do
+  - should-do
+  - aspire-to-do
+- Pacing is bounded within the unit (deadlines at the unit end).
+- Watch for: students who need many mastery attempts may fall behind (physics study). Add teacher check-ins.
+- AI generates the unit "tracker", the lesson checklists, mastery checks with parallel forms, and the extension "aspire-to-do" tasks.
+
+I7. THINKING CLASSROOMS (math and beyond)   (PRACTITIONER · R23)
+- Random groups of 3, vertical whiteboards, rich tasks.
+- The teacher differentiates in the moment with hints and extensions to keep each group in "flow".
+- Consolidation from the groups' work at the end.
+- AI generates thin-sliced task sequences, a hint ladder and an extension ladder for each task, and the consolidation notes.
+
+I8. EXPLICIT INSTRUCTION SPINE + DIFFERENTIATED PRACTICE   (MODERATE–STRONG · R26)
+- Shared modeling, then differentiated guided and independent practice (Library 01 S1/S2, Library 03 D1).
+- Most efficient default for high school: one lesson and three practice paths.
+
+I9. PEER-ASSISTED LEARNING / PEER TUTORING   (MODERATE · near-miss evidence)
+- Structured roles and scripts. Reciprocal (students switch roles). Run in school, not as an add-on outside school.
+- Avoid: permanently making advanced students the tutors.
+
+I10. SUBJECT-SPECIFIC DELIVERY NOTES
+- Math:
+  - worked examples paired with problems
+  - interleaved review
+  - low-floor/high-ceiling tasks
+  - Building Thinking Classrooms
+  - hint ladders
+- ELA:
+  - text sets, from leveled to original
+  - literature circles with format choice
+  - explicit comprehension strategies
+  - discussion protocols
+  - writing scaffolds that are faded over time
+- Science:
+  - inquiry levels: structured → guided → open. Vary how much autonomy students have in the practice, not the concept itself.
+  - POGIL-style roles
+  - units and data analysis scaffolds
+- Social studies:
+  - Reading Like a Historian: sourcing, contextualization, close reading, corroboration
+  - adapted documents for different reading levels
+  - DBQ scaffolds
+  - multiple perspectives
+- World languages:
+  - ACTFL ranges (Novice / Intermediate / Advanced) × modes (interpersonal / interpretive / presentational)
+  - tasks at the student's current range with a stretch toward the next
+  - proficiency rubrics
+- CTE:
+  - competency checklists
+  - tiered skill demonstrations
+  - student-captain pods
+  - align IEP transition goals with pathways and credentials
+  - co-plan with special education staff
+  - little research exists
+- Electives (arts, PE, etc.): product and choice differentiation, tiered skill progressions, portfolio assessment. Research was not specifically retrieved.

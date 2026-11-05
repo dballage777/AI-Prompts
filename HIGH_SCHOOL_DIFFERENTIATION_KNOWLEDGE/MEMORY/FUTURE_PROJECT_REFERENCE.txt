@@ -1,0 +1,36 @@
+FUTURE PROJECT REFERENCE: how to use this library when writing prompts
+
+STEP-BY-STEP (for future Claude Code sessions)
+1. Identify the target platform. Open the matching prompt-engineering knowledge base for the prompt's shell:
+   - Claude → claude-knowledge/knowledge/MASTER_INDEX.md
+   - Gemini → gemini_k12_assistant_engineering/CLAUDE.md
+   - Other platforms → claude-knowledge/knowledge/templates/T00_prompt_for_other_models.md
+   - If prompts/Prompt_Architect_Master_Prompt.txt is in use, follow it as well.
+2. Identify the differentiation need, then open only the files that match:
+   | Need | Open |
+   | Materials for struggling students / reteach / intervention | KNOWLEDGE_LIBRARY/01 + PROMPT_ENGINEERING T1, T2, T5 |
+   | Enrichment / gifted / acceleration | KNOWLEDGE_LIBRARY/02 + T4, T7 |
+   | Tiered assignments, choice boards, homework | KNOWLEDGE_LIBRARY/03 + T1, T8 |
+   | Lesson structures, grouping, stations, self-paced | KNOWLEDGE_LIBRARY/04 + T2, T10 |
+   | Assessments, parallel forms, accessible versions | KNOWLEDGE_LIBRARY/05 + T6 |
+   | Leveled texts, AI workflows, AI accuracy | KNOWLEDGE_LIBRARY/06 + T3 |
+   | Low-prep systems, rollout | KNOWLEDGE_LIBRARY/07 |
+   | ELL support | 01 (S3, S7), 03 (D4), T9 |
+3. Always include:
+   - AI_PROMPT_DESIGN_PRINCIPLES P2 (lock the objective), P3 and P4 (support vs. volume), P11–P13 (accuracy, no unsupported claims), P15 (privacy)
+   - the QC block from AI_QUALITY_CONTROL_REQUIREMENTS.txt
+4. Adapt to the platform's style:
+   - Claude: XML sections, with reasons attached to rules.
+   - Gemini: concise headed rules, instructions placed after any long data, a named environment, an interactive step-by-step workflow, and K–12 safeguards.
+5. Keep claims honest. Cite evidence grades from MEMORY/KEY_FINDINGS.txt, and don't overstate them.
+
+EXAMPLE REQUESTS THIS LIBRARY SUPPORTS
+- "Write a Gemini Gem that turns my lesson into three tiers." → T1 + Gemini KB template.
+- "Write a Claude prompt that builds next-day groups from exit tickets." → T2 + Claude KB framework.
+- "Prompt ChatGPT to make leveled versions of a primary source." → T3 + T00 + R22 notes.
+- "Assistant that creates an accessible version of my test." → T6 + Library 05 E4.
+- "Enrichment for students who already know the unit." → T4/T7 + Library 02.
+
+ADJACENT KNOWLEDGE BASES (consult them; never merge them)
+- claude-knowledge/: Claude and Claude Code prompting
+- gemini_k12_assistant_engineering/: Gemini K–12 assistants (tutor guardrails, privacy, Gems and skills)

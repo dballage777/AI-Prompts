@@ -1,0 +1,88 @@
+KNOWLEDGE LIBRARY 03: DIFFERENTIATED ASSIGNMENTS
+Uses the same 9-point card format.
+
+CORE RULE
+One objective. Several pathways. Equal respect.
+Tiers vary in support, complexity, abstraction, or independence. They do not vary in the standard.
+Plan the most demanding tier first, then build the support versions down from it. This keeps every tier "respectful." [R02; district tiering guides]
+
+----------------------------------------------------------------------
+D1. TIERED ASSIGNMENTS (3 tiers)   (EXPERT/PRACTITIONER · R02; Cobb, CBSD, and Berks guides)
+1. What: Three versions of a task with the same objective, varying by:
+   - resources (text complexity)
+   - process (amount of scaffolding)
+   - product (complexity of output)
+   - outcome (level of abstraction)
+2. Why: Matches the task to readiness while keeping one shared learning goal.
+3. Who: Approaching, on-level, and advanced students. Assignment is by current data, never permanent.
+4. When: Practice, labs, writing, projects.
+5. Teacher: Write tier 3 (most complex) first. Tier 2 is the grade-level version. Tier 1 adds scaffolds and examples but keeps the core question. Use neutral tier names (colors or shapes).
+6. AI: Generate all three tiers side by side, with an alignment table (objective · core question · what varies · DOK level), plus answer keys.
+7. Prompt must include: the objective or standard; what is allowed to vary (and what must not); the course and grade; the number of items; neutral tier labels; answer keys.
+8. Quality control: every tier addresses the objective; the core question is identical or parallel; the tier 1 scaffolds don't give away answers; tier 3 is deeper, not longer; all keys are verified.
+9. Avoid: Tier 1 = fewer problems; Tier 3 = more problems; labels like "easy / hard / gifted"; tiers that drift to different standards.
+   Example (HS math, Pythagorean theorem):
+   - T1: diagram-supported right-triangle problems, with a worked example.
+   - T2: standard problems, including word problems.
+   - T3: devise and solve a real-world application, plus prove the converse or apply it in 3D.
+
+D2. "MILD / MEDIUM / SPICY" SELF-SELECT SETS   (PRACTITIONER · GCTM 2024)
+1. What: One handout with three entry levels for the same skill. Students choose, with teacher nudges. They can move up a level after success.
+2. Why: Low prep, builds student agency, avoids labeling.
+3. Who: The whole class.
+4. When: Daily practice and homework.
+5. Teacher: Coach students' choices using their exit-ticket data. Require at least "medium" before moving on.
+6. AI: Generate 3–5 items per level, a "move-up" rule, and keys.
+7. Prompt must include: the skill; the level descriptors; how many items per level.
+8. Quality control: the levels progress in complexity on the same skill.
+9. Avoid: a "mild" level that falls below the standard with no path upward.
+
+D3. CHOICE BOARDS / MENUS / RAFT / TIC-TAC-TOE   (PRACTITIONER/EXPERT · R02, R28)
+1. What: Structured choice of tasks or products. Tic-tac-toe requires completing a row. RAFT means Role, Audience, Format, Topic. Rows can be tiered (recall → application → analysis).
+2. Why: Choice based on interest and profile increases engagement, and tiered rows add readiness differentiation.
+3. Who: All students.
+4. When: Unit products, review, independent work.
+5. Teacher: Every option must assess the same objective. Use a common rubric. Include one required "core" cell.
+6. AI: Generate a 3×3 board or a RAFT table aligned to objectives, with a common rubric and the DOK level of each cell.
+7. Prompt must include: the objectives; the DOK distribution; a common rubric; realistic time per option; required cells.
+8. Quality control: each cell's evidence of learning is comparable; there are no "craft-only" cells that skip the objective.
+9. Avoid: options of unequal rigor; choices driven by learning styles; cells that can't be assessed.
+
+D4. SCAFFOLDED VERSION + STANDARD VERSION ("two-column" assignments)   (MODERATE · R03, R20)
+1. What: The identical prompt is given in two formats: one with supports (organizer, frames, glossary, chunking) and one without.
+2. Why: Gives access without lowering the bar.
+3. Who: Struggling students, ELLs, and students whose accommodations require it.
+4. When: Writing tasks, document-based questions (DBQs), labs.
+5. Teacher: Students can take the scaffolded version and "graduate" to the standard one.
+6. AI: Generate both versions plus an ELP-level language scaffold set (WIDA-style).
+7. Prompt must include: the task; the scaffolds wanted; the proficiency or reading levels (no student identity).
+8. Quality control: both versions are graded on the same rubric.
+9. Avoid: scaffolds that answer the question.
+
+D5. LEVELED / ADAPTED TEXT SETS WITH A RAMP TO THE ORIGINAL   (MODERATE with cautions · R22, R03, R30)
+1. What: The same content at 2–3 complexity levels, plus a plan for students to work with the original grade-level text.
+2. Why: Access to content; developing reading ability.
+3. Who: Struggling readers and ELLs.
+4. When: Content readings, primary sources.
+5. Teacher: Use the adapted version first, then do a close reading of key original excerpts with support.
+6. AI: Generate adapted versions that preserve facts, claims, and sources, plus glossaries, plus the selected original excerpts.
+7. Prompt must include: the source text (pasted); target readability levels; must-keep facts; no new information; for primary sources, keep the original excerpts.
+8. Quality control: check readability (AI usually writes ABOVE the requested level); check fact preservation against the source.
+9. Avoid: invented quotes or details; leveling literary fiction where the author's language is the point; leveled text with no ramp to the original.
+
+D6. DIFFERENTIATED HOMEWORK   (EMERGING · small studies)
+1. What: Choice among 2–3 difficulty levels, or homework assigned by pre-assessment results.
+2. Why: Higher completion and better attitudes. Achievement effects are mixed.
+3. Who: All students.
+4. When: Weekly practice.
+5. Teacher: Short and spaced. Include retrieval items. Ensure no student needs home technology unless it is available to them.
+6. AI: Generate 3-level homework sets with spiral review and keys.
+7. Prompt must include: the time cap; the levels; the review topics.
+8. Quality control: realistic length; correct keys.
+9. Avoid: long homework for struggling students; requiring at-home technology.
+
+D7. REUSABLE ASSIGNMENT TEMPLATES (efficiency)   (PRACTITIONER · Library 07)
+- "Core + Extend": everyone does the core; there are two extension paths at the bottom.
+- "Must do / May do" lists.
+- "Example → Try → Explain" pairs.
+- "Three-version" generator: AI creates T1, T2, and T3 from any base task using D1's rules.

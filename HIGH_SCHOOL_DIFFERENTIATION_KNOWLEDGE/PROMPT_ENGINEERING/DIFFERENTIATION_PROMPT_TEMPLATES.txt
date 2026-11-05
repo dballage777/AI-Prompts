@@ -1,0 +1,197 @@
+DIFFERENTIATION PROMPT TEMPLATES (model-agnostic core blocks)
+
+These are content blocks to insert into a platform-specific prompt shell:
+- Claude: XML sections
+- Gemini: concise headed Markdown, 300–1,200 words total
+- Others: headed plain text
+
+Fill in the <placeholders>. Each template assumes the platform shell already supplies the role, governance, privacy rules, and interactive workflow. If your shell doesn't, add PRIVACY & OVERSIGHT from AI_QUALITY_CONTROL_REQUIREMENTS.txt.
+Status: desk-designed, not yet tested on any platform.
+
+======================================================================
+T1. THREE-TIER ASSIGNMENT GENERATOR
+======================================================================
+ROLE: Experienced <course> teacher and differentiation specialist for grades 9–12.
+
+TASK: Create a tiered assignment for <objective/standard> in <course>, grade <x>.
+- Tiers: Circle (more support), Square (grade level), Triangle (extension). Use only these neutral labels.
+
+RULES:
+- All tiers target the same objective and the same core question.
+- Circle adds support:
+  - a worked example, then faded steps
+  - vocabulary
+  - chunked directions
+  - sentence frames that don't give away answers
+  - it is NOT shorter and NOT easier in its goal.
+- Triangle raises complexity or DOK. Use generalization, proof, transfer, perspectives, or a real application. It does NOT add more items of the same kind.
+- Build Triangle first, then Square, then Circle.
+- Include 2–3 retrieval-practice warm-up items on prior content in every tier.
+- No learning-style labels.
+
+OUTPUT:
+1. Alignment table: tier · core question · what varies · DOK · scaffolds.
+2. The three student pages.
+3. An answer key for each tier.
+4. Teacher notes:
+   - how to assign tiers from evidence (pre-test or exit ticket)
+   - how students move between tiers
+   - 3-line run plan
+   - estimated prep time
+
+QUALITY CHECK:
+- Solve every item.
+- Confirm the same objective across tiers.
+- Check reading level for grade <x>.
+- Flag [VERIFY] items.
+
+======================================================================
+T2. EXIT TICKET → NEXT-DAY GROUPS
+======================================================================
+INPUT: aggregated exit-ticket results, e.g. "<n> correct, <n> made error A (describe), <n> made error B".
+
+TASK: Plan tomorrow's 45-minute lesson with three groups.
+
+GROUPS:
+- Group "Reteach": a 10–15 minute teacher-led mini-lesson using a NEW representation that targets error A or B, then 3 check items.
+- Group "Practice": on-level mixed practice with self-check answers.
+- Group "Extend": a DOK 3 task on the same objective.
+
+OUTPUT:
+- A schedule.
+- Materials for all three groups.
+- Independent-work routines (what to do when stuck).
+- A closing exit ticket with 2 items.
+
+RULES:
+- No student names.
+- The reteach must differ from the original explanation: <describe how it was first taught>.
+
+======================================================================
+T3. TEXT ADAPTER WITH A RAMP TO THE ORIGINAL
+======================================================================
+INPUT: the source text, pasted. Target levels: about grade <a> and about grade <b>.
+
+TASK: Create two adapted versions that keep every key fact, claim, name, number, and source attribution. Add nothing new.
+
+ADD:
+- A glossary of 6–10 terms.
+- 3 key excerpts from the ORIGINAL, with close-reading questions, so every student engages with grade-level text.
+
+REPORT:
+- Estimated readability for each version. Say that it is approximate. AI often overshoots the target, so revise if it's too high.
+- A list of any facts you simplified or dropped.
+
+RULES:
+- Never invent quotes.
+- For literature, prefer scaffolds (summaries, glosses) over rewriting the author's language.
+
+======================================================================
+T4. PRE-ASSESSMENT + CURRICULUM COMPACTOR
+======================================================================
+INPUT: unit objectives <list>.
+
+TASK:
+1. Pre-test: 1–2 items per objective, plus a blueprint table and an answer key.
+2. Mastery rule: ≥ <80–85>% on an objective counts as mastered.
+3. Compactor plan: for students who show mastery, replace practice on mastered objectives with:
+   (a) a depth or complexity task,
+   (b) an independent investigation with a learning contract, or
+   (c) acceleration into the next unit's content, with a mastery check.
+
+RULES:
+- Replacement work must be harder in kind, not longer.
+- It is assessed with a rubric.
+- It is never "help other students."
+
+======================================================================
+T5. RETEACH PACKET FOR A MISCONCEPTION
+======================================================================
+INPUT: the misconception <describe>, how it was taught the first time <describe>, and the course.
+
+OUTPUT:
+- Diagnosis of why students make the error (1 paragraph).
+- A new representation or approach.
+- A worked example + 3 faded examples + 4 independent items.
+- 2 "hinge" check questions whose distractors reveal whether the error persists.
+- A parallel extension for students who already understand.
+
+QUALITY CHECK:
+- Every item targets this misconception.
+- Answer keys are verified.
+
+======================================================================
+T6. PARALLEL ASSESSMENT FORMS + ACCESSIBLE VERSION
+======================================================================
+INPUT: assessment <pasted> or blueprint <table>.
+
+OUTPUT:
+- Form B: same blueprint, equivalent difficulty, different items.
+- Accessible version for both forms:
+  - chunked layout
+  - word bank where vocabulary isn't the assessed skill
+  - fewer items per page
+  - read-aloud-friendly wording
+  - same standards and same rubric
+- Mapping table: item → standard → difficulty for every form.
+
+RULES:
+- Never lower the standard unless a documented modification is specified: <none/describe>.
+
+======================================================================
+T7. EXTENSION LADDER / LOW-FLOOR-HIGH-CEILING TASK
+======================================================================
+INPUT: the core task or concept.
+
+OUTPUT:
+- A task with an accessible entry point.
+- A hint ladder: 4 hints, from a nudge question up to the next step, never the answer.
+- An extension ladder:
+  - L1 vary the conditions
+  - L2 generalize
+  - L3 prove or justify, or connect to another domain
+- Anticipated solution paths.
+- Consolidation notes.
+
+======================================================================
+T8. CHOICE BOARD WITH COMMON RUBRIC
+======================================================================
+INPUT: objectives <list>; time available <x>.
+
+OUTPUT:
+- A 3×3 board. Row 1 = recall/apply, row 2 = analyze, row 3 = evaluate/create.
+- Center square = required core task.
+- Students complete a row, column, or diagonal that includes the center.
+- DOK listed for each cell.
+- Realistic time for each cell.
+- One common rubric.
+
+RULE: Every cell must produce evidence on the objectives. No craft-only cells.
+
+======================================================================
+T9. ELL LANGUAGE SCAFFOLDS FOR A CONTENT TASK
+======================================================================
+INPUT: the task, and ELP levels present (e.g., WIDA 1–2, 3, 4–5), described without student identities.
+
+OUTPUT, for each level:
+- Language expectations.
+- Sentence frames / starters.
+- Visual supports, described.
+- Key vocabulary with simple definitions.
+- Optional home-language glossary (draft; needs review).
+
+RULE: Keep the content's cognitive demand identical across levels.
+
+======================================================================
+T10. SELF-PACED MASTERY UNIT (Modern Classrooms-style)
+======================================================================
+INPUT: unit objectives and number of lessons.
+
+OUTPUT:
+- Unit tracker: lessons tagged must-do / should-do / aspire-to-do.
+- For each lesson:
+  - short video script outline or reading
+  - practice
+  - mastery check (with a parallel retake form)
+- Teacher check-in plan, so students who need many attempts don't fall behind.
+- End-of-unit deadline structure.

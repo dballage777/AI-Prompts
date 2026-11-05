@@ -1,0 +1,122 @@
+KNOWLEDGE LIBRARY 01: SUPPORTING STRUGGLING STUDENTS (Grades 9–12)
+Card format, applied to every strategy below:
+  1 What · 2 Why · 3 Who it serves · 4 When · 5 Teacher implementation
+  6 How AI can generate it · 7 Prompt must include · 8 Quality control · 9 AI mistakes to avoid
+Evidence grades and resource IDs (R##) refer to RESEARCH/ACADEMIC_RESEARCH_FINDINGS.txt and TOP_30_RESOURCES.txt.
+
+GUIDING PRINCIPLE
+Raise SUPPORT, keep the OBJECTIVE. Struggling students should reach the same grade-level target through:
+  - more modeling
+  - smaller steps
+  - more guided practice
+  - targeted fixes for prerequisite gaps
+Do NOT give them a reduced target, and do NOT give them "less of the same." [R02, R20, R26]
+
+----------------------------------------------------------------------
+S1. EXPLICIT INSTRUCTION / GRADUAL RELEASE   (MODERATE–STRONG · R26, R03)
+1. What: State the objective. Model it while thinking aloud (I do). Guide practice with prompts (we do). Students practice together (you do together), then alone (you do). Check understanding between each phase.
+2. Why: Novices learn well-structured skills fastest this way, and it keeps cognitive load manageable.
+3. Who: Students missing the skill or its prerequisites, and English learners. Use lighter versions with on-level students.
+4. When: New, well-structured skills and procedures (math procedures, lab techniques, essay structure, source analysis).
+5. Teacher: Run a 10–15 minute mini-lesson with the struggling group while others start on-level or extension work. Return to modeling if checks fail (gradual release is recursive).
+6. AI: Generate the full sequence: objective, think-aloud script, worked example, 3–5 guided items with hint prompts, 3–5 independent items, and a check after each phase.
+7. Prompt must include: the objective or standard; the prerequisite skills; the common errors; the number of items per phase; the reading level of the directions.
+8. Quality control: verify every answer; keep the steps small (one new idea per step); confirm the independent items match the modeled skill.
+9. Avoid: long lecture text; skipping the "we do" phase; independent items that are harder than or different from what was modeled.
+
+S2. WORKED EXAMPLES → FADED EXAMPLES → PROBLEMS   (STRONG in well-structured domains · R07)
+1. What: Pair a fully worked example with a similar practice problem. Then remove steps one at a time ("completion problems") until the student solves the problem alone.
+2. Why: The worked-example effect reduces cognitive load for novices. Fading prevents expertise reversal as students improve.
+3. Who: Novices and struggling students. Advanced students need fewer examples (see 02).
+4. When: Math, physics, chemistry calculations, grammar and syntax, coding, citation formats.
+5. Teacher: Use an "example → your turn" pair format with self-explanation prompts ("Why was step 2 done?").
+6. AI: Generate example/problem pairs with numbered steps and a reason for each step, then 2–3 faded versions.
+7. Prompt must include: the skill; the number of pairs; the fading sequence; the self-explanation prompts; parallel structure (same skill, different surface).
+8. Quality control: solve every example and problem independently; check that the faded steps are the right ones to remove; check units and notation.
+9. Avoid: examples that use a different method than the class uses; arithmetic errors; "practice" that changes the skill being practiced.
+
+S3. SCAFFOLDS WITH A REMOVAL PLAN   (MODERATE–STRONG · R02, R20, R03)
+1. What: Temporary supports, such as sentence frames, graphic organizers, partially completed notes, vocabulary banks, chunked directions, formula sheets, and annotated exemplars, plus a planned point at which each support is taken away.
+2. Why: Supports give students access to grade-level tasks. A planned fade builds independence.
+3. Who: Struggling students, English learners (keyed to proficiency level), and students with IEP or 504 accommodations.
+4. When: Writing tasks, multi-step problems, reading complex texts, labs.
+5. Teacher: Hand out "Version A" (scaffolded) and "Version B" (standard) of the same task, and note when the scaffold ends.
+6. AI: Generate scaffolds for a given task. Produce the scaffolded and standard versions side by side, with the identical question at the core.
+7. Prompt must include: the task; the student need, described generally (no personal details); the scaffold types; the fade plan; and the instruction to keep the cognitive demand of the core question unchanged.
+8. Quality control: compare versions and confirm the same objective and same core question; check that sentence frames don't hand students the answer.
+9. Avoid: scaffolds that do the thinking for students (fill-in-the-answer frames); lowering text complexity without a path back to grade-level text.
+
+S4. TARGETED SMALL-GROUP RETEACH FROM FORMATIVE DATA   (MODERATE · R05, R16, R27)
+1. What: Use exit-ticket or hinge-question results to form temporary groups (2–4 students). Reteach the specific error with a NEW representation.
+2. Why: Feedback and correctives raise achievement. Small groups work better than groups of 5 or more.
+3. Who: Students showing the same error pattern.
+4. When: The next day, or within the same lesson after a hinge question.
+5. Teacher: Sort exit tickets into piles (got it / partial / not yet). "Not yet" gets 10 minutes of teacher time. Everyone else gets on-level or extension work.
+6. AI: Given an error pattern (described generally), generate a 10-minute reteach with a different representation, 3 check items, and a parallel mini-task for students who already got it.
+7. Prompt must include: the specific misconception; how it was taught the first time (so the reteach takes a different approach); the time available; the check items.
+8. Quality control: the reteach targets the actual misconception; the check items distinguish the misconception from correct understanding.
+9. Avoid: re-explaining the same way, only louder; generic "review" not aimed at the error.
+
+S5. PREREQUISITE GAP REPAIR ("just-in-time", not "back to basics for weeks")   (MODERATE · R11, R26; MTSS practice)
+1. What: Pinpoint the missing prerequisite. Pre-teach or repair it just before the grade-level lesson that needs it, in short bursts.
+2. Why: At the secondary level, intervention is remediation alongside grade-level work. It supports the core curriculum and cannot replace it.
+3. Who: Students significantly below grade level, or with missing prior knowledge.
+4. When: Before units that depend on the prerequisite (e.g., integer operations before solving equations).
+5. Teacher: Run a 5–10 minute warm-up for that group, give a prerequisite mini-packet, and use Tier 2 time if the school has it.
+6. AI: Map the grade-level skill to its prerequisites. Generate a short diagnostic (5–8 items), a repair mini-lesson for each gap, and a quick mastery check.
+7. Prompt must include: the target skill; the course; that only true prerequisites should be listed; the length limits.
+8. Quality control: the prerequisite map is logical; the diagnostic items each test one prerequisite.
+9. Avoid: replacing grade-level instruction with remediation; inflated prerequisite lists.
+
+S6. RETRIEVAL PRACTICE + SPACED REVIEW   (STRONG · R06, R14)
+1. What: Low-stakes quizzing on earlier material, spread out over time. Mixed (interleaved) review once students have learned several problem types.
+2. Why: These are high-utility techniques that strengthen retention.
+3. Who: All students. Struggling students especially benefit from frequent, short, low-stakes recall with feedback.
+4. When: Warm-ups, exit tickets, and weekly cumulative review.
+5. Teacher: Use 3–5 item "Do Now" quizzes that mix last week's and last month's content; review the answers.
+6. AI: Generate spiral review sets with a mix of items, a spacing plan, and answer keys.
+7. Prompt must include: the topics already taught, with dates or order; how heavily to weight each; the item types; that the review be low-stakes.
+8. Quality control: only content already taught; correct keys; a balanced mix of topics.
+9. Avoid: "reread your notes" or "highlight" tasks (low utility); quizzing on material not yet taught.
+
+S7. ADOLESCENT LITERACY SUPPORTS IN CONTENT CLASSES   (MODERATE–STRONG · R03)
+1. What: Explicit vocabulary instruction, explicit comprehension-strategy instruction (summarize, question, infer), discussion of the text's meaning, and intensive intervention for students reading far below level.
+2. Why: These are the IES-recommended practices for grades 4–12.
+3. Who: Struggling readers in every subject.
+4. When: Whenever a text is central to the lesson.
+5. Teacher: Pre-teach 5–8 Tier 2 and Tier 3 words, model one comprehension strategy on the text, provide discussion stems, and refer students with severe needs to a reading specialist.
+6. AI: Generate a vocabulary set (student-friendly definition, example, non-example), a strategy model on the actual passage, discussion questions, and an adapted version of the text with a plan to reach the original.
+7. Prompt must include: the text, pasted or uploaded; the reading level of the adapted version; which words to pre-teach; that facts and claims must be preserved.
+8. Quality control: the adapted text keeps the key facts and claims; readability is actually lower (AI tends to write above the level requested, see R30); definitions are accurate.
+9. Avoid: inventing quotes; simplifying away the main idea; leveled text with no ramp back to the original.
+
+S8. TUTORING (HUMAN) + AI-SUPPORTED PRACTICE   (STRONG for high-dosage tutoring · R11)
+1. What: Frequent, in-school, small-ratio tutoring with trained tutors, plus personalized practice.
+2. Why: RCTs in high school math showed large effects for participating students.
+3. Who: Students well below grade level in math or reading.
+4. When: Scheduled tutoring blocks.
+5. Teacher: Coordinate tutors and share diagnostic data.
+6. AI: Generate tutor-facing problem sets, diagnostic checks, and hint ladders. For student-facing AI tutors, use guardrails: withhold answers and give graduated hints (see the separate Gemini K–12 knowledge base).
+7. Prompt must include: the diagnostic results (aggregated or de-identified); the session length; the tutor's role.
+8. Quality control: correct keys; hints that lead toward the answer without giving it away.
+9. Avoid: AI "tutors" that hand out answers. Unguarded AI practice can harm later performance (Bastani et al. 2025, cited in the Gemini knowledge base).
+
+S9. ACCOMMODATIONS vs MODIFICATIONS   (EXPERT/LEGAL practice · R13, R20)
+1. What: Accommodations change HOW a student accesses or shows learning (time, read-aloud, fewer items per page). Modifications change WHAT is expected.
+2. Why: Legal plans (IEP and 504) specify which apply. Confusing the two lowers expectations.
+3. Who: Students with IEPs or 504 plans.
+4. When: Always, as written in the student's plan.
+5. Teacher: Implement as written. Consult the special education co-teacher.
+6. AI: Generate materials that implement accommodations the teacher has listed (e.g., a chunked version, a read-aloud-friendly version).
+7. Prompt must include: the accommodations to implement (no student identity); an instruction not to change the standard unless a modification is specified.
+8. Quality control: the standard is preserved unless a modification is explicitly listed.
+9. Avoid: the AI choosing accommodations; processing IEP documents; using student names.
+
+COMMON MISTAKES (struggling-student differentiation)
+- Fewer problems of the same kind, called "differentiation."
+- A permanent "low group."
+- Worksheets of isolated low-level skills with no grade-level work.
+- Leveled text forever.
+- Learning-style matching.
+- Feedback that only says "wrong."
+- Reteaching identically the second time.

@@ -1,0 +1,53 @@
+KNOWLEDGE LIBRARY 07: TEACHER WORKLOAD & IMPLEMENTATION
+
+THE REALITY [R29; PRACTITIONER_FINDINGS]
+- 83% of teachers say differentiation is difficult to do.
+- Teachers often don't actually differentiate in practice (Hertberg-Davis).
+- High school teachers have 100–180+ students each.
+- The main obstacles are time, resources, and the number of groups they teach (Quebec study).
+- Design every differentiation system so it does NOT triple prep time.
+
+EFFICIENT SYSTEMS (ranked roughly from lowest to highest prep)
+1. In-lesson moves (near-zero prep):
+   - hinge question → regroup
+   - "core + extend" sheets
+   - hint and extension cards prepared once and reused
+2. One task, many entry points: low-floor/high-ceiling tasks; Mild/Medium/Spicy sets.
+3. One lesson, three practice paths: an explicit-instruction spine, then tiered practice (AI drafts the tiers).
+4. Exit-ticket sorting → next-day groups with 10-minute teacher-led reteach (AI drafts the reteach).
+5. Choice boards reused across units: swap the content, keep the structure.
+6. Self-paced mastery units, built once and reused yearly (Modern Classrooms). High prep upfront, low prep afterward.
+7. Station rotation templates: the station structure stays fixed and the content rotates.
+
+REUSABLE TEMPLATES TO KEEP (generate once, adapt by changing the content)
+- Tiered task template (with an alignment table)
+- Exit ticket + sort rule + next-day decision table
+- Hint ladder / extension ladder cards
+- Compactor form + replacement menu
+- Parallel-forms blueprint
+- Choice board 3×3 shell with a common rubric
+- Learning contract for independent investigations
+- WIDA-level scaffold set by task type (writing, reading, lab, discussion)
+
+IMPLEMENTATION SEQUENCE (one-semester rollout)
+1. Start with formative checks and one low-prep move per week.
+2. Add one tiered task per unit, built from the top tier down. Bank it.
+3. Add next-day small-group reteach once per week.
+4. Add compacting/extension options for students who show mastery on the pre-test.
+5. Optional: one self-paced mastery unit, or station rotation.
+
+COMMON BARRIERS → SOLUTIONS
+- No time → AI drafts plus a bank of reused templates. Do just one differentiated element per lesson.
+- Classroom management while running groups → routines and checklists, self-check answer stations, clear "what to do when stuck" steps.
+- Labeling and stigma → neutral tier names, flexible groups, self-selection with coaching.
+- Grading load → common rubrics across choices, and fewer but better-designed checks.
+- Fixed schedules (MTSS) → align Tier 2 with Tier 1 content and use in-class small groups.
+
+GUIDANCE FOR AI PROMPTS
+Ask the AI for teacher-ready materials:
+- copy-ready
+- concise directions
+- answer keys
+- an alignment table
+- a 3-line "how to run it" note
+- an estimated prep time

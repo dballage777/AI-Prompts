@@ -1,0 +1,51 @@
+KNOWLEDGE LIBRARY 05: ASSESSMENT DESIGN
+
+PRINCIPLE: Assessment drives differentiation. Every differentiated plan starts from evidence of what students currently know (diagnostic or formative assessment) and ends with evidence against the SAME standard. [R05, R27]
+
+E1. DIAGNOSTIC PRE-ASSESSMENT   (MODERATE · R10, R27)
+- Short (6–12 items), mapped one item per objective or prerequisite, with a mastery rule (e.g., 80–85%).
+- Results feed into: compacting for students who show mastery, prerequisite repair for students with gaps, and on-level instruction for the rest.
+- AI: generate the items mapped to objectives, a blueprint table, a key, and a "results → next step" decision table.
+- QC: each item tests exactly one target, and the key is correct.
+
+E2. HINGE QUESTIONS & EXIT TICKETS   (MODERATE–STRONG · R05)
+- Hinge question: a multiple-choice item where each wrong option reveals a specific misconception. Ask it mid-lesson and regroup students on the spot based on their answers.
+- Exit ticket: 2–3 items covering the core skill, one application, and a "why" question. Sort the results into got it / partial / not yet.
+- AI: generate hinge questions with a misconception tag on each distractor, and a sort rule linked to next-day activities.
+- QC: each distractor maps to one real misconception, and there is exactly one correct answer.
+
+E3. FORMATIVE CYCLE → CORRECTIVES / ENRICHMENT (mastery learning)   (MODERATE · R27, R04)
+- Run a formative check. Students who haven't mastered the target get correctives (a NEW way of teaching it plus practice) and then a parallel second check. Students who have mastered it get enrichment.
+- EEF: about +5 months of progress, with the effect weaker in programs longer than about 12 weeks.
+- AI: generate parallel forms A and B (same targets, same difficulty, different items), a corrective packet for each target, and an enrichment task.
+- QC: the parallel forms are equivalent, and the correctives address the specific errors.
+
+E4. DIFFERENTIATED ASSESSMENT VERSIONS (same standard, different access)   (EXPERT/LEGAL)
+- Allowed differences: scaffolds (word banks, chunking), format or accommodations (read-aloud, extended time, fewer items per page), and reading load when reading isn't the skill being assessed.
+- NOT allowed unless a documented modification applies: a different or lower standard.
+- AI: generate an accessible version alongside the standard version, with a mapping table proving each item targets the same standard.
+- QC: the item-by-item standard mapping is identical, and the rubric is the same.
+
+E5. PERFORMANCE TASKS & ALTERNATIVE PRODUCTS   (EXPERT)
+- Products can be chosen freely as long as they meet common success criteria and a shared rubric. Tier the task's complexity, not its standard.
+- World languages: use ACTFL performance tasks with proficiency rubrics.
+- CTE: use competency demonstrations.
+
+E6. RETAKES / REASSESSMENT   (EMERGING, CONTESTED · R27)
+- Rationale: Bloom's idea that formative assessment must be followed by corrective instruction.
+- Practice: require a corrective activity before any retake, give a parallel form, and set a clear policy.
+- Contested: critics argue retakes reduce effort on the first attempt, and the evidence is thin. The teacher or district decides.
+
+E7. USING DATA TO SET NEXT STEPS (decision table template)
+| Result on target | Next step | Material needed |
+| ≥ mastery threshold | Enrich or compact (Library 02 A1/A3) | Extension task |
+| Partial | Targeted practice + feedback | Tier 2 practice |
+| Not yet | Small-group reteach with a new representation (Library 01 S4) | Reteach + check |
+| Missing a prerequisite | Just-in-time repair (S5) | Prereq mini-lesson |
+
+COMMON ASSESSMENT MISTAKES
+- An "easy test" for struggling students that measures a different standard.
+- Grading only effort.
+- Extension work that is never assessed.
+- AI-generated answer keys that nobody checked (R30).
+- Using "AI detectors" to judge student work, which are biased against English learners (see the Gemini knowledge base).

@@ -1,0 +1,72 @@
+RESEARCH INDEX: HIGH_SCHOOL_DIFFERENTIATION_KNOWLEDGE/
+Version 1.0 · 2026-11-05 · Repository: dballage777/AI-Prompts
+
+FILES
+CLAUDE.md
+  Instructions and navigation (read first).
+
+MEMORY/
+  RESEARCH_INDEX.txt ............ this file
+  KEY_FINDINGS.txt .............. the 14 headline findings, with evidence grades
+  FUTURE_PROJECT_REFERENCE.txt .. maps a need to the files to open; example requests
+
+RESEARCH/
+  TOP_30_RESOURCES.txt .......... ranked list: scores, findings, limitations, AI implications
+  SOURCE_RESEARCH_NOTES.txt ..... access log, research passes P1–P7, ~110-candidate pool
+  ACADEMIC_RESEARCH_FINDINGS.txt  24 graded findings, disagreements, grade-level context
+  PRACTITIONER_FINDINGS.txt ..... teacher experience, pitfalls, recommended resources
+  raw_search_notes/
+    wave1-2_evidence.txt
+    wave3-4_practice_subjects.txt
+    wave5_omission.txt
+
+KNOWLEDGE_LIBRARY/
+  01_STRUGGLING_STUDENTS.txt ........... S1–S9 strategy cards + common mistakes
+  02_ADVANCED_STUDENTS.txt ............. A1–A6 + common mistakes
+  03_DIFFERENTIATED_ASSIGNMENTS.txt .... D1–D7
+  04_INSTRUCTIONAL_DESIGN.txt .......... I1–I10 (includes subject-specific notes)
+  05_ASSESSMENT_DESIGN.txt ............. E1–E7 + decision table
+  06_AI_AND_EDUCATIONAL_TECHNOLOGY.txt . evidence, workflows W1–W10, safeguards
+  07_TEACHER_EFFICIENCY.txt ............ systems, templates, rollout, barriers
+
+PROMPT_ENGINEERING/
+  AI_PROMPT_DESIGN_PRINCIPLES.txt ...... P1–P16, with lines to paste into prompts
+  DIFFERENTIATION_PROMPT_TEMPLATES.txt . T1–T10
+  AI_QUALITY_CONTROL_REQUIREMENTS.txt .. QC block, reviewer checklist, failure modes
+
+FINDING A STRATEGY
+- tiered assignment ............ 03 D1, T1
+- choice board / RAFT .......... 03 D3, T8
+- leveled text ................. 03 D5, 06 W3, T3
+- worked examples / fading ..... 01 S2
+- explicit instruction ......... 01 S1, 04 I8
+- reteach / small group ........ 01 S4, 04 I3, T2, T5
+- prerequisite repair .......... 01 S5
+- retrieval / spacing / interleaving ... 01 S6
+- adolescent literacy .......... 01 S7
+- tutoring ..................... 01 S8
+- accommodations ............... 01 S9, 05 E4
+- compacting ................... 02 A1, T4
+- acceleration ................. 02 A2
+- DOK / depth & complexity ..... 02 A3, T7
+- low floor / high ceiling ..... 02 A4, T7
+- productive failure ........... 02 A5
+- independent investigation .... 02 A6
+- UDL .......................... 04 I1
+- grouping ..................... 04 I2
+- station rotation ............. 04 I4
+- flipped classroom ............ 04 I5
+- self-paced mastery ........... 04 I6, T10
+- Building Thinking Classrooms .. 04 I7
+- peer tutoring ................ 04 I9
+- formative assessment / hinge questions ... 05 E2, T2
+- mastery cycle ................ 05 E3
+- parallel forms ............... 05 E3, T6
+- retakes ...................... 05 E6
+- ELL support .................. 01 S3/S7, 03 D4, T9
+- world languages .............. 04 I10, R21
+- CTE .......................... 04 I10
+
+CHANGE LOG
+2026-11-05  v1.0 created. Research passes P1–P7 completed through web-search summaries; direct access to sources was blocked.
+            Root CLAUDE.md updated with a pointer section, so future sessions can find this library.

@@ -1,0 +1,74 @@
+AI PROMPT DESIGN PRINCIPLES: HIGH SCHOOL DIFFERENTIATION
+How a future prompt should instruct an AI model (Claude, Gemini, ChatGPT, or another) to produce differentiated materials. Each principle is followed by a sample instruction line in [brackets] that can be pasted into a prompt.
+
+PLATFORM NOTE
+Combine these content principles with the platform-specific knowledge base:
+- Claude: claude-knowledge/knowledge/09_PROMPT_TEMPLATES.md and 05 (governance)
+- Gemini: gemini_k12_assistant_engineering/ (keep instructions concise, name the environment, include the K–12 safeguards)
+- Platforms without a knowledge base: claude-knowledge/knowledge/templates/T00_prompt_for_other_models.md
+
+P1. IDENTIFY READINESS FROM EVIDENCE, NOT LABELS.
+Ask for aggregated or de-identified evidence: pre-test results, exit-ticket patterns, or described needs. Never ask for names or diagnoses.
+[If no data is given, ask the teacher for the results of a short pre-assessment, or offer to create one, before assigning tiers.]
+
+P2. LOCK THE OBJECTIVE.
+Every version must target the same standard or objective unless the teacher explicitly lists a documented modification.
+[Every version targets <objective>. Include an alignment table showing objective · core question · what varies · DOK.]
+
+P3. VARY SUPPORT FOR STRUGGLING STUDENTS, NOT THE AMOUNT OR THE TARGET.
+Supports to use: modeling, worked → faded examples, scaffolds with a removal plan, vocabulary, chunking, and prerequisite repair (Library 01).
+[Do not create a version that is simply shorter or easier. Add support while keeping the core question.]
+
+P4. VARY COMPLEXITY, DEPTH, AUTONOMY, OR PACE FOR ADVANCED STUDENTS, NOT VOLUME (Library 02).
+[The extension must raise DOK or add depth or complexity (perspectives, change over time, generalization, proof). Never add more problems of the same kind.]
+
+P5. MATCH GUIDANCE TO EXPERTISE (expertise reversal).
+- Novices: worked examples, explicit steps.
+- Ready students: problem-first or challenge-first, with examples available on request.
+
+P6. PRESERVE RIGOR AND RESPECT.
+Every tier should be equally engaging and meaningful. Use neutral tier names. No "easy" or "gifted" labels.
+
+P7. BUILD IN EVIDENCE-BASED PRACTICE.
+- Retrieval warm-ups and spaced review
+- Interleaving, once problem types are learned
+- Formative checks between phases
+- Metacognitive prompts
+- Specific feedback
+- No learning-style matching
+
+P8. DESIGN UNIVERSALLY FIRST.
+Give the base lesson multiple representations and response options before tiering it (UDL).
+
+P9. LOWER LANGUAGE DEMAND FOR ELLS, NOT CONTENT DEMAND.
+Use WIDA-style supports matched to the student's proficiency level. Translations are drafts that need review.
+
+P10. PRODUCE TEACHER-READY AND STUDENT-FACING OUTPUTS SEPARATELY.
+- Teacher packet: objective, alignment table, how-to-run notes (3 lines), estimated prep time, answer keys, grouping guidance.
+- Student pages: clear directions at the right reading level, neutral labels, space to work.
+
+P11. INCLUDE ANSWER KEYS WHEN REQUESTED, AND VERIFY THEM.
+Solve each item independently, check units and notation, and flag uncertainty with [VERIFY].
+
+P12. VERIFY ACCURACY AND READABILITY.
+- AI tends to write above the requested reading level.
+- Have the AI estimate readability, revise if it overshoots, and preserve facts in adapted texts.
+
+P13. NO UNSUPPORTED INSTRUCTIONAL CLAIMS.
+- Don't tell teachers a strategy "doubles learning."
+- Describe evidence with appropriate hedging: "research suggests," "promising."
+- Never invent citations.
+
+P14. RESPECT WORKLOAD.
+Prefer low-prep structures, reusable templates, and one differentiated element per lesson unless asked for more.
+
+P15. PRIVACY AND OVERSIGHT.
+- No personally identifiable information (PII).
+- The teacher decides groups, grades, and accommodations; the AI drafts them.
+- Don't process IEPs.
+- Follow district policy.
+
+P16. CONTEXT LIMITS (state these in prompts when relevant).
+- Strategies vary by subject. Inquiry levels apply to science, Reading Like a Historian to history, ACTFL ranges to world languages, and competency checklists to CTE.
+- Some evidence comes from elementary or middle school (compacting, interleaving). Adapt it to high school.
+- Station rotation and choice boards have little outcome evidence. Use them for structure and engagement, not as proven achievement interventions.

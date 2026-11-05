@@ -1,0 +1,45 @@
+KNOWLEDGE LIBRARY 06: AI & EDUCATIONAL TECHNOLOGY FOR DIFFERENTIATION
+
+WHAT THE EVIDENCE SAYS (EMERGING · R30)
+- Reading level:
+  - Six AI tools generated 410 passages (Learning Disabilities Research & Practice, Nov 2025).
+  - Passages requested at grade 3 averaged grade 5.5–6.3. AI tends to write ABOVE the requested level.
+  - A vendor reports grade-level alignment about two-thirds of the time, worse in science.
+- AI-written math items:
+  - GPT-4 multiple-choice question sets: teachers judged 14 of 20 valid, and one answer key was miscalculated.
+  - Chatbots reproduce common student errors.
+- AI tutoring (cross-reference: gemini_k12_assistant_engineering/):
+  - Unguarded answer-giving harmed later exam performance.
+  - Guardrailed tutors avoid that harm.
+  - Supervised AI tutoring matched human tutors in one UK RCT (math).
+- Adaptive platforms and station-rotation tools: vendor-reported gains. Little independent high-school evidence was retrieved.
+
+HIGH-VALUE AI DIFFERENTIATION WORKFLOWS (teacher-in-the-loop)
+W1. Three-version generator: base task → Tier 1/2/3 with an alignment table and keys (Library 03 D1).
+W2. Exit-ticket-to-groups: the teacher pastes AGGREGATED results ("12 correct, 8 sign error, 5 setup error"). The AI produces three next-day plans and materials.
+W3. Text adapter: source text → two adapted levels plus a glossary plus original excerpts. The AI then reports estimated readability and lists any facts it changed.
+W4. Reteach generator: misconception → new representation + 3 checks + parallel extension.
+W5. Pre-assessment + compactor: unit objectives → pre-test + mastery rule + replacement menu.
+W6. Parallel forms: assessment → Form B with equivalent difficulty and the same blueprint.
+W7. Extension ladder: any task → DOK 3–4 version + rubric.
+W8. Hint ladders for tutors and Building Thinking Classrooms: problem → 4 graduated hints, without the answer.
+W9. Choice board: objectives → 3×3 board with DOK per cell + a common rubric.
+W10. ELL language scaffolds: task → WIDA-level frames and supports that keep the content demand.
+
+REQUIRED SAFEGUARDS (put these in every AI prompt)
+- Solve or verify every item before presenting it, and flag anything uncertain.
+- Run a readability self-check, and state that the estimate is approximate.
+- Preserve facts and claims in adapted text, and list every change made.
+- Never invent sources, quotes, data, or standards codes.
+- No student PII. Use aggregated or de-identified descriptions only.
+- Teacher review before use. The teacher decides groupings, grades, and accommodations.
+- No learning-styles differentiation.
+
+TECHNOLOGY-ASSISTED REMEDIATION AND ENRICHMENT
+- Remediation: AI-generated targeted practice with hints, adaptive practice platforms, and video reteach libraries (flipped). Pair these with teacher check-ins.
+- Enrichment: AI-assisted investigation planning (with real sources from the teacher), simulations, and tools that support open-ended problems.
+- Productivity:
+  - generate drafts in minutes, then the teacher edits
+  - reuse templates
+  - keep a bank of materials
+  - avoid "AI generates everything every time"

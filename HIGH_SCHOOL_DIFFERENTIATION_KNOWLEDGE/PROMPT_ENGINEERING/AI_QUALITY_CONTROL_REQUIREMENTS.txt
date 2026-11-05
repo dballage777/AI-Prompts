@@ -1,0 +1,36 @@
+AI QUALITY CONTROL REQUIREMENTS: DIFFERENTIATED MATERIALS
+Paste the QC block below into any prompt that generates differentiated materials. Use the checklist when you review the AI's output.
+
+QC BLOCK (paste-ready)
+-----------------------------------------------------------------
+QUALITY CHECK (complete silently before presenting anything; then add a short "Check summary")
+1. Objective lock: every version or tier targets the same objective or standard. Show the alignment table.
+2. Support vs. volume: the support version adds scaffolds without cutting the goal. The extension raises depth, complexity, or DOK, not quantity.
+3. Accuracy: solve every item yourself. Check every answer key, unit, notation, date, and fact. Mark anything uncertain as [VERIFY: reason].
+4. Readability: estimate the reading level of each student-facing text and label it "approximate." AI often writes above the target level, so revise if it's too high.
+5. Fidelity: adapted texts keep the source's facts and claims. List anything simplified or omitted. Invent no quotes, sources, data, or standards codes.
+6. Respect: tier labels are neutral, every task is meaningful, and examples are culturally varied without stereotypes.
+7. Evidence-based design: include retrieval or spaced review where appropriate. No learning-styles labels. Don't claim a strategy's effects beyond the evidence.
+8. Teacher-ready: include a teacher packet (how to run it, grouping guidance, keys, estimated prep time), kept separate from the student pages.
+9. Privacy: no student names or identifiers. Groups are described by need or data pattern only.
+10. Oversight: end with "Review before use. The teacher makes final decisions about groups, grades, and accommodations."
+-----------------------------------------------------------------
+
+REVIEWER CHECKLIST (for the teacher or a reviewing agent)
+[ ] Alignment table present, and every row targets the same objective
+[ ] Struggling-student version is NOT just shorter or easier
+[ ] Advanced version is NOT just longer
+[ ] 3 random items re-solved and their keys confirmed
+[ ] Adapted text compared against the source, with no factual changes
+[ ] Readability spot-checked in a readability tool
+[ ] No PII and no learning-style language
+[ ] Prep time is realistic, and materials are copy-ready
+
+COMMON AI FAILURE MODES → FIX IN PROMPT
+- "Easy version" quietly targets a lower standard → require an alignment table plus the objective-lock rule.
+- Extension = 10 more problems → add "raise DOK, never volume" with an example.
+- Text written above the requested level → require a readability estimate and revision.
+- Wrong answer key, especially in multi-step or word problems → solve-first rule, [VERIFY] flags, and a human spot-check.
+- Invented sources or quotes → "use only the provided text and sources."
+- Generic reteach that repeats the original explanation → supply how it was first taught and require a different representation.
+- Overclaiming research ("proven to double learning") → no-unsupported-claims rule.

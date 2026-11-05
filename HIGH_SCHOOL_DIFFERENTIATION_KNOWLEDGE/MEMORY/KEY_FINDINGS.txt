@@ -1,0 +1,22 @@
+KEY FINDINGS: the short version (read this first when time is limited)
+Evidence grades: STRONG / MODERATE / EMERGING / PRACTITIONER. R## = resource ID in RESEARCH/TOP_30_RESOURCES.txt.
+
+1. Struggling students: keep the objective and add support. Use explicit instruction (I do / we do / you do), worked examples that fade, scaffolds with a removal plan, prerequisite repair just before it's needed, and small-group reteach from formative data. (MODERATE–STRONG; R26, R07, R03, R05)
+2. Advanced students: raise complexity, depth, autonomy, or pace, never volume. Use compacting, acceleration, DOK 3–4, Depth & Complexity, low-floor/high-ceiling tasks, and challenge-first problems. (STRONG for acceleration, MODERATE for the rest; R08, R09, R10, R18, R19, R15)
+3. Match guidance to expertise. Novices need worked examples. Ready students can start problem-first. (STRONG / MODERATE; R07, R15)
+4. Retrieval practice, spacing, and interleaving work for everyone. Build them into every tier. (STRONG; R06, R14)
+5. Formative assessment drives differentiation: hinge questions, exit tickets, correctives, then enrichment. (MODERATE–STRONG; R05, R27, R04)
+6. Use flexible small groups of 2–4. Fixed tracks help little. Low attainers may do better in mixed groups, high attainers in similar-ability groups. (MODERATE, contested; R16, R08)
+7. Differentiation in secondary school has small-to-moderate effects in thin research and depends on implementation. Workload is the main barrier, so favor low-prep, reusable systems. (EMERGING–MODERATE; R01, R29)
+8. Learning-style matching is unsupported. Never use it. (STRONG negative; R17)
+9. English learners: lower the language demand, keep the content demand, and use WIDA/SIOP-style scaffolds. World languages: differentiate by ACTFL proficiency range. (MODERATE; R20, R21)
+10. High-dosage tutoring in high school math has strong RCT evidence. Use AI to support tutors, not to hand students answers. (STRONG; R11; Gemini KB)
+11. AI materials need verification. AI-written texts overshoot reading levels, and answer keys sometimes contain errors. Always self-check, then have a teacher review. (EMERGING; R30)
+12. UDL is a sound design framework with thin outcome evidence. Design universally first, then tier. (EMERGING; R12)
+13. Subject notes:
+    - math: Building Thinking Classrooms, worked examples, interleaving
+    - ELA: text sets that move toward the original text, comprehension strategies
+    - science: inquiry levels
+    - history: Reading Like a Historian
+    - CTE: competency demonstrations (thin research)
+14. Research limits: every source was seen through search summaries, not read directly. Re-verify figures before citing them externally.
