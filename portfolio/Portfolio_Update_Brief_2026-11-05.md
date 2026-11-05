@@ -44,7 +44,7 @@
 
 ## PART B — WORK RECORD (factual summary for analysis)
 
-**Who:** A high school educator (district: NAFCS, North Adams High School referenced as "NAHS") working in a Claude Code session.
+**Who:** A high school educator (school abbreviation "NAHS" used in the prompt names), working in a Claude Code session. [ADD: your title, school, and district as you want them shown]
 **When:** November 4–5, 2026.
 **Where the work lives:** GitHub repository `dballage777/AI-Prompts`, branch `claude/eager-cannon-i5x78b` (19 commits; not yet merged into the main branch).
 **Overall theme:** I designed reusable AI assistants and research-backed knowledge bases so that teachers, students, and parents get safe, practical, differentiated support from AI tools (Google Gemini and Claude). Throughout, I prioritized student privacy, accuracy, and teacher control.
