@@ -41,7 +41,7 @@ if [ -f "$TARGET" ]; then
     $0==b {skip=1; next}
     $0==e {skip=0; next}
     !skip {print}
-  ' "$TARGET" > "$TARGET.tmp"
+  ' "$TARGET" | awk 'NF {for (i = 0; i < blank; i++) print ""; blank = 0; print; next} {blank++}' > "$TARGET.tmp"
   mv "$TARGET.tmp" "$TARGET"
   printf '\n' >> "$TARGET"
 else

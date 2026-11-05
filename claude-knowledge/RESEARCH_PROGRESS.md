@@ -22,4 +22,4 @@ Started: 2026-11-05. Working copy: `claude-knowledge/` in the AI-Prompts repo (p
 - research-notes/R2-expansion.md — code-exec-MCP, harness design, evals, common-workflows, hooks-guide, support tips, top issues
 - Blocked (not examined): resources.anthropic.com PDFs, modelcontextprotocol.io, aitmpl.com, reddit.com, news.ycombinator.com, hn.algolia.com, discord.com, docs.anthropic.com (read via platform.claude.com instead), sankalp.bearblog.dev, marmelab.com, dev.to
 
-## Status: research complete → synthesis in progress (knowledge/)
+## Status: COMPLETE (2026-11-05) — see COMPLETION_AUDIT.md
