@@ -1,0 +1,402 @@
+TOP 30 RESOURCES — HIGH SCHOOL (GRADES 9–12) DIFFERENTIATED INSTRUCTION
+Compiled 2026-11-05 · Knowledge base: HIGH_SCHOOL_DIFFERENTIATION_KNOWLEDGE/
+
+======================================================================
+READ FIRST: ACCESS LIMITATION
+======================================================================
+The build session's network blocked every education host, including:
+  ASCD, Edutopia, IES/WWC, CAST, NAGC, IRIS, EEF, ERIC, Frontiers, publisher sites, and Wikipedia.
+
+So no resource below was read directly. All findings come from server-side web-search summaries of
+the real pages (about 35 targeted queries), which are recorded in RESEARCH/raw_search_notes/.
+
+Evidence labels used throughout this knowledge base:
+  [SEARCH-OFFICIAL]        government or official-organization source, seen through a search summary
+  [SEARCH-PEER-REVIEWED]   peer-reviewed or academic source, seen through a search summary
+  [SEARCH-SECONDARY]       secondary, vendor, or practitioner source
+
+"URL verified" means the URL itself appeared in search results.
+"URL not verified" means only the citation was confirmed. Look the source up by its title.
+
+Before treating any figure as established, re-read the primary source from a network that allows access.
+
+======================================================================
+RANKING METHOD
+======================================================================
+Each resource is scored 1–10 on seven weighted criteria (the brief's weights):
+  Relevance to HS differentiation        20%
+  Research reliability and evidence      20%
+  Practical classroom usefulness         20%
+  Depth and quality of material          15%
+  Support for struggling AND advanced    10%
+  Authority and expertise                10%
+  Community reputation                    5%
+
+The scores are the Research Director's judgment, based on the evidence gathered.
+Weighted total = sum(score × weight), on a 10-point scale.
+
+Candidate pool and selection:
+  - About 110 candidates screened (see SOURCE_RESEARCH_NOTES.txt).
+  - Some selections pair a primary study with its closely linked companion works (e.g., R09, R27).
+    Each pair counts as one resource.
+  - Ranks changed after the Pass 7 omission check:
+      Added:    peer tutoring, NCII, CTE, and NAGC (listed as near-misses).
+      Replaced: the WWC math guide (grades K–6) with Bloom/Guskey mastery learning.
+
+======================================================================
+RANKED LIST
+(rank · ID · weighted score · scores Rel/Evid/Prac/Depth/S+A/Auth/Comm · type)
+======================================================================
+
+1 · R03 · 8.45 · 9/9/8/8/8/10/5 · Official practice guide
+IES/WWC Practice Guide: Improving Adolescent Literacy: Effective Classroom and Intervention Practices
+(NCEE 2008-4027; panel chair Michael Kamil; grades 4–12)
+URL: ERIC record ED502398 (URL verified via search). The IES page itself was blocked.
+- Key findings [SEARCH-OFFICIAL]: five recommendations, each with an evidence rating.
+    1. Explicit vocabulary instruction.
+    2. Direct, explicit comprehension-strategy instruction.
+    3. Extended discussion of text meaning (wording not fully confirmed).
+    4. Motivation and engagement.
+    5. Intensive, individualized intervention for struggling readers.
+- Struggling students: explicit vocabulary and strategy instruction in every content area,
+  plus intensive intervention given by trained specialists.
+- Advanced students: extended discussion and interpretation tasks.
+- Assignments and assessment: build vocabulary and strategy practice into content assignments.
+- Limitations: published in 2008; several recommendations rest on moderate evidence.
+- For AI prompts: content-area materials should pre-teach Tier 2 and Tier 3 vocabulary,
+  model a comprehension strategy, and include discussion questions.
+
+2 · R05 · 8.40 · 9/8/9/8/7/9/8 · Expert / research synthesis
+Dylan Wiliam, Embedded Formative Assessment (2011; 2nd ed. 2018), and
+Black & Wiliam (1998), "Inside the Black Box" (a synthesis of 250+ studies).
+URL not verified; these are books and articles.
+- Key findings [SEARCH-SECONDARY about primary works]: five strategies.
+    1. Clarify learning intentions and success criteria.
+    2. Elicit evidence of learning (hinge questions, exit tickets, all-student response).
+    3. Give feedback that moves learners forward.
+    4. Activate students as resources for one another.
+    5. Activate students as owners of their learning.
+- Struggling and advanced students: this is the engine for deciding WHO gets WHAT next.
+- Assessment: every lesson needs one or more evidence points tied to a decision rule.
+- Limitations: specific effect-size claims circulating online were not verified.
+- For AI prompts: generate hinge questions whose distractors each reveal a misconception,
+  plus a sort rule (got it / partial / not yet → next activity).
+
+3 · R02 · 8.30 · 10/5/9/9/9/8/9 · Expert framework (book)
+Carol Ann Tomlinson / ASCD: the differentiated instruction model.
+(How to Differentiate Instruction in Academically Diverse Classrooms; The Differentiated Classroom)
+URL not verified (ASCD blocked).
+- Key findings [SEARCH-SECONDARY about the primary framework]:
+    - Differentiate content, process, product, and learning environment.
+    - Base those choices on readiness, interest, and learning profile.
+    - Groups are flexible and data-driven. They are not permanent "high" or "low" groups.
+    - Every student gets "respectful tasks": equally engaging and important.
+- Limitations:
+    - The framework's outcome evidence is modest (see R01, R29).
+    - "Learning profile" is often misread as learning styles, which are unsupported (R17).
+- For AI prompts: tiers must share one objective and be respectful.
+  Never label students. Separate readiness tiers from interest-based choice.
+
+4 · R22 · 8.20 · 9/7/9/8/7/9/8 · Curriculum and research organization
+Digital Inquiry Group (formerly the Stanford History Education Group; independent since January 2024):
+Reading Like a Historian.
+URL verified: https://www.inquirygroup.org
+- Key findings:
+    - Four historical-thinking skills: sourcing, contextualization, close reading, corroboration.
+    - Document-based lessons.
+    - Adapted and scaffolded documents for different reading levels [SEARCH-SECONDARY].
+- Struggling students: modified documents, vocabulary glosses, guiding questions.
+- Advanced students: unmodified primary sources, more documents, corroboration across perspectives.
+- For AI prompts: produce a "same documents, adapted text" set, keeping the historical claim
+  and the evidence intact.
+
+5 · R06 · 8.15 · 7/10/8/8/6/10/7 · Peer-reviewed review
+Dunlosky, Rawson, Marsh, Nathan & Willingham (2013), Improving Students' Learning With Effective
+Learning Techniques. Psychological Science in the Public Interest. DOI not verified.
+- Key findings [SEARCH-PEER-REVIEWED]:
+    - High utility: practice testing (retrieval) and distributed practice.
+    - Moderate utility: elaborative interrogation, self-explanation, interleaving.
+    - Low utility: highlighting, rereading, summarization, the keyword mnemonic, imagery.
+- Applies to every student.
+- For AI prompts: build retrieval warm-ups and spaced review into every differentiated set.
+  Don't generate "highlight and reread" study tasks.
+
+6 · R04 · 8.00 · 7/9/9/7/7/9/7 · Evidence synthesis (official charity)
+Education Endowment Foundation (UK): Teaching & Learning Toolkit.
+URL verified (domain): educationendowmentfoundation.org.uk
+- Key findings [SEARCH-OFFICIAL]: average months of additional progress.
+    - Metacognition and self-regulation: +8 (May 2025 update; earlier listed as +7).
+    - Feedback: +6.
+    - Mastery learning: +5, with weaker effects in programmes longer than about 12 weeks.
+    - These are averages over wide variation.
+- 2026 EEF study (via TES): low attainers progressed similarly in sets and in mixed groups;
+  high attainers progressed about 2 months slower in mixed groups.
+- Limitations: UK context; averages hide big differences in how well programmes were implemented.
+- For AI prompts: include metacognitive prompts (plan, monitor, evaluate) and feedback steps.
+
+7 · R07 · 8.00 · 8/9/7/7/10/9/5 · Peer-reviewed theory and research
+Kalyuga, Ayres, Chandler & Sweller (2003), "The Expertise Reversal Effect," Educational Psychologist.
+Also: Renkl & Atkinson on fading; Salden et al. (2010). URL not verified.
+- Key findings [SEARCH-PEER-REVIEWED]:
+    - Worked examples help novices.
+    - The same guidance becomes redundant or harmful for more expert learners.
+    - Fading the steps beats an abrupt switch to problem solving.
+    - Best established for well-structured domains (math, physics).
+- This resource is the clearest research basis for giving struggling and advanced students
+  DIFFERENT levels of guidance:
+    - Novices: full worked examples, then faded examples.
+    - Advanced: problems first, with examples available on request.
+
+8 · R13 · 8.00 · 9/7/8/8/8/9/6 · Official training module (OSEP-funded)
+IRIS Center, Vanderbilt: "Differentiated Instruction: Maximizing the Learning of All Students."
+URL verified: https://iris.peabody.vanderbilt.edu/module/di/
+- Key findings: free module, about 3 hours, with a certificate.
+  Covers content, process, and product (assessment), with video examples [SEARCH-OFFICIAL].
+- Use: background for teachers who are new to DI.
+
+9 · R26 · 8.00 · 8/7/9/8/8/8/8 · Expert syntheses
+Archer & Hughes (2011), Explicit Instruction. Rosenshine (2012), Principles of Instruction.
+Gradual release (Pearson & Gallagher 1983; Fisher & Frey). URL not verified.
+- Key findings [SEARCH-SECONDARY]:
+    - Lesson sequence: explanation → modeling → guided practice → independent practice.
+    - Small steps, checks for understanding, and a high success rate.
+    - Fisher & Frey's gradual release has four phases (I do / we do / you do together / you do alone).
+      It is recursive, not strictly one-way.
+    - Best for well-structured content.
+- Struggling students: this is the core Tier 1 and Tier 2 approach.
+- For AI prompts: lessons should follow I do / We do / You do, with checks in between.
+
+10 · R08 · 7.95 · 8/10/6/7/9/10/4 · Second-order meta-analysis
+Steenbergen-Hu, Makel & Olszewski-Kubilius (2016), "What one hundred years of research says about
+the effects of ability grouping and acceleration on K–12 students' academic achievement,"
+Review of Educational Research.
+URL verified (full study PDF via a squarespace host in search results).
+- Key findings [SEARCH-PEER-REVIEWED]:
+    - Between-class tracking yields little benefit.
+    - Within-class grouping, cross-grade subject grouping, and special grouping for gifted
+      students are positive.
+    - Acceleration: g = 0.70 versus non-accelerated same-age peers.
+- For AI prompts: favor flexible within-class groups and acceleration paths over fixed tracks.
+
+11 · R01 · 7.85 · 10/8/6/8/7/9/5 · Peer-reviewed systematic review
+Smale-Jacobse, Meijer, Helms-Lorenz & Maulana (2019), "Differentiated Instruction in Secondary
+Education: A Systematic Review of Research Evidence," Frontiers in Psychology 10:2366.
+URL verified: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02366/full
+- Key findings [SEARCH-PEER-REVIEWED]:
+    - Small-to-moderate positive effects on achievement: d ≈ +0.741, or +0.509 excluding one outlier.
+    - The evidence base is scarce and heterogeneous; the authors call it an indication of
+      possible benefit.
+    - The comparison study, Deunk et al. (2018), covers PRIMARY school.
+- Limitations: few high-quality secondary studies.
+- For AI prompts: present DI as promising but dependent on implementation. Don't overclaim.
+
+12 · R10 · 7.85 · 8/7/9/7/8/9/6 · Research center plus studies
+Reis, Renzulli et al.: Curriculum Compacting (National Research Center on the Gifted & Talented, UConn).
+URL verified: gifted.uconn.edu (Curriculum Compacting and Achievement Test Scores, PDF)
+- Key findings [SEARCH-PEER-REVIEWED]:
+    - Teachers cut 40–50% of regular curriculum for talented students with no loss on
+      achievement tests (Reis et al. 1998, Gifted Child Quarterly 42).
+- Limitations: mostly elementary samples. The authors flag secondary use as an open question.
+- For AI prompts: pre-assess, document what is already mastered, and replace practice of mastered
+  content with enrichment or acceleration.
+
+13 · R20 · 7.85 · 8/6/9/8/8/9/7 · ELL frameworks
+WIDA "Focus on Differentiation" (2012) and the SIOP Model (Center for Applied Linguistics;
+Echevarría, Vogt & Short; secondary edition: Making Content Comprehensible for Secondary English Learners).
+URLs verified: https://cal.org/siop/research/ ; WIDA Focus PDF (Wyoming DOE host)
+- Key findings:
+    - Write language expectations for each English Language Proficiency (ELP) level with the
+      WIDA Can Do Descriptors.
+    - Pair those expectations with scaffolds.
+    - Check each student's domain profile (reading, writing, listening, speaking); levels differ by domain.
+    - SIOP: 8 components, 30 features. Its evidence is supportive but largely developer-linked
+      [SEARCH-OFFICIAL / SECONDARY].
+- Core rule: lower the LANGUAGE demand, not the CONTENT's cognitive demand.
+
+14 · R24 · 7.85 · 10/5/9/8/8/6/9 · Practitioner program (evaluations commissioned by the program)
+Modern Classrooms Project: blended, self-paced, mastery-based model.
+URL verified: https://modernclassrooms.org (2018–21 independent program evaluations)
+- Key findings [SEARCH-SECONDARY]:
+    - Video instruction, self-pacing within a unit, and mastery checks.
+    - 89% of MCP teachers report meeting students at different levels, versus 44% of peers.
+    - 2019–20 evaluation: 55 teachers, 1,929 students.
+    - A University of Kentucky dissertation reports gains in math achievement and self-efficacy.
+- Limitations:
+    - Opt-in samples; commissioned evaluations; no randomized trial.
+    - One physics study: students who needed many mastery-check attempts had lower test averages.
+
+15 · R11 · 7.80 · 9/10/6/6/7/9/6 · Randomized controlled trials
+UChicago Education Lab: Saga high-dosage math tutoring RCTs (Guryan, Ludwig et al.).
+URLs verified: saga.org/impact/research ; overdeck.org research summary ; urbanlabs.uchicago.edu PDF
+- Key findings [SEARCH-PEER-REVIEWED]:
+    - About 2,600–2,700 students in grades 9–10 per study.
+    - Intent-to-treat effects: math test +0.12 SD, math GPA +0.22.
+    - Effects for students actually treated: +0.28 and +0.52.
+    - Math course failures fell 49% (trial 1). Little fade-out.
+- Limitations: needs trained tutors and scheduled time. Chicago, 2013–15.
+- For AI prompts: the AI should support the tutor (problem sets, diagnostics), not replace them.
+
+16 · R18 · 7.70 · 8/6/9/7/9/8/7 · Rigor framework
+Webb's Depth of Knowledge (2002) and Hess Cognitive Rigor Matrix.
+URLs verified: ASCD blog "What exactly is Depth of Knowledge"; UConn Project Bump Up NAGC 2023 slides
+- Key findings:
+    - DOK levels: recall; skills and concepts; strategic thinking; extended thinking.
+    - The popular "DOK wheel" misrepresents Webb's model.
+    - Hess matrices can raise a task's complexity for advanced learners.
+- For AI prompts: label items by DOK. Raise DOK for enrichment rather than adding more items.
+
+17 · R27 · 7.65 · 8/7/8/7/8/9/6 · Classic research plus reviews
+Bloom (1984), "The 2 Sigma Problem"; mastery learning; Brookhart & Guskey et al. (2016),
+"A Century of Grading Research" (Review of Educational Research).
+URLs verified: Bloom 1984 PDF (gwern mirror) ; uknow.uky.edu (Guskey)
+- Key findings:
+    - Mastery learning cycle: formative check → correctives for students who haven't mastered;
+      enrichment for students who have.
+    - The 2-sigma magnitude is contested; replications are smaller.
+    - Standards-based grading and retakes: definitions vary; secondary effect evidence is thin.
+- For AI prompts: generate parallel correctives and enrichment for each formative check,
+  plus a parallel reassessment form.
+
+18 · R15 · 7.55 · 7/9/7/7/8/9/4 · Meta-analysis
+Sinha & Kapur (2021), "When Problem Solving Followed by Instruction Works: Evidence for Productive
+Failure," Review of Educational Research. DOI 10.3102/00346543211019105 (seen in search results).
+- Key findings [SEARCH-PEER-REVIEWED]:
+    - 53 studies, 166 comparisons.
+    - Problem solving before instruction beats instruction first: g = 0.36
+      (0.37–0.58 when the productive-failure design is followed closely).
+    - Younger learners and domain-general skills favored instruction first.
+    - Students need some prior knowledge.
+- For AI prompts: offer a challenge problem BEFORE instruction for ready students.
+  Students missing prerequisites get explicit instruction first.
+
+19 · R23 · 7.55 · 9/5/9/7/7/7/10 · Practitioner-research framework
+Peter Liljedahl, Building Thinking Classrooms in Mathematics (2020).
+URL verified: https://www.buildingthinkingclassrooms.com
+- Key findings [SEARCH-SECONDARY]:
+    - Vertical non-permanent surfaces (whiteboards on walls).
+    - Visibly random groups of 3.
+    - Thinking tasks.
+    - Hints and extensions given to keep each group in "flow" (in-the-moment differentiation).
+- Limitations: peer-reviewed effect sizes not located. Very popular with high school math teachers.
+
+20 · R12 · 7.50 · 8/5/8/8/8/9/8 · Official framework
+CAST: UDL Guidelines 3.0 (July 2024).
+URL verified: https://udlguidelines.cast.org/
+- Key findings:
+    - Three principles: engagement (why), representation (what), action and expression (how).
+    - Version 3.0 adds attention to identity, bias, and systemic barriers.
+    - The stated goal is now "learner agency."
+- Evidence [SEARCH-PEER-REVIEWED]:
+    - Capp 2017: positive effects on the learning process; outcomes not demonstrated.
+    - King-Sears et al. 2023: 20 studies, of which a critique notes only 2 were K-12.
+- For AI prompts: build options into the base design (multiple representations and response modes)
+  before tiering.
+
+21 · R17 · 7.50 · 7/10/7/6/5/10/6 · Peer-reviewed review (what NOT to do)
+Pashler, McDaniel, Rohrer & Bjork (2008), "Learning Styles: Concepts and Evidence," PSPI.
+URL verified: digitalcommons.usf.edu/psy_facpub/1765
+- Key finding [SEARCH-PEER-REVIEWED]: virtually no evidence for "meshing" (matching instruction
+  to a learning style).
+- For AI prompts: forbid differentiating by visual, auditory, or kinesthetic learning styles.
+  Use readiness, interest, and accessibility instead.
+
+22 · R09 · 7.40 · 8/8/6/7/8/9/5 · Research compendium
+A Nation Empowered (2015; Belin-Blank Center; Assouline, Colangelo, VanTassel-Baska,
+Lupkowski-Shoplik) and Steenbergen-Hu & Moon (2011), Gifted Child Quarterly 55:39–53.
+URL verified: journals.sagepub.com/doi/10.1177/0016986210383155
+- Key findings:
+    - Acceleration is "the most effective curriculum intervention for gifted children."
+    - Positive effects on academic achievement; social-emotional effects slightly positive.
+- High school forms: subject acceleration, AP, dual enrollment, credit by exam,
+  compacted course sequences.
+
+23 · R14 · 7.40 · 7/9/8/6/6/9/4 · RCT (grade 7)
+Rohrer et al. (2020): interleaved mathematics practice, cluster RCT. IES-funded; reviewed by WWC.
+URL verified: https://ies.ed.gov/ncee/wwc/Study/88770
+- Key finding [SEARCH-OFFICIAL]: 54 classes, 787 students. Unannounced test 61% vs 38%, d = 0.83.
+- For AI prompts: practice sets should mix problem types once students have learned them.
+
+24 · R21 · 7.40 · 8/6/8/7/8/9/5 · Official professional standards
+ACTFL Performance Descriptors and NYSED world-language performance indicators.
+URL verified: https://www.actfl.org/educator-resources/actfl-performance-descriptors
+- Key findings:
+    - Ranges: Novice, Intermediate, Advanced.
+    - Modes: interpersonal, interpretive, presentational.
+    - Design tasks at the learner's current range that push toward the next range.
+    - Use proficiency-oriented analytic rubrics.
+- For AI prompts: world-language tasks are differentiated by proficiency range, not by grade level.
+
+25 · R16 · 7.35 · 8/8/7/6/8/9/3 · Meta-analysis
+Lou et al. (1996), "Within-Class Grouping: A Meta-Analysis," Review of Educational Research 66(4).
+URL not verified.
+- Key findings [SEARCH-PEER-REVIEWED]:
+    - Small-group work vs no grouping: +0.17.
+    - Same-ability vs mixed-ability groups: +0.12 overall.
+    - Groups of 5 or more benefit little.
+    - Low-ability students reportedly did better in mixed groups.
+    - Methodological critiques exist.
+- For AI prompts: plan groups of 2–4. Vary the grouping basis by purpose.
+
+26 · R28 · 7.25 · 9/4/9/7/7/6/10 · Practitioner media
+Cult of Pedagogy (Jennifer Gonzalez) and Catlin Tucker, "The Balance" (blended learning,
+station rotation). Also relevant: Prep Period Podcast (high school); The Unteachables.
+URL verified: cultofpedagogy.com. Catlin Tucker episode via Pocket Casts.
+- Key findings [SEARCH-SECONDARY]: practical, low-prep differentiation; station rotation;
+  examples by grade band. Practitioner opinion, not research.
+
+27 · R19 · 7.20 · 8/5/8/7/8/8/7 · Enrichment framework
+Sandra Kaplan: Depth & Complexity (USC).
+URL verified: sites.usc.edu/gifteded
+- Key findings:
+    - Depth: mastery of the discipline (patterns, rules, ethics, big ideas).
+    - Complexity: connections across time, perspectives, and disciplines.
+    - The icons are only part of the framework. Usable K–12, all subjects.
+- For AI prompts: enrichment means a deeper or more connected task, not a longer one.
+
+28 · R30 · 7.05 · 9/6/8/5/7/7/6 · Emerging research
+Evidence on the quality of AI-generated differentiation materials.
+URLs: arxiv.org/pdf/2405.00864 verified; the LDRP study was seen via EdWeek coverage.
+- Key findings:
+    - Learning Disabilities Research & Practice (Nov 2025): six AI tools, including Diffit,
+      generated 410 passages. Passages requested at grade 3 averaged grade 5.5–6.3 readability.
+    - A vendor (MagicSchool) reports grade-level alignment about two-thirds of the time.
+    - GPT-4 math multiple-choice sets: 14 of 20 judged valid; one answer key miscalculated.
+    - Proportional-reasoning study: ChatGPT-4 got 10 of 14 correct and reproduced common
+      student errors.
+- For AI prompts: require readability self-checks, answer-key verification, and teacher review.
+
+29 · R25 · 6.85 · 8/8/7/5/5/8/4 · Meta-analysis
+Wagner, Gegenfurtner & Urhahne (2020): flipped classroom in secondary education.
+URL verified: econtent.hogrefe.com/doi/10.1024/1010-0652/a000274
+- Key finding [SEARCH-PEER-REVIEWED]: 25 articles, N = 2,323, d = 0.42 versus traditional
+  instruction. Effects were larger in shorter interventions.
+- Use: frees class time for small groups. Watch for students without home access.
+
+30 · R29 · 6.70 · 9/4/7/6/7/7/8 · Critical debate
+Delisle (2015), "Differentiation Doesn't Work" (Education Week); rebuttals by Tomlinson,
+Wiggins, and McTighe; Fordham Institute (2008) teacher survey.
+URL verified: edweek.org/teaching-learning/opinion-differentiation-doesnt-work/2015/01
+- Key findings:
+    - 83% of teachers said DI is somewhat or very difficult to implement.
+    - Hertberg-Davis: "no one was actually differentiating," and regular-classroom DI is weak
+      for challenging the most able students.
+    - Rebuttals argue DI works when implemented in a manageable way.
+- Why it is included: it keeps prompts realistic about teacher workload and stops them overclaiming.
+
+======================================================================
+NEAR-MISSES (strong, but outside the top 30)
+======================================================================
+- IES/WWC Assisting Students Struggling with Mathematics (2021; grades K–6, so limited for high school).
+- IES/WWC Providing Reading Interventions for Grades 4–9 (2022).
+- National Center on Intensive Intervention (NCII), data-based individualization.
+- Peer tutoring meta-analyses (Bowman-Perrott; Heliyon 2019, secondary math).
+- NAGC Pre-K–12 Gifted Programming Standards (2019).
+- Visible Learning MetaX (differentiation listed at 0.58).
+- Building Thinking Classrooms practitioner books.
+- POGIL (science guided inquiry).
+- Cobb County and Berks IU district tiering guides.
+- Edutopia (John McCarthy, "Too Many Students and Not Enough Time").
+- SREB literature-circle example.
+- Federal "Implementing MTSS in Secondary Schools" guide.
+- iCEV and ISBE CTE differentiation materials.
+- Frontiers (2026) ELL differentiation meta-analysis (g = 0.78).

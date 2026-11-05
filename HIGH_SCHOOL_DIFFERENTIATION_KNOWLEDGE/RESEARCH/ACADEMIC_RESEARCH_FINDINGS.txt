@@ -1,0 +1,107 @@
+ACADEMIC RESEARCH FINDINGS — CROSS-VALIDATED (Pass 5)
+Compiled 2026-11-05. All findings come from search summaries. Resource IDs (R##) refer to TOP_30_RESOURCES.txt.
+
+EVIDENCE GRADES
+  STRONG    = multiple meta-analyses or RCTs that agree, including secondary-age samples.
+  MODERATE  = a meta-analysis or RCT with a limited secondary sample, or results that mostly agree.
+  EMERGING  = few or small studies, or a single study.
+  PRACTITIONER = teacher experience or program reports.
+  EXPERT    = framework or professional recommendation.
+  UNVERIFIED / CONTESTED = noted as such.
+
+Each finding is listed as: finding · grade · sources · notes.
+
+1. Retrieval practice and spaced practice improve retention.
+   STRONG · R06 Dunlosky 2013; R04 EEF · applies to all students.
+
+2. Interleaving practice, once problem types have been learned, improves later performance.
+   MODERATE–STRONG · R14 Rohrer 2020 (d = 0.83, grade 7) · in high school math, apply it in mixed-review sets.
+
+3. Worked examples help novices. Guidance should fade as expertise grows (expertise reversal).
+   STRONG in well-structured domains · R07 · this is the core research basis for giving
+   different students different amounts of guidance.
+
+4. Productive failure (problem first, then instruction) beats instruction-first on average,
+   but not for students without prior knowledge.
+   MODERATE · R15 (g = 0.36) · reconcile with #3: the right sequence depends on readiness.
+
+5. Explicit instruction is effective for well-structured skills, especially for struggling learners.
+   MODERATE–STRONG (expert consensus plus research on students with disabilities) · R26, R03.
+
+6. Formative assessment with feedback raises achievement.
+   MODERATE–STRONG · R05, R04 (feedback +6 months) · Wiliam's specific effect sizes were NOT verified.
+
+7. Metacognition and self-regulation instruction helps.
+   MODERATE–STRONG · R04 (+8 months).
+
+8. Differentiated instruction in secondary school has small-to-moderate positive effects,
+   and the evidence base is thin.
+   EMERGING–MODERATE · R01 (d ≈ 0.51–0.74) · heavily dependent on implementation (R29).
+
+9. Within-class small groups help modestly. Groups of 5 or more benefit little.
+   Effects of mixed vs same-ability groups differ by student level.
+   MODERATE, CONTESTED · R16 (+0.17; +0.12), R08, EEF 2026 · low attainers may do better
+   in mixed groups; high attainers in same-ability groups or sets.
+
+10. Between-class tracking gives little benefit. Acceleration benefits high-ability learners.
+    STRONG for acceleration (R08 g = 0.70; R09) · tracking effects are near zero for
+    average and low students (Kulik 1982).
+
+11. Curriculum compacting removes 40–50% of already-mastered content with no achievement loss.
+    MODERATE (mostly elementary samples) · R10.
+
+12. High-dosage tutoring (in school, frequent, by trained tutors) raises high school math outcomes.
+    STRONG (RCTs) · R11 · intent-to-treat effects are smaller than effects on students actually treated.
+
+13. Peer tutoring has moderate-to-large academic benefits. In-school programs beat out-of-school ones.
+    MODERATE · near-miss (Bowman-Perrott; Heliyon 2019).
+
+14. Mastery learning helps (EEF +5 months, weaker beyond about 12 weeks). Bloom's 2-sigma magnitude is contested.
+    MODERATE · R27, R04.
+
+15. Flipped classrooms in secondary school: d = 0.42; effects larger in shorter interventions.
+    MODERATE · R25.
+
+16. UDL is a sound design framework, but outcome evidence for K-12 is thin.
+    EMERGING · R12 (Capp; King-Sears).
+
+17. Matching instruction to learning styles is NOT supported.
+    STRONG (negative evidence) · R17.
+
+18. Adolescent literacy: explicit vocabulary and comprehension-strategy instruction,
+    discussion, motivation, and intensive intervention.
+    MODERATE–STRONG (rated per recommendation) · R03.
+
+19. ELL support: language scaffolds keyed to proficiency level, while keeping the content's cognitive demand.
+    MODERATE (SIOP evidence is developer-linked) · R20 · 2026 meta-analysis g = 0.78 (needs verification).
+
+20. AI tools tend to produce text ABOVE the requested reading level.
+    AI-generated math items are mostly valid but contain errors.
+    EMERGING · R30.
+
+21. Self-paced, mastery-based blended models get positive teacher and student reports.
+    PRACTITIONER / EMERGING · R24 · no RCT.
+
+22. Building Thinking Classrooms increases engagement.
+    PRACTITIONER / EXPERT · R23 · no peer-reviewed effect sizes located.
+
+23. Differentiated homework (choice of difficulty level) raises completion and attitudes.
+    Achievement effects are mixed.
+    EMERGING · theses and practitioner studies.
+
+24. Standards-based grading and retakes: effects in secondary school are unclear, and definitions vary.
+    EMERGING / CONTESTED · R27.
+
+DISAGREEMENTS (kept, not resolved)
+- Is DI effective? Supportive reviews (R01) vs critics (R29). These positions are reconciled by
+  "it works when implemented feasibly" — that is an interpretation, not a finding.
+- Worked examples first vs productive failure first: the answer depends on prior knowledge (R07 vs R15).
+- Mixed vs same-ability groups: depends on student level and purpose (R16, EEF 2026).
+- Leveled texts: they improve access, but over-reliance may under-prepare students for complex text
+  (ELA practitioner sources). Leveled text should be a ramp toward the grade-level text.
+- Mastery learning's effect size: Bloom's 1–2 SD vs smaller modern estimates.
+
+GRADE-LEVEL CONTEXT NOTES
+- Elementary-origin evidence: compacting (R10), WWC math intervention guide, Deunk 2018, productive-failure moderators.
+- Middle-school evidence: interleaving RCT (grade 7), McDaniel et al. 2011.
+- Directly secondary or high school: R01, R11, R25, Kulik 1982, R03 (grades 4–12), R24, R22, R21.

@@ -1,0 +1,44 @@
+PRACTITIONER & COMMUNITY FINDINGS (Pass 4)
+Compiled 2026-11-05. These findings are anecdotal or reported by programs. Don't treat popularity as proof of effectiveness.
+Access limits: Reddit was reached only through mirror snapshots. Discord, Facebook, and X were not accessible. YouTube and podcasts were visible only through search listings.
+
+REPEATED TEACHER COMPLAINTS
+- "Differentiation looks great in theory, collapses under real class sizes, real time limits, and real burnout." (Reddit, r/teaching and r/Teachers, via mirror)
+- Administrators push small groups without providing the staffing to run them. Managing several groups at once is hard in high school classes. (Reddit)
+- High school teachers carry 100–180+ students across 5–6 periods, on schedules driven by credits. (MTSS coordinator sources)
+- Research on high school teachers in Quebec identified the main obstacles as the number of students and groups, and a lack of time and resources.
+- In a 2008 Fordham survey, 83% of teachers said differentiation was somewhat or very difficult to implement.
+
+WHAT TEACHERS REPORT WORKS (and stays manageable)
+1. Default to low-prep moves:
+   - hinge questions with on-the-spot regrouping
+   - "must do / may do" lists
+   - tiered exit tickets
+   - extension questions placed at the bottom of the standard sheet
+2. Build a bank of tiered tasks gradually (one unit at a time) instead of rebuilding them every unit.
+3. Use learning teams of 4–5 instead of many separate groups (Edutopia, McCarthy). Research (Lou 1996) suggests 2–4 per group is better for learning.
+4. Tier only the major projects. Combine them with product choice: RAFT, choice boards.
+5. Use "Mild / Medium / Spicy" problem sets: one handout, three entry points, and students self-select with teacher guidance. (Georgia CTM 2024; low-floor/high-ceiling practice)
+6. Building Thinking Classrooms: random groups of 3 at vertical whiteboards. The teacher differentiates in the moment with hints and extensions. Very popular with high school math teachers.
+7. Self-paced mastery units (Modern Classrooms): teacher-made instructional videos free the teacher for small-group and 1:1 help. Students move on after a mastery check.
+8. Station rotation (Catlin Tucker): a teacher-led station acts as the small-group reteach. Other stations handle practice, online work, and collaboration.
+9. Literature circles with format choice (print, e-book, audio) and grouping by text level, with a common culminating project. (SREB, Georgia high school example)
+10. Tier 2 intervention staff pull students out for missing foundational skills, so class time can stay focused on grade-level work. (This depends on the school's staffing.)
+
+IMPLEMENTATION PITFALLS THAT PRACTITIONERS NOTE
+- Turning "easier" into "less work," or "advanced" into "more work."
+- Fixed groups that become de facto tracks.
+- Differentiating by learning style (unsupported; see R17).
+- Giving leveled texts forever, without a path back to grade-level text.
+- Choice boards whose options don't line up with the objective.
+- Retake policies that cause students to under-prepare the first time (an opinion that appears in critiques).
+
+TEACHER-RECOMMENDED RESOURCES (seen in community and search listings)
+Cult of Pedagogy; Catlin Tucker (The Balance; station rotation); Building Thinking Classrooms; Modern Classrooms Project; Edutopia; Digital Inquiry Group (Reading Like a Historian); IRIS Center modules; Byrdseed (gifted); Prep Period Podcast (high school); The Unteachables Podcast (a realistic view of DI).
+
+LESSER-KNOWN BUT VALUABLE
+- Hess Cognitive Rigor Matrix: raises the complexity of a task without adding to its length.
+- Kaplan Depth & Complexity: thinking tools for enrichment in any subject.
+- ACTFL performance ranges: world-language differentiation by proficiency.
+- NCII data-based individualization: for students who don't respond to Tier 2 support.
+- Productive failure tasks: offer advanced students a challenge-first option.

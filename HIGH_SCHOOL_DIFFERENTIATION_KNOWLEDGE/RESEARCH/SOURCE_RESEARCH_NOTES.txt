@@ -1,0 +1,135 @@
+SOURCE RESEARCH NOTES: CANDIDATE POOL, ACCESS LOG, METHOD
+Compiled 2026-11-05
+
+ACCESS LOG
+- Direct fetching was checked with curl on 2026-11-05. Every host below was blocked by the session's network policy:
+  ascd.org, edutopia.org, ies.ed.gov, cast.org, udlguidelines.cast.org, nagc.org, iris.peabody.vanderbilt.edu, cultofpedagogy.com, rti4success.org, intensiveintervention.org, files.eric.ed.gov, researchgate.net, educationendowmentfoundation.org.uk, retrievalpractice.org, learningscientists.org, understood.org, khanacademy.org, ncld.org, davidsongifted.org, ccsso.org, en.wikipedia.org.
+- Reddit, Discord, Facebook, and X were blocked in earlier passes of this project. Community material was reached only through search snippets and mirror snapshots.
+- github.com was reachable. It held no relevant authoritative differentiation material.
+- Research channel used: about 35 server-side web searches. Their summaries are drawn from real pages but are NOT verbatim. The raw notes are in RESEARCH/raw_search_notes/ (wave1-2, wave3-4, wave5).
+
+PASSES COMPLETED
+P1 Discovery: candidate pool below (about 110 items).
+P2 Expansion: followed citations, e.g. Deunk 2018 → Smale-Jacobse 2019, Lou 1996, Steenbergen-Hu 2016, Kulik 1982, Salden 2010, Rohrer 2020, and the Sinha & Kapur rebuttals.
+P3 Deep investigation: targeted searches for each selected resource's actual content. This depth is limited, because the source pages couldn't be opened.
+P4 Community validation: Reddit mirrors, Edutopia, podcasts, a Quebec teacher study.
+P5 Cross-validation: see ACADEMIC_RESEARCH_FINDINGS.txt (evidence grades and disagreements).
+P6 Ranking: TOP_30_RESOURCES.txt (weighted scoring).
+P7 Omission check: added CTE, NCII DBI, peer tutoring, NAGC standards, productive failure, interleaving, AI-accuracy studies, and world languages. Reranked afterward.
+
+CANDIDATE POOL (screened through search results; S = selected for top 30; N = near-miss; X = excluded, with reason)
+A. Research syntheses and studies
+ S  Smale-Jacobse et al. 2019 (Frontiers), secondary DI systematic review
+ N  Deunk et al. 2018, primary DI meta-analysis (wrong grade band)
+ N  Visible Learning MetaX "differentiation" 0.58 (aggregation methods are contested)
+ X  Academia.edu math DI meta-analysis (internal inconsistency: negative mean difference described as an improvement)
+ X  ResearchGate 2024 "Examining the effectiveness of DI" meta-analysis (not verifiable; host blocked)
+ N  Frontiers 2026 ELL differentiation meta-analysis g = 0.78
+ S  Steenbergen-Hu, Makel & Olszewski-Kubilius 2016 (RER), grouping and acceleration
+ N  Kulik & Kulik 1982, secondary ability grouping
+ S  Lou et al. 1996, within-class grouping
+ N  Puzio & Colby 2010, within-class grouping in reading (cited, not retrieved)
+ N  Blatchford et al. 2001, classroom grouping (UCL)
+ N  EEF 2026 setting vs mixed-attainment trial (via TES)
+ S  Steenbergen-Hu & Moon 2011 (GCQ), acceleration (bundled into R09)
+ S  A Nation Empowered 2015 (R09)
+ N  A Nation Deceived 2004 (superseded by 2015)
+ S  Reis et al. curriculum compacting studies, 1993 and 1998 (R10)
+ S  Kalyuga et al. 2003, expertise reversal (R07)
+ N  Salden et al. 2010, adaptive fading (bundled)
+ N  Nievelstein et al. 2013, boundary conditions in ill-structured domains
+ S  Dunlosky et al. 2013 (R06)
+ N  McDaniel, Agarwal et al. 2011, test-enhanced learning in middle school science
+ S  Rohrer et al. 2020, interleaving RCT (R14)
+ S  Sinha & Kapur 2021, productive failure (R15)
+ S  Pashler et al. 2008, learning styles (R17)
+ S  Wagner et al. 2020, flipped classroom in secondary (R25)
+ N  Aydin et al. 2021, flipped learning meta-analysis (all levels)
+ S  Bloom 1984, 2 Sigma (R27)
+ N  nintil.com review of the 2 Sigma claims (blog; useful skepticism)
+ S  Brookhart, Guskey et al. 2016, Century of Grading Research (R27)
+ S  Saga tutoring RCTs (R11)
+ N  Accelerate tutoring meta-analysis summary (Saga ES .18/.40)
+ S  Capp 2017 and King-Sears et al. 2023, UDL meta-analyses (in R12)
+ N  2024 UDL preK-12 systematic review (32 studies)
+ X  UDL meta-analysis reporting ES 3.56 (implausible; extreme heterogeneity)
+ S  LDRP 2025, AI leveled-text readability study (R30)
+ S  arXiv 2405.00864, GPT-4 math MCQ validity (R30)
+ N  arXiv 2505.01903, LookAlike consistent distractors
+ N  Journal of Pedagogical Research 2025, chatbots and proportional reasoning (bundled into R30)
+ N  Bowman-Perrott, peer tutoring single-case meta-analysis
+ N  Heliyon 2019, secondary math peer tutoring review
+ N  UCL 2026, translanguaging and GenAI RCT
+ N  Quebec (Scientifique en chef) study, more inclusive high school teaching
+ N  Hertberg-Davis (UVA) DI studies (bundled into R29)
+ N  Fordham 2008, teacher survey (bundled into R29)
+ X  Several master's theses on differentiated homework (Montana, Payson AZ, St. John Fisher): kept as weak practice evidence only
+ N  University of Galway, differentiated homework practitioner study
+ N  UKY dissertation on Modern Classrooms (in R24)
+ N  Montana State thesis, high school physics mastery checks
+
+B. Official and authoritative organizations, guides, frameworks
+ S  IES/WWC Improving Adolescent Literacy 2008 (R03)
+ N  IES/WWC Assisting Students Struggling with Mathematics 2021 (K–6)
+ N  IES/WWC Providing Reading Interventions Gr 4–9, 2022
+ N  IES/WWC RtI math guide 2009 (superseded)
+ S  EEF Teaching & Learning Toolkit (R04)
+ S  CAST UDL Guidelines 3.0 (R12)
+ S  IRIS Center DI module (R13)
+ N  IRIS personalized learning and other modules
+ N  NCII data-based individualization
+ N  Federal "Implementing MTSS in Secondary Schools" guide
+ N  NAGC Pre-K–12 Programming Standards 2019
+ S  WIDA Focus on Differentiation 2012 (R20)
+ S  CAL SIOP and its secondary edition (R20)
+ S  ACTFL Performance Descriptors (R21)
+ N  NYSED world-language performance indicators (bundled into R21)
+ N  CARLA (UMN) assessment institute
+ N  CAL STARTALK performance assessment resources
+ S  Digital Inquiry Group / SHEG (R22)
+ N  POGIL Project (official materials not retrieved)
+ S  Webb DOK (R18); UConn Project Bump Up (expanded Webb)
+ S  Kaplan Depth & Complexity, USC (R19)
+ N  Texas Association for the Gifted (Tempo) depth & complexity articles
+ N  ISBE "IEPs, 504s & Differentiation in the CTE Classroom"
+ N  SREB ELA promising practices (literature circles)
+ N  Kentucky DOE MTSS implementation bulletin
+ N  Region 6 Comprehensive Center MTSS cross-story analysis
+
+C. Practitioner sources
+ S  Tomlinson / ASCD (R02)
+ S  Wiliam (R05)
+ S  Archer & Hughes; Rosenshine; Fisher & Frey (R26)
+ S  Liljedahl, Building Thinking Classrooms (R23)
+ S  Modern Classrooms Project (R24)
+ S  Cult of Pedagogy; Catlin Tucker (R28)
+ N  Edutopia: McCarthy, "Too Many Students and Not Enough Time"; Wheeler, student-centered math
+ N  Cobb County tiered assignments guide; CBSD tiered activity packet; Berks IU planning tiered assignments
+ N  Keansburg choice boards presentation; Shake Up Learning learning menus; BGSU blog
+ N  ORIGO / Make Math Moments / Georgia CTM 2024 low-floor high-ceiling materials ("Mild/Medium/Spicy")
+ N  Byrdseed (gifted differentiation)
+ N  Prep Period Podcast; The Unteachables Podcast; Teach on Teach Strong; Teach 4 the Heart
+ N  Wipebook (Building Thinking Classrooms summaries)
+ N  Structural Learning (EEF guide, explicit instruction summaries)
+ N  innerdrive / Chartered College (Rosenshine)
+ N  iCEV CTE differentiation blog
+ N  Texas LD Center summaries
+ X  flipeducation.ai teaching wiki; open-exam-prep study guides; OpenEduCat tool pages (vendor or AI-generated; unsourced effect sizes)
+ X  Scribd uploads of unknown provenance
+
+D. Community
+ N  Reddit r/Teachers, r/teaching, r/education (via mirror snapshots only)
+ N  truthforteachers.com
+ N  Edutopia comment threads
+ X  Discord, Facebook, X/Twitter (inaccessible; no claims made)
+
+E. Technology
+ S  AI-accuracy studies (R30)
+ N  MagicSchool grade-level alignment post (vendor)
+ N  Diffit reviews (vendor-adjacent)
+ N  Educators Technology "AI tools for differentiated instruction" (2026)
+ N  Khan Academy MTSS-in-secondary blog
+ N  Branching Minds and Illuminate MTSS secondary blogs (vendor)
+ X  AI-generated "best tools" ranking sites (theairankings, aiera)
+
+Count: about 110 candidates screened, 30 selected, about 60 near-misses, about 15 excluded.
