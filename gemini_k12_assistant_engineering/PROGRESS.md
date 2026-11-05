@@ -9,7 +9,9 @@ Started 2026-11-05 (Claude Code cloud session). Separate from claude-knowledge/ 
 
 ## Passes
 - [x] Pass 1 validation: 0/30 directly fetchable (raw_notes/pass1_access_log.md)
-- [~] Pass 2/3 via WebSearch waves 1–3 + GitHub agent (raw_notes/search_wave*.md)
-- [ ] Pass 4 cross-reference → 01_RESEARCH/research_findings.md
-- [ ] Pass 5 synthesis → 02–05
-- [ ] Pass 6 testing → desk-review only; live-test protocol written for later
+- [x] Pass 2/3 via ~30 WebSearch queries + GitHub agent (raw_notes/)
+- [x] Pass 4 cross-reference → 01_RESEARCH/research_findings.md
+- [x] Pass 5 synthesis → 02–05
+- [x] Pass 6 → desk review only (06/evaluation_results.md); live-test protocol ready
+
+## Status: v1.0 complete 2026-11-05. Pending user decision: FUTURE_ACCESS.md Option A (root CLAUDE.md pointer).
