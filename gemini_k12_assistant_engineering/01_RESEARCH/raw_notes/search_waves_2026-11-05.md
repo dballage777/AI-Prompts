@@ -1,0 +1,142 @@
+# Raw notes: WebSearch waves (2026-11-05)
+**Evidence tier: SEARCH.** These are Google-side search summaries of pages that this session couldn't fetch directly. Use them for orientation and as leads to verify. Don't quote them as verified text. Where a primary-source URL appeared in the results, it is listed.
+
+## Gemini product: Gems, skills, the education edition
+- **Gems structure** (third-party guides): a Gem has a Name, Description, Instructions, a default tool, and Knowledge files.
+  - Gemini can rewrite your instructions for you (the "wand" icon).
+  - Commonly cited limit: up to 10 knowledge files. Google's 2024 announcement says 10. Size claims (100MB) aren't verified, and some sources say no Gem-specific limit is formally documented.
+  - Knowledge files and instructions share the context window. Third-party figures: 32k (no plan), 128k (AI Plus), 1M (Pro/Ultra), unverified.
+  - When a Gem is shared, recipients can see its instructions and file names.
+  - Drive-linked knowledge files stay current. Gems sometimes ignore their knowledge files (multiple anecdotal reports).
+  - A tip reported by one source: tell the Gem at the top of its instructions to consult the attached files.
+  - Sources: workspace.google.com/blog (new Gemini Gems, deeper knowledge); 9to5google 2024-11-12; fast.io; felloai.
+- **No published character limit for Gem instructions** (two secondary sources).
+- **Gems are being replaced by skills** (2026). Confirmed by multiple outlets plus official help pages listed in search results: support.google.com/gemini/answer/18560919 and knowledge.workspace.google.com/admin/generative-ai/gemini-app/about-the-transition-to-skills.
+  - Skills began rolling out in the Gemini app around Oct 13, 2026 (one source says Sep 30).
+  - **Personal accounts:** Nov 17, 2026, Gems become read-only and are migrated to *inactive draft skills*. Dec 17, 2026, Gems are removed.
+  - **Work/school accounts:** "in 2027". Some sources say Help states work/school accounts can't create skills yet.
+  - Skills use the open **SKILL.md** format: a lowercase-hyphenated name; SKILL.md at the root of an uploaded folder or zip.
+  - Ways to create a skill: with Gemini, from a template, with a manual form (name, description, instructions), or by upload (Settings > Skills > Upload).
+  - Invoked with `/` (or `@`) inside any chat. Gemini may also apply a skill automatically. Skills stack (several per chat), whereas Gems open a separate chat.
+  - Skill sharing: "coming soon". A 100MB file limit (one report). Skills don't sync between the Gemini app and Workspace apps.
+  - Gems assigned through **Classroom** work differently: Classroom imports the supported attachments as knowledge files. Personal accounts can't access Gems assigned through Classroom, and one source says they stop working for personal-account students from Nov 17, 2026.
+- **Gemini for Education** (edu.google.com; Workspace Updates 2025-06-20):
+  - The Gemini app is a Core service under the Workspace for Education ToS for **all ages**, as of June 2025.
+  - Under-18 users get stricter content filters and an AI-literacy onboarding.
+  - Admins control access by OU/group in the Admin console (Apps > Google Workspace > Settings for Generative AI).
+  - Some features are limited to users marked 18+ in age-based access settings. Example: Gemini in Classroom teacher tools.
+  - Image generation for all ages was added Dec 2025, with limits for under-18 users.
+- **Data protection** (Google admin guide and guardian guide, via search): "Your chats are not reviewed by human reviewers or otherwise used to improve generative AI models". "No Google Workspace for Education data is shared or used to improve or train AI models." No ads in core services. Google claims support for COPPA and FERPA compliance and lists ISO 27001/27701/42001.
+  - **Contrast:** the consumer Gemini app (personal account) is governed differently. It may use chats for training or human review depending on settings.
+- **Gemini in Classroom:**
+  - Teacher tools in a Gemini tab: lesson-plan outlines, quizzes exportable to Google Forms, rubrics, re-leveling text. Paid editions add feedback suggestions.
+  - Teachers can create and assign Gems and NotebookLM/"Gemini Notebook" notebooks grounded in class materials. Teachers turn on the student-facing features.
+  - Teacher insights are rolling out: student-interaction summaries, and from Oct 27, 2026, teachers seeing students' Gemini Notebook conversations.
+  - Students find tools under "Class learning tools".
+  - Help pages listed in results: support.google.com/edu/classroom/answer/16534159, /16538778, /15410566. A single blog claims notebooks take up to 50 sources and Gems up to 10.
+- **Guided Learning** (blog.google, Aug 2025): a Gemini app mode that builds a study plan, asks questions, checks understanding, and pulls in diagrams and YouTube videos. Select it in the tools menu. Free.
+- **Canvas / export:**
+  - Canvas can export documents to Docs, DOCX, or PDF, and slides to Slides, PPTX, or PDF. Docs/Slides export needs a Workspace account (Gemini Enterprise help).
+  - Slides generation in the Gemini app via Canvas is available for Education Fundamentals, Standard, and Plus, and Google AI Pro for Education (Workspace Updates, Oct 2025).
+  - **Google AI Pro for Education** is a paid add-on for 18+ users. It raises limits and adds Sheets AI functions (25k/mo) and Sheets canvas.
+  - Exact availability differs by edition and age, so verify in the Admin console.
+- **Model lineup is volatile.**
+  - Secondary sources (Nov 2026) cite picker options Auto / Flash (3.8) / 3.1 Pro / "Gemini 4 Argon", varying by plan. A Dec 2025 note said "Fast/Thinking".
+  - Google states it doesn't say which version backs the Flash and Pro labels.
+  - → Templates should be model-agnostic and should recommend "the strongest reasoning model available to you".
+
+## Gemini prompting guidance (official pages appear in results but couldn't be fetched)
+- **Gemini 3 developer guide** (ai.google.dev/gemini-api/docs/gemini-3):
+  - Keep temperature at the default of 1.0.
+  - Be **concise and direct**. The model "may over-analyze verbose or overly complex prompt engineering techniques used for older models".
+  - Gemini 3 is less verbose by default, so ask explicitly for a conversational persona.
+  - Put the persona, constraints, and output format in the **system instruction or at the beginning** of the prompt.
+  - **Long context: put instructions/questions at the END, after the data.**
+  - Reinforce the current date for time-sensitive tasks.
+  - This guide is now marked deprecated in favor of "What's new in Gemini 3.8 Flash". Newer models ignore temperature, top_p, and top_k.
+- **Prompt design strategies** (ai.google.dev and docs.cloud.google.com):
+  - Clear instructions, few-shot examples, system instructions, iteration.
+  - A "prompt health checklist" that flags an unspecified output format and underspecified edge cases.
+  - Few-shot: pair examples with clear instructions, because examples alone can teach unintended patterns. Vary the examples, and test how many to use.
+  - Prefixes such as "Input:" and "Output:" (secondary source).
+- **Workspace Prompting Guide 101** (services.google.com PDF):
+  - Four elements: **Persona, Task, Context, Format**. You don't need all four every time.
+  - The task should contain a verb. This is called the most important component.
+  - Average successful prompt is ~21 words (per the guide; secondary recollection, unverified).
+- **LearnLM:**
+  - arXiv 2412.16429, "LearnLM: Improving Gemini for Learning". Approach: "pedagogical instruction following", where system-level instructions describe the desired teaching behavior.
+  - In classrooms, teacher or school instructions take precedence over student requests.
+  - Instructions can set persona, actions (ask grade level, give hints), and methods (Socratic).
+  - Educators and learners preferred LearnLM over prompt-tuned Gemini on pedagogy.
+  - A LearnLM prompt guide PDF exists (services.google.com/fh/files/misc/learnlm_prompt_guide.pdf). Its goals reportedly include curiosity, scaffolding, productive struggle, and guided feedback.
+  - The ai.google.dev/gemini-api/docs/learnlm samples: "Be a friendly, supportive tutor"; guiding questions in incremental steps; ask the student to explain an answer choice, then affirm or correct.
+- **UK classroom RCT** (arXiv 2512.23633; Eedi + Google DeepMind, May–Jun 2025):
+  - N=165, ages 13–15, five schools. Expert tutors reviewed and could edit every message LearnLM drafted.
+  - Supervised LearnLM was ≥ human tutors on all measured outcomes. Secondary figures: +5.5 pp transfer, 93.0% vs 91.2% error correction.
+  - The prompt used: Socratic style, **short messages, one question at a time**, with the student's misconception and year group injected.
+  - Caveats: a company-linked study, structured math only, and dependent on human oversight.
+
+## K–12 guidance organizations
+- **TeachAI Toolkit** (teachai.org/toolkit):
+  - Seven principles: purpose; compliance with existing policy; AI literacy (knowledge); balance benefits and risks; integrity; maintain human decision-making (agency); evaluation.
+  - Contains sample guidance, policy addenda, a staff letter, and student/class policies.
+- **US ED OET 2023**, "AI and the Future of Teaching and Learning": seven recommendations, the first being **humans in the loop**. Uses an "electric bike, not robot vacuum" analogy. Others: align to a shared vision of education; design using modern learning principles; strengthen trust; involve educators; research on context, trust, and safety; education-specific guardrails.
+- **UNESCO competency frameworks (2024):**
+  - Teachers: 15 competencies across 5 dimensions (human-centred mindset, ethics of AI, AI foundations & applications, AI pedagogy, AI for professional learning), at 3 levels (Acquire, Deepen, Create).
+  - Students: 4 dimensions (human-centred mindset, ethics, plus two others not confirmed by search; likely AI techniques & applications and AI system design) × 3 levels = 12 blocks.
+- **AI4K12:** Five Big Ideas (Perception, Representation & Reasoning, Learning, Natural Interaction, Societal Impact). Grade-band progression charts for K-2, 3-5, 6-8, and 9-12.
+- **CoSN:**
+  - Gen AI Readiness Checklist (Oct 2023, with CGCS and AWS): Executive Leadership, Operational, Data, Technical, Security.
+  - Gen AI Maturity Tool (Apr 2024): 6 domains plus Academic AI Literacy (Nov 2024), rated emerging / developing / mature.
+  - CoSN brief: "Exploring Generative AI Products: Essential Recommendations for Schools on Privacy and Accessibility".
+- **ISTE+ASCD:** AI Deep Dive course, GenerationAI communities, an AI ethics guide (aligned to AI4K12), StretchAI coaching tool.
+- **Digital Promise:** four briefs: AI Literacy Basics; Effective Classroom Practices with AI; Misconceptions About AI; Creating Responsible AI Use Guidance (fourth unconfirmed). Also an AI Literacy Framework (2024).
+- **CCSSO AI Resource Hub:** a repository of state guidance. Count of states with guidance: 35–40 plus PR as of Aug–Sep 2026 (ECS, AI for Education).
+- **Common Sense Media:** rated Gemini's under-13 and teen experiences "High Risk" (Sep 2025). The core critique is that kids' AI should be purpose-built, not retrofitted.
+  - Age guidance: no chatbots for children ≤5; ages 6–12 only with adult supervision; teens for schoolwork and creative projects.
+  - Also privacy.commonsense.org has an evaluation of "Gemini in Google Workspace for Education".
+- **Stanford SCALE / AI Hub for Education** (Mar 2026 brief, Leiva, Ribeiro, Agnew, Loeb):
+  - Most teachers use one general assistant.
+  - The top use is creating materials (lesson plans), followed by standards alignment.
+  - Secondary figures: >40% curriculum creation; ~1 in 7 chats used as a sounding board.
+  - A related SchoolAI analysis: 150k prompts from 4.4k teachers. Teachers move fluidly between tasks within one thread.
+- **npj Sci. Learn. 2025 ITS systematic review** (Létourneau et al., DOI 10.1038/s41539-025-00320-7): 28 studies, N=4,597. Effects generally positive but **mitigated vs non-intelligent tutoring systems**. Calls for longer and larger studies plus ethics. PMC12078640.
+
+## Learning evidence
+- **Bastani et al., PNAS 2025** (Turkey high-school math):
+  - Unrestricted GPT-4 (GPT Base) improved practice performance, but scores were **17% lower** once access was removed: a "crutch" effect.
+  - Guardrailed GPT Tutor (hints, no answers) removed the harm but showed no exam benefit.
+- **Kestin et al., Sci. Reports 2025** (Harvard physics): a purpose-built GPT-4 tutor produced more than 2× the gains of in-class active learning. Caveats: elite sample, 2 weeks, no retention test, same designers.
+- **Tutor CoPilot RCT** (Stanford): ~900 tutors, ~1,000 students. +4 pp mastery overall, +9 pp for students of weaker tutors.
+  - Best prompt pattern: ask the model to respond **using a given strategy**, rather than "how would you respond".
+  - Tutors found outputs "too smart", so they needed simplifying.
+- **Khanmigo** (blog.khanacademy.org): math accuracy improved when the model had human-written exercises, hints, and solutions *before* computing, and when it used a calculator tool ("doing math").
+  - A key distinction: correct calculation ≠ correctly judging whether the *student* is right. The tutor still errs on the second.
+  - Built a benchmark and a quality dashboard.
+- **Misconception diagnosis:**
+  - GPT-4 picks the right misconception 92% of the time among 4 candidates, but only 40% among 100 (arXiv 2310.02439). Scoping the task helps.
+  - LLMs over-flag student errors.
+  - High overall accuracy can mask reasoning-assessment failures, so human judgment is still needed (2026 paper).
+  - ChatGPT-4 was better at identifying misconceptions; Gemini was better at giving accurate solutions (exponents study, 2025).
+- **Writing feedback:**
+  - LLM feedback for upper-secondary EFL essays: revision d=.19, motivation d=.36 (2024).
+  - K-12 study of 58k essays: the LLM acts as a generator, with the teacher as gatekeeper.
+  - Undergrad RCT: AI-drafted TA feedback produced better revisions.
+  - Evidence is small to moderate and mostly not K-12 RCTs.
+- **ELL:** limited evidence. Translanguaging scaffolds can improve engagement. GenAI may reinforce the dominant standard language. Relying on AI scaffolds can reduce teachers' insight (Chartered College).
+- **Reading:** no rigorous evidence found for AI reading interventions within science-of-reading practice. Treat as a **gap**.
+- **AI detectors:** flagged 61% of non-native English (TOEFL) essays as AI-written (Stanford HAI 2023). Don't build assistants that "detect AI".
+- **Instructional practice** (Rosenshine 2012, via secondary sources):
+  - Daily review; small steps; questioning; models / worked examples; guided practice; checking understanding; high success rate (~80% is commonly cited); scaffolds; independent practice; weekly and monthly review.
+  - Retrieval practice is among the strongest retention strategies.
+  - IES practice guides and feedback meta-analyses not retrieved: a GAP to fill.
+
+## Privacy and governance
+- **FERPA school-official exception** (34 CFR §99.31(a)(1)(i)(B)): the vendor may use records only for the authorized purpose, under the school's direct control, with no redisclosure. In practice, schools use a data-privacy agreement. PTAC guidance not retrieved.
+- **COPPA amended rule:** effective June 23, 2025; compliance by April 22, 2026. The FTC did **not** codify a school-authorization exception (it remains in FTC guidance and FAQs). School consent covers educational use only. FERPA and COPPA operate independently. Verify against 16 CFR 312.
+- **District and state practice** (Michigan Virtual guidance, Victoria DET, AI for Education IEP one-pager, ACPS):
+  - Never enter PII or sensitive student data into consumer AI.
+  - Use pseudonyms or de-identified descriptions.
+  - Don't upload IEPs or 504s to non-approved tools. Some districts prohibit AI writing any part of an IEP.
+  - Certified staff own substantive IEP content.
+  - Assume inputs may become public unless the district has an agreement.
