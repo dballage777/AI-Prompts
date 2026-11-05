@@ -1,0 +1,110 @@
+RAW SEARCH NOTES — WAVES 1–2 (2026-11-05)
+Evidence channel: server-side web search summaries. The session's network blocked direct fetching of every education host (ascd, edutopia, ies.ed.gov, cast.org, nagc, iris, eef, eric, wikipedia, and others).
+Tier labels: SEARCH-OFFICIAL / SEARCH-PEER-REVIEWED / SEARCH-SECONDARY. None of these pages was read directly.
+
+[Tomlinson DI model] (secondary summaries; primary sources are Tomlinson 1999/2014 and ASCD)
+- Adjust content (what students learn), process (how they make sense of it), product (how they show learning), and learning environment (the affective climate).
+- Base adjustments on readiness (proximity to the learning goals), interest, and learning profile.
+- Grouping is flexible: students are not permanently "high" or "low"; groups shift by task, concept, and the most recent assessment data.
+- Tasks at every level should be "respectful tasks" (equally engaging and important).
+
+[Smale-Jacobse, Meijer, Helms-Lorenz & Maulana 2019, Frontiers in Psychology, doi 10.3389/fpsyg.2019.02366; PMC6883934] (SEARCH-PEER-REVIEWED)
+- Systematic review of DI in SECONDARY education.
+- Most studies found small-to-moderate positive effects on achievement: d ≈ +0.741, or +0.509 with one outlier removed.
+- The authors call this an indication of possible benefit and say more research is needed.
+- The secondary-level evidence base is scarce.
+- Deunk et al. 2018 is a review and meta-analysis at the PRIMARY level ("some potential when implemented well").
+Related figures, of lower reliability:
+- Visible Learning MetaX lists differentiation at 0.58 across 6 meta-analyses.
+- A 2026 Frontiers meta-analysis on ELLs reports g = 0.78 (21 of its 56 effect sizes come from middle/high school).
+
+[CAST UDL Guidelines 3.0, July 2024] (SEARCH-OFFICIAL)
+- Same three principles: engagement (why), representation (what), action & expression (how).
+- Version 3.0 adds attention to systemic barriers, identity, bias, and joy.
+- The stated goal changed from "expert learners" to "learner agency".
+
+[Grouping] (SEARCH-PEER-REVIEWED)
+- Steenbergen-Hu, Makel & Olszewski-Kubilius 2016, Review of Educational Research: a second-order meta-analysis of about 100 years of research (13 meta-analyses).
+  - Between-class tracking did not help learning much.
+  - Within-class grouping and acceleration were reported as positive (g = 0.42 overall figure seen; context unclear).
+- Kulik & Kulik 1982 (secondary schools, 52 studies): clear gains only for high-ability students given enriched honors instruction; near-zero effects for average and below-average students.
+- Lou et al. 1996 (meta-analysis of within-class grouping) is cited but was not retrieved.
+
+[Curriculum compacting: Reis, Renzulli et al., NRC/GT UConn] (SEARCH-PEER-REVIEWED / OFFICIAL)
+- Teachers eliminated 40–50% of the regular curriculum for academically talented students with no drop in achievement-test results (Reis et al. 1998, Gifted Child Quarterly 42:123–129).
+- Mostly elementary samples; the authors themselves list secondary-level use as an open question.
+
+[EEF Teaching & Learning Toolkit] (SEARCH-OFFICIAL)
+- Metacognition & self-regulation: +7 → +8 months (May 2025 update).
+- Feedback: +6 months (older versions said +8).
+- Mastery learning: about +5 months; impact decreases in programmes longer than about 12 weeks.
+- These are averages that hide wide variation.
+- Figures for individualised instruction and within-class attainment grouping were not retrieved.
+
+[Tiering practice] (district and practitioner documents: Cobb County tiered assignments PDF, CBSD packet, Berks IU)
+- All tiers share the same objective.
+- Tier by resources, outcome, process, or product.
+- Start from the demanding standard (plan the advanced tier first), then adjust downward to keep tasks "respectful".
+- HS example (Pythagorean theorem): Tier 1 applies the formula to simple triangles; Tier 2 devises and solves a real-world application.
+
+[IES/WWC practice guides] (SEARCH-OFFICIAL)
+- Assisting Students Struggling with Mathematics: Intervention in the Elementary Grades (WWC 2021-006). Grades K–6, so apply to HS with caution. Six recommendations:
+  1. systematic instruction
+  2. clear, concise mathematical language
+  3. representations, including semi-concrete
+  4. the number line
+  5. word problems
+  6. timed fluency activities
+- Improving Adolescent Literacy (NCEE 2008-4027, Kamil, chair; grades 4–12). Recommendations:
+  1. explicit vocabulary instruction
+  2. direct, explicit comprehension-strategy instruction
+  3. extended discussion of text meaning (wording not fully confirmed)
+  4. motivation and engagement
+  5. intensive, individualized intervention for struggling readers
+- Also exists: Providing Reading Interventions for Students in Grades 4–9 (2022).
+
+[Worked examples / expertise reversal] (SEARCH-PEER-REVIEWED; primary sources: Kalyuga et al. 2003, Educational Psychologist; Kalyuga 2007; Salden et al. 2010, Instructional Science)
+- Worked examples help novices.
+- The same guidance becomes redundant or harmful as expertise grows (expertise reversal).
+- Fading steps from examples beats an abrupt switch to problem solving. Adaptive fading did better than fixed fading in the lab; classroom results were mixed.
+- Advanced learners can start with problems, with worked examples available for reference.
+- These effects come mostly from well-structured domains (math, mechanics).
+
+[Dunlosky et al. 2013, Psychological Science in the Public Interest] (SEARCH-PEER-REVIEWED)
+- High utility: practice testing and distributed practice.
+- Moderate: elaborative interrogation, self-explanation, interleaving.
+- Low: summarization, highlighting, keyword mnemonic, imagery for text, rereading.
+- Agarwal classroom retrieval-practice work not retrieved.
+
+[Saga high-dosage tutoring RCTs, Chicago, UChicago Education Lab, Ludwig & Guryan] (SEARCH-PEER-REVIEWED)
+- About 2,600–2,700 9th/10th graders per study (2013–15).
+- Intent-to-treat effects: math test 0.12 SD, math GPA 0.22.
+- Effects on students actually treated: 0.28 and 0.52.
+- Math course failures fell 49% in the first trial. Effects showed little fade.
+- Meets ESSA Tier 1. Context: mostly low-income male students of color.
+
+[Wiliam formative assessment] (secondary summaries; primary sources: Embedded Formative Assessment 2011; Black & Wiliam 1998 "Inside the Black Box", a synthesis of 250+ studies)
+Five strategies:
+1. Clarify learning intentions and success criteria.
+2. Elicit evidence of learning: hinge questions, exit tickets, all-student response.
+3. Feedback that moves learners forward.
+4. Activate students as resources for one another.
+5. Activate students as owners of their learning: traffic lights, learning logs.
+
+[Secondary MTSS] (practitioner, state, and vendor sources)
+- Scheduling time for targeted support is the main high school challenge (federal "Implementing MTSS in Secondary Schools" guide, Appendix F, has sample schedules).
+- Tier 2 must align with Tier 1.
+- Intervention enhances core instruction but cannot replace it.
+- At the secondary level the focus shifts from prevention to remediation.
+- NCII data-based individualization not retrieved.
+
+[Mastery learning: Bloom 1984 "2 Sigma"] (primary paper surfaced, gwern mirror)
+- Tutored students averaged above 98% of the control group; group mastery learning above 84% (about 1 SD).
+- The 2-sigma magnitude is contested; replications are smaller.
+- The mechanism is formative tests → correctives → enrichment for students who already show mastery.
+- Guskey and Modern Classrooms not yet retrieved.
+
+[Explicit instruction] (secondary)
+- Archer & Hughes 2011: systematic, direct, engaging, success-oriented.
+- Rosenshine: explanation → modeling → guided practice → independent practice. Best suited to well-structured content.
+- Gradual release (Pearson & Gallagher 1983; Fisher & Frey): I do → we do → you do together → you do alone. Recursive, not strictly linear.

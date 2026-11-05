@@ -1,0 +1,102 @@
+RAW SEARCH NOTES — WAVES 3–4 (2026-11-05). Evidence channel: web-search summaries only.
+
+[Building Thinking Classrooms — Liljedahl 2020] (practitioner and secondary sources; primary research not retrieved)
+- Vertical non-permanent surfaces (VNPS): the surface type matters less than being vertical and erasable. Erasable surfaces encourage risk-taking; vertical ones keep students engaged and make work visible.
+- Visibly random groups (VRG) of three.
+- "100% within 6 weeks" contribution claim: secondary source, unverified.
+- 14 practices in total.
+- Practitioner reports from HS math are positive (Edutopia teacher account). Peer-reviewed effect sizes not located.
+
+[Modern Classrooms Project] (program-commissioned JHU evaluations; one UKY dissertation)
+- Blended, self-paced, mastery-based model: video instruction → self-paced work → mastery checks.
+- 2019–20 evaluation: 55 teachers, 1,929 students; self-directed learning improved.
+- 89% of MCP teachers report meeting students at different levels, vs 44% of peers.
+- UKY dissertation: math achievement and self-efficacy increased.
+- Caveats: opt-in sample, commissioned evaluations, no RCT.
+- One HS physics study: needing more mastery-check attempts correlated with lower test averages.
+
+[Flipped classroom — Wagner, Gegenfurtner & Urhahne 2020, Zeitschrift für Pädagogische Psychologie] (SEARCH-PEER-REVIEWED)
+- Secondary-education meta-analysis: 25 articles, k=44, N=2,323. d = 0.42 vs traditional instruction.
+- Larger effects in shorter interventions and without at-home quizzes.
+- Aydin et al. 2021: g = 0.71 across all levels.
+
+[Station rotation] Thin high school evidence (small action research, vendor reports). Not established.
+
+[Choice boards / menus / tic-tac-toe / RAFT] (practitioner sources)
+- RAFT = Role, Audience, Format, Topic.
+- Tic-tac-toe: students complete three tasks in a row.
+- Tiered choice board: rows map to recall → application → analysis (cellular respiration example).
+- Purpose: choice by readiness, interest, and profile.
+- No outcome studies retrieved; effectiveness depends on alignment and task quality.
+
+[Practitioner / community] (Reddit mirror snapshots; Edutopia via search)
+- Common complaints:
+  - DI "looks great in theory, collapses under real class sizes, time, burnout".
+  - Admins push small groups without staffing.
+  - Managing multiple groups is hard.
+- What seems to work:
+  - Default to low-prep strategies.
+  - Build a bank of tiered tasks gradually.
+  - Use learning teams of 4–5 (Edutopia, McCarthy).
+  - Tiered major projects plus product choice.
+  - Tier 2 pull-out frees class time.
+- Quebec research: high school teachers' main obstacles are large student loads, lack of time, and lack of resources.
+
+[AI leveled texts] (SEARCH-PEER-REVIEWED, single study)
+- Learning Disabilities Research & Practice, Nov 2025: 410 passages from 6 AI tools (including Diffit). Passages requested at grade 3 averaged grade 5.5–6.3 readability; tools "reliably wrote passages at a higher grade level than specified" (EdWeek).
+- MagicSchool blog (vendor): a third party found grade-level alignment about 2/3 of the time, worse in science.
+- Practice rule: verify readability and accuracy; leveling labels are starting points.
+
+[Critiques of DI]
+- Delisle 2015 EdWeek "Differentiation Doesn't Work".
+- Fordham 2008: 83% of teachers said DI is somewhat or very difficult.
+- Hertberg-Davis (UVA): "no one was actually differentiating"; regular-classroom DI is not effective for challenging the most able learners.
+- Schmoker: multiple material sets complicate teaching.
+- Rebuttals: Tomlinson ("Differentiation Does, in Fact, Work"), Wiggins & McTighe.
+- Learning styles: Pashler, McDaniel, Rohrer & Bjork 2008 (PSPI) found virtually no evidence for the meshing hypothesis; matching learning styles is unsupported. Don't use learning styles as a differentiation basis.
+
+[Low floor / high ceiling tasks] (practitioner sources)
+- Accessible entry plus room for extension.
+- Not just an easy→hard sequence.
+- The "floor" often means non-math barriers such as instructions or background knowledge.
+- "Mild / Medium / Spicy" task sets (Georgia CTM 2024).
+
+[UDL evidence] (SEARCH-PEER-REVIEWED)
+- Capp 2017: 18 studies; positive for the learning process; impact on outcomes not demonstrated.
+- King-Sears et al. 2023 (Teaching & Teacher Education, doi 10.1016/j.tate.2022.103956): 20 experimental studies; a critique notes only 2 were K-12.
+- 2024 systematic review of 32 preK-12 studies.
+- One meta-analysis reported ES 3.56 with huge heterogeneity — implausible; treat with caution.
+- Conclusion: UDL is a sound design framework; outcome evidence is thin.
+
+[Grouping — Lou et al. 1996, RER 66(4)] (SEARCH-PEER-REVIEWED)
+- Within-class grouping vs no grouping: +0.17.
+- Homogeneous vs heterogeneous groups: +0.12 overall.
+- Groups of 5+ benefit little.
+- Reported subgroup pattern: low-ability students did better in mixed groups.
+- Critiques of the methodology exist (National Institute Economic Review).
+- EEF 2026 (reported in TES): low prior attainers made similar progress whether in sets or mixed groups; high attainers progressed about 2 months slower in mixed groups.
+
+[ELLs]
+- SIOP: 8 components, 30 features.
+- CAL secondary study (Clifton, NJ, 2003–07): writing gains reported. Mostly developer-linked evidence.
+- WIDA Focus on Differentiation (2012): write language expectations per ELP level using the Can Do Descriptors, pair them with scaffolds, and check each student's domain profiles.
+- Key principle: lower the language demand without lowering the content's cognitive demand.
+
+[Rigor frameworks]
+- Webb's Depth of Knowledge (2002): 4 levels (recall; skills/concepts; strategic thinking; extended thinking). The popular "DOK wheel" misrepresents it (ASCD blog).
+- Hess cognitive rigor matrix: raise complexity for advanced learners.
+- Kaplan Depth & Complexity: depth (content mastery) plus complexity (connections across time, perspectives, disciplines). The icons are only part of the model; usable K–12.
+- NAGC programming standards: content not retrieved.
+
+[Science / social studies / ELA]
+- Science inquiry levels: structured → guided → open. Vary student autonomy in the scientific practice, not the concept.
+- POGIL: guided inquiry in roles (official materials not retrieved).
+- Digital Inquiry Group (formerly SHEG, independent since Jan 2024), Reading Like a Historian: sourcing, contextualization, close reading, corroboration. Adapted documents for different reading levels.
+- ELA: literature circles with choice of format (audio, e-book, print) (SREB Georgia example). Leveled texts are an entry point; then scaffold students into the original text. Excessive leveling may under-prepare students for complex text.
+- Not retrieved: world languages (ACTFL), CTE.
+
+[Grading / reassessment]
+- Brookhart & Guskey et al., "A Century of Grading Research" (Review of Educational Research, 2016).
+- Bloom: formative assessment must be followed by corrective instruction (the basis for retakes).
+- SBG definitions vary; implementation is contested. Some HS students feel it devalues first-attempt mastery.
+- Thin effect-size evidence in secondary schools.

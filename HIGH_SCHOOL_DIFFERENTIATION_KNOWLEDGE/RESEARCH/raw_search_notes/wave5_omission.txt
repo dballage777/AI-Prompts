@@ -1,0 +1,60 @@
+RAW SEARCH NOTES — WAVE 5 (2026-11-05). Evidence channel: web-search summaries only.
+
+[Acceleration]
+- Steenbergen-Hu & Moon 2011, Gifted Child Quarterly 55:39–53: positive effects on high-ability learners, especially achievement; social-emotional effects slightly positive.
+- Steenbergen-Hu, Makel & Olszewski-Kubilius 2016: accelerated students outperformed non-accelerated same-age peers, g = 0.70.
+- A Nation Empowered (2015; Assouline, Colangelo, VanTassel-Baska, Lupkowski-Shoplik; Belin-Blank Center): "acceleration is the most effective curriculum intervention for gifted children"; long-term academic and social benefits. Detailed chapters not retrieved.
+
+[Interleaving]
+- Rohrer et al. 2020 cluster RCT: 54 grade-7 math classes, 787 students.
+- Unannounced test 61% vs 38%, d = 0.83. IES-funded and WWC-reviewed.
+- Grade 7 is not high school, but it applies to HS math practice-set design.
+- McDaniel, Agarwal et al. 2011: test-enhanced learning in middle school science (quiz frequency and placement).
+
+[IRIS Center, Vanderbilt] Free module "Differentiated Instruction: Maximizing the Learning of All Students".
+- Covers content, process, product; about 3 hours; certificate available.
+- An OSEP-funded official resource.
+
+[World languages]
+- ACTFL Performance Descriptors: Novice / Intermediate / Advanced × interpersonal / interpretive / presentational.
+- Target the learner's current range while stretching toward the next.
+- Use proficiency-oriented analytic rubrics (NYSED performance indicators).
+- Spiraled can-do statements make differentiation manageable.
+
+[Homework]
+- Small, mixed studies:
+  - Montana HS biology thesis: no content gain; interest rose with vodcasts.
+  - Irish practitioner study: weekly choice of 3 difficulty levels; completion near 100%.
+  - Oxford thesis: Year 10/12 biology.
+- Cooper meta-analysis not retrieved.
+
+[Practitioner podcasts]
+- Catlin Tucker, "The Balance" (blended learning; station rotation; K-12 differentiation episode).
+- Cult of Pedagogy (Jennifer Gonzalez).
+- Prep Period Podcast (high school).
+- The Unteachables ("telling teachers to just differentiate helps nobody").
+
+[Productive failure] Sinha & Kapur 2021, Review of Educational Research (doi 10.3102/00346543211019105)
+- 53 studies, 166 comparisons.
+- Problem-solving-then-instruction beat instruction-then-problem-solving, g = 0.36 (0.37–0.58 with high fidelity to productive-failure design).
+- Grades 2–5 and domain-general skills favored instruction first.
+- Requires some prior knowledge.
+- Implication: advanced and ready students may benefit from attempting a challenge problem before instruction; novices without prerequisites need explicit instruction first (consistent with expertise reversal).
+
+[AI-generated materials accuracy]
+- GPT-4 math MCQ sets: teachers judged 14 of 20 valid, with one key miscalculated (arXiv 2405.00864).
+- Chatbots on proportional reasoning: ChatGPT-4 got 10 of 14 correct and reproduced common student errors (Journal of Pedagogical Research, 2025).
+- Rule: always verify keys, especially multi-step and word problems.
+
+[Wave 5b]
+- CTE (practitioner/state sources: iCEV blog; Illinois ISBE "IEPs, 504s & Differentiation in the CTE Classroom" PDF).
+  - Flexible grouping by topic knowledge; student-captain pods; tiered lessons.
+  - Accommodations, modifications, extensions.
+  - Align IEP transition goals with career pathways and certifications.
+  - Co-plan with special education staff.
+  - Little research exists on actual classroom strategies in CTE (Journal of Career and Technical Education, 2012).
+- NCII data-based individualization (DBI): a five-step process using validated interventions, frequent progress monitoring, and intensification. Exact step names not retrieved.
+- Peer tutoring:
+  - Bowman-Perrott et al. single-case meta-analysis: 26 studies, 938 students, grades 1–12; moderate-to-large academic benefits.
+  - Secondary math review (Heliyon 2019, 42 studies): in-school programs more effective than out-of-school.
+- NAGC Pre-K–12 Gifted Programming Standards (2019 revision; Johnsen, Dailey & Cotabish book, 2022): six standards focused on student outcomes and evidence-based practice. High-school-specific text not retrieved.
