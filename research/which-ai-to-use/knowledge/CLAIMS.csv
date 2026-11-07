@@ -1,0 +1,34 @@
+point,supporting_S,conflicting_S,evidence_label,strength
+"No single AI is best at everything; choose by task","S3;S4;S11;S14;S21;S25;S10;S22",,Documented/Research/Reported,Strong
+"Top frontier models are statistically tied; small rank gaps are noise","S8;S11;S21;S13;S25;S9",,Documented/Research,Strong
+"Effort/thinking level changes capability scores by 20+ points","S4;S1",,Documented,Strong
+"Higher effort or newer version is not always better","S14;S16","S4",Documented/Reported,Moderate
+"Product/surface matters more than the underlying model for delegation","S6",,Documented (vendor self-study),Limited
+"Small/free tiers underperform flagships on hard tasks","S9;S19;S4;S14",,Reported/Documented,Moderate
+"Ecosystem (Google/Microsoft) and institutional license drive practical choice","S2;S10;S22;S26;S27;S13",,Reported/Documented,Moderate
+"Usage popularity does not equal quality","S5;S18;S24;S25",,Documented/Research,Strong
+"ChatGPT is most used (US adults 44% ever-used, Feb 2026)","S5;S24;S23",,Documented,Strong
+"All tools make confident errors; verification required","S4;S8;S13;S21;S23;S25;S28;S2;S3",,Documented/Research,Strong
+"Hallucination rate and accuracy are different properties","S4;S21",,Documented,Strong
+"Sycophancy exists and harms accuracy when users state false beliefs","S8;S21;S30;S19;S25",,Research/Documented/Reported,Strong
+"Gemini is the most sycophantic","S30","S19;S25",Reported,Contested
+"Claude is least sycophantic","S30;S19","S25",Reported/Research,Contested
+"Recommendations go stale within weeks","S4;S14;S10;S20;S27",,Documented/Reported,Strong
+"Benchmarks have invalid items, contamination, harness and prompt sensitivity","S8;S11;S14;S20;S21",,Research/Documented,Strong
+"AI is strongest at writing/explaining/information; weakest at data analysis and images","S17;S7;S6",,Research/Documented,Moderate
+"Most consumer chatbot use is non-work","S7;S6;S5",,Research/Documented,Moderate
+"Agents still fail most real end-to-end projects","S21;S8;S23",,Documented/Research,Strong
+"Keep human approval on for agent actions","S1;S26",,Reported,Moderate
+"Low stakes: any major free tool is fine; high stakes: top model, high effort, review","S1","S3",Reported,Limited
+"Run-to-run consistency varies by model and is separate from accuracy","S28",,Research,Limited
+"Perplexity is best for cited research","S2;S10;S22;S29","S9;S16",Reported,Contested
+"Branded Deep Research modes are not reliably more accurate than standard chat+search","S16",,Research (2025 data),Limited
+"Gemini is a strong primary choice","S2;S10;S4","S1;S13;S25",Reported/Documented,Contested
+"ChatGPT is best overall","S2;S3;S9;S26","S13;S19;S25",Reported,Contested
+"Claude has no native image generation","S1;S2;S9;S22;S27",,Reported,Strong
+"Output reading level ~1 school year above prompt (Claude)","S6",,Documented (vendor),Limited
+"Experienced users get better results; learners trust AI more","S6;S23",,Documented,Moderate
+"Most students use AI; school AI policies unclear to teachers","S8",,Research,Moderate
+"Chatbots often fail to route crisis users to human help","S21",,Documented,Limited
+"Paying does not raise satisfaction","S25",,Research (convenience sample),Limited
+"Multi-homing (2+ assistants) is common","S25;S24",,Research/Reported,Moderate
