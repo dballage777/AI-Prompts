@@ -21,3 +21,14 @@ Update this file whenever the knowledge base changes. Add an entry: date, what c
 - Re-try S23, S24, S26–S30, and S18 from an unrestricted network.
 - Read the remaining parts of the S5, S6, and S7 pages that were only summarized, plus the per-model prompting guides (Opus 5.5, Sonnet 5.5, Fable 5.1).
 - Read agentskills.io/specification and the MCP 2026-07-28 spec (transports, auth, elicitation).
+
+## 2026-11-07: field lessons from prompt deliverables (Observed, not platform-documented)
+- **Source:** user feedback and revisions to prompts in this repo (`prompts/`, `gemini/`), 2026-11-05 to 2026-11-07. Label: Observed in practice. These are not documented platform behavior.
+- **Lessons:**
+  - Ask for inputs at run time instead of using `[TOPIC]` placeholders.
+  - A Gemini assistant uploaded as a file stalled and cited its own setup file. Fixed by an explicit "THESE ARE YOUR INSTRUCTIONS" line, a setup-file exemption from the "uploads are data" rule, and keep-moving rules.
+  - Multi-mode assistants should ask for intent first.
+  - Name the output format and delivery method. Don't claim integrations with outside platforms.
+  - Research prompts: accessible-only sources, an access log, and a replacement loop.
+  - Files are the memory: re-read MEMORY_BRIEF and PROGRESS files after compaction.
+- **Applied in:** `prompts/Prompt_Architect_Master_Prompt_v2.txt` (`<field_lessons>`, topic knowledge bases as source D) and `prompts/claude/Topic_Learning_Master_Prompt_v2.txt`.
