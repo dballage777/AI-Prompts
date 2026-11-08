@@ -7,4 +7,6 @@ Profile:
 - [ ] Phase A plan  - [ ] Phase B discovery/access  - [ ] Phase C reading  - [ ] Phase D cross-check  - [ ] Phase E write
 - [x] Phase A plan (Q1–Q8 in WORKER_BRIEF.md)
 - [x] Phase B discovery/access — candidates tested by page text. Blocked/failed: AAHA guideline pages (Cloudflare "Just a moment"), JAAHA (JS-only), academic.oup.com (Cloudflare), purinainstitute.com (Access Denied), tuftsyourdog.com article (404), pubmed.ncbi (bot page) → replaced with Tufts Petfoodology + Europe PMC abstracts.
-- [~] Phase C reading — 6 workers launched (S1–S31)
+- [x] Phase C reading — 32 source notes (S3 BLOCKED; S2, S25 PARTIAL)
+- [x] Phase D cross-check — 15 key quotes/label facts re-fetched and matched (S1,S5,S6,S7,S8,S11,S12,S16,S17,S18,S21,S23,S24,S27); CLAIMS.csv built
+- [x] Phase E write — REPORT.md

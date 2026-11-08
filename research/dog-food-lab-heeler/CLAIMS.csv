@@ -1,0 +1,23 @@
+claim,supporting_S,conflicting_S,evidence_label,strength
+"Puppies should eat a growth or all-life-stages food until at least ~12 months","S11;S12;S13;S15",,Expert body,Strong
+"Current Nutrish chicken and beef recipes are labeled adult maintenance only","S16;S17",,Commercial (label verified),Strong
+"Nutrish puppy recipe labeled All Life Stages incl. growth of large size dogs; 390 kcal/cup","S18",,Commercial (label verified),Strong
+"Large-breed puppy food if expected adult weight >50 lb (conservative) vs AAFCO 70 lb","S11","S18",Expert body/Commercial,Moderate
+"Homemade diets should not be fed to growing puppies unless formulated by a board-certified veterinary nutritionist","S6;S8;S15",,Expert body,Strong
+"Most published homemade recipes are deficient (95% of 200)","S1;S2",,Research,Strong
+"Only ~6% of owner-fed homemade diets potentially complete","S4;S5",,Research,Moderate
+"Owners drift from prescribed recipes (13% still following; >80% changed)","S6;S7",,Expert body,Moderate
+"No evidence homemade diets are healthier than commercial","S6",,Expert body,Moderate
+"Feeding a maintenance diet in restricted amounts reduces all nutrients; use weight-management/therapeutic diet","S24",,Expert body,Moderate
+"Home-cooked diets are a poor fit during weight loss","S8",,Expert body,Moderate
+"Ideal body condition score 4–5/9","S12;S23",,Expert body,Strong
+"Lifelong 25% food restriction extended median lifespan in Labradors","S22",,Research,Moderate
+"Controlled ~1.5% BW/week loss preserved lean mass in obese dogs","S26",,Research,Limited
+"Label feeding charts can be inaccurate; dry foods 300 to 700+ kcal/cup","S23;S11",,Expert body,Moderate
+"Treats/toppers under 10% of daily calories","S12",,Expert body,Moderate
+"Raw pet foods carry Salmonella/Listeria risk; cook meat to >=165°F","S27;S28;S24",,Expert body,Strong
+"Diet-associated DCM linked to pulse-heavy diets, grain-free or not","S30;S29",,Expert body,Moderate
+"Fresh cooked food more digestible / firmer stool vs kibble","S32","S6",Research (industry-funded),Limited
+"AAFCO does not approve or certify pet foods","S21;S9",,Expert body,Strong
+"Compare food cost per kcal, not per bag","S10",,Expert body,Moderate
+"Home cooking costs more and takes more time","S8",,Expert body,Moderate
