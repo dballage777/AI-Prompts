@@ -1,6 +1,7 @@
 # PROGRESS — Topic: Creating and selling a coloring book
 Started 2026-11-09 via prompts/claude/Topic_Learning_Master_Prompt_v2.txt · user goal: "I want to create a coloring book and sell it"
-- [x] Phase A access check — 30/30 HTTP 200; most full text. Possibly thin/JS: S5 cover calculator, S18 PD Image Archive, S26 NYPL (0 words)
-- [~] Phase B close reading — 6 workers launched (brief: WORKER_BRIEF.md)
-- [ ] Phase C cross-check
-- [ ] Phase D knowledge base files
+- [x] Phase A access check — 30/30 HTTP 200; thin/JS: S5, S18 (later opened), S26
+- [x] Phase B close reading — 6 parallel workers (WORKER_BRIEF.md); notes in sources/S1–S30.md
+- [x] Phase C cross-check — 12 key facts re-fetched and matched
+- [x] Phase D knowledge base — KNOWLEDGE_BASE.md, MEMORY_BRIEF.md (~890 words excl. citations), SOURCES.md, CLAIMS.csv, CHANGELOG.md
+Status: COMPLETE. Standing rule: re-read MEMORY_BRIEF.md before writing any prompt in this chat.

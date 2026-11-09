@@ -1,0 +1,31 @@
+point,supporting_S,conflicting_S,evidence_label,strength
+"Coloring books are not low-content on KDP; need ISBN (free available)","S3;S13;S28",,Documented/Reported,Strong
+"AI-generated interior/cover art must be disclosed on KDP even if edited","S1",,Documented,Strong
+"AI-assisted (edit/brainstorm only) need not be disclosed on KDP","S1",,Documented,Moderate
+"Etsy: AI use allowed with seller creative input; disclose in listing description","S11",,Documented,Moderate
+"Etsy bans AI prompt bundles and AI-written instructions","S11",,Documented,Moderate
+"Prompt-only AI images are not copyrightable","S15;S16;S10;S29",,Documented/Reported,Strong
+"Human expressive input visible in output, substantial edits, and selection/arrangement can be protected","S16;S15;S10",,Documented,Strong
+"Copyright registration must exclude more-than-de-minimis AI material","S15",,Documented,Strong
+"Platforms require AI disclosure even though law doesn't require public disclosure","S1;S11","S29",Documented/Reported,Moderate
+"US works published before 1931 are public domain","S22;S19",,Documented,Strong
+"'No known restrictions' and download availability are not clearance","S19;S18",,Documented,Strong
+"Public-domain status differs by country; check both underlying-work and digital-copy labels","S18;S19",,Documented,Strong
+"KDP (Illustrated) public-domain edition needs 10+ original illustrations","S1",,Documented,Moderate
+"KDP bleed 0.125 in top/bottom/outside; 8.5x11 PDF 8.625x11.25 in","S2;S4",,Documented,Strong
+"KDP margins: outside >=0.375 in with bleed; gutter 0.375 in for 24-150 pages","S2;S4",,Documented,Strong
+"Images 300 DPI min, 600 recommended max; single-page PDF; flattened; fonts embedded","S4;S20;S24",,Documented,Strong
+"Lines at least 0.75 pt","S4",,Documented,Moderate
+"Spine text only at ~80+ pages","S9;S20","S4",Documented,Moderate
+"KDP 8.5x11 B/W 24-110 pages prints for $2.84 (large trim)","S7","S8",Documented,Strong
+"KDP royalty 60% at $9.99+, 50% at $9.98-, 40% Expanded Distribution, minus print cost","S8",,Documented,Strong
+"Lulu paperback minimum 32 pages; KDP minimum 24","S20;S2;S4","S17",Documented,Platform-specific
+"Single-sided printing prevents bleed-through; doubles page count","S14;S30;S27",,Reported/Documented,Moderate
+"Uncoated paper is best for coloring","S14","S30;S20",Reported/Documented,Contested
+"Line art at 600 PPI with slightly aliased brushes prints cleaner","S23",,Documented,Limited
+"Order a proof and color-test before selling","S6;S14;S20;S27",,Documented/Reported,Strong
+"Metadata: title+subtitle <200 chars; no stuffing/trademarks; no URLs/reviews in description; up to 3 categories","S13",,Documented,Strong
+"Trademark conflict doesn't require identical marks; search similar wording on related goods","S21",,Documented,Strong
+"Etsy digital: up to 5 files x 20MB; filenames not editable","S12",,Documented,Strong
+"Etsy print-from-digital test on by default (US/CA); opt-out shop-wide","S25",,Documented,Moderate
+"Niche research and quality beat mass production","S17;S28;S29",,Reported,Moderate
