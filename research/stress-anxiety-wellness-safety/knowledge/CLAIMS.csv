@@ -1,0 +1,49 @@
+point,supporting_S,conflicting_S,evidence_label,strength
+"AI chatbots and wellness apps must not replace a qualified mental health provider; adjunct at most","S1;S3;S13;S15;S16;S23;S24;S26","",Documented/Research,Strong
+"Bot must clearly and repeatedly disclose it is an AI and state its limits (no fine print)","S1;S13;S20;S21","S13 (reminders alone may not overcome automation bias)",Documented,Strong
+"Bots must not claim to be therapists, licensed, or able to diagnose or treat","S1;S13;S23;S24","",Documented/Research,Strong
+"Detecting suicidality and assessing severity are tasks current AI cannot reliably perform","S13;S23","",Documented,Moderate
+"LLMs responded appropriately to suicidal ideation ~80% and delusions ~45%; human therapists 93%","S23;S15","",Research,Moderate
+"Bots miss suicide cues hidden in factual requests (bridges after job loss)","S15;S23","",Research,Moderate
+"Warning signs spread across messages get missed; safety degrades in long conversations","S20;S13","",Reported,Moderate
+"Sycophancy reinforces distortions, delusions and harmful plans; good care also challenges","S1;S13;S23;S24","",Research/Documented,Strong
+"Avoid dependency: no engagement hooks, limited anthropomorphism, steer to real people","S1;S12;S19;S20;S24;S25","",Documented,Strong
+"AI can feed reassurance-seeking loops in anxiety/OCD","S1;S3","",Documented,Strong
+"Crisis response must give immediate, clear human resources such as 988","S1;S8;S12;S20;S24","",Documented,Strong
+"Wrong or non-working hotline numbers count as harm","S17","",Documented,Limited
+"988: call/text 988 or chat 988lifeline.org; free; 24/7; any distress, also for someone else","S2;S8;S11;S14;S16","",Documented,Strong
+"988 options: press 1 veterans (or text 838255), press 2/AYUDA Spanish, ASL videophone, 711 then 988 TTY","S2;S8;S30","",Documented,Strong
+"988 LGBTQ+ youth press 3 / text PRIDE option currently available","S2","S2 footer says 'restored' (status may change)",Documented (summary-only),Limited
+"Call 911 for attempt in progress, imminent plan with means, overdose, chest pain/shortness of breath","S8;S11;S14","",Documented,Strong
+"Most 988 contacts resolve without 911; emergency services only for imminent risk","S8;S25;S30","",Documented,Moderate
+"Crisis services are confidential but can involve emergency services in imminent danger","S2;S8;S25;S30","",Documented,Strong
+"Old 1-800-273-8255 number now reaches 988","S8;S30","S10 lists it as the Lifeline number (outdated form)",Documented,Strong
+"Crisis Text Line: text HOME to 741741; HOLA for Spanish","S25;S12","S25 FAQ wording on Spanish keyword differs slightly",Documented,Moderate
+"Disaster Distress Helpline: call/text 1-800-985-5990; 211 for practical needs","S29;S16","",Documented,Strong
+"Asking directly about suicide does not increase risk","S14;S30","",Documented (research cited),Strong
+"Suicide warning signs most urgent when new or increasing","S14;S2","",Documented,Strong
+"NIMH 5 action steps: ask, be there, keep safe, connect, follow up; include spiritual advisor","S14;S2","",Documented,Strong
+"Safety plan six steps: warning signs, coping, distraction, people, professionals/crisis lines, safe environment","S10;S26;S16","",Documented,Strong
+"Seek professional help for severe or distressing symptoms lasting 2+ weeks","S11;S16","",Documented,Strong
+"Refer when anxiety interferes with life, causes avoidance, is always present, or self-help fails","S7;S9;S27;S18","",Documented,Strong
+"Stepped care: least intrusive, most effective intervention first","S18","",Documented,Moderate
+"Self-help works best with a person monitoring progress","S18;S28","",Documented,Moderate
+"CBT is the best-supported psychological treatment for anxiety","S9;S22;S28;S16","",Documented/Research,Strong
+"Relaxation, slow breathing and mindfulness reduce anxiety symptoms","S28;S3;S19;S26;S11","",Documented,Strong
+"Breathing should be slow, gentle, unforced; no deep breaths if dizzy","S6;S19;S3","S7;S11 recommend 'deep breathing' apps",Documented,Contested
+"Worry time should not be near bedtime","S4","S5 suggests before bed",Documented,Contested
+"Graded exposure (fear ladder) can be self-guided for everyday fears","S5;S27;S28","S16 frames exposure therapy as clinician-delivered",Documented,Contested
+"Exercise, regular meals, sleep routine, less caffeine/alcohol support mental health","S7;S11;S19;S27;S28","",Documented,Strong
+"Healthy habits alone cannot replace treatment","S9;S28","",Documented,Strong
+"Never advise on medication; benzodiazepines generally not recommended","S9;S18;S28","",Documented,Strong
+"Chats with AI are not confidential; avoid identifying details","S1;S3;S21;S24","",Documented,Strong
+"Anxiety disorders affected 470M people (5.8%) in 2023; ~1 in 4 treated","S28","",Research,Moderate
+"About one-third of US adults have an anxiety disorder in their lifetime (31.1%)","S9","S3 says 1 in 5 (unsourced); different measures",Research,Moderate
+"Anxiety disorders raise risk of depression, substance use, and suicidal thoughts","S28;S9","",Documented,Strong
+"Digital self-help can help untreated mild-to-moderate anxiety","S13;S1;S16","S13 (no high-quality evidence GenAI can deliver treatment); S16 (little info on app effectiveness)",Research/Reported,Contested
+"Using AI for teen mental-health support is unsafe / should be restricted","S20;S12;S13","S13 industry speaker (low-risk wellness use acceptable)",Reported,Contested
+"AI models show stigma toward alcohol dependence and schizophrenia","S23;S15","",Research,Moderate
+"Religious 'voice of God' commands should prompt encouragement to seek a provider or trusted person","S23","",Research,Limited
+"Coaching, journaling and reflection are lower-risk AI roles","S15;S3;S23","",Reported/Research,Moderate
+"VA self-help apps (Coping Coach, Mindfulness Coach, Insomnia Coach, Safety Plan) are free and not a replacement for care; CBT-i Coach is not for self-care","S26","",Documented,Moderate
+"Panic attacks usually last 5-20 minutes and are not dangerous; rule out physical causes","S27;S18","",Documented,Strong
