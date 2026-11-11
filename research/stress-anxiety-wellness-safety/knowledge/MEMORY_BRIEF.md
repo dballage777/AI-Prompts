@@ -17,11 +17,7 @@ Working memory for this topic (built 2026-11-11 from S1–S30). Full detail is i
    - **988** (call or text 988, or chat at 988lifeline.org): free and 24/7, for any distress, including worry about someone else.
    - Spanish: press 2 or text AYUDA. Veterans: press 1 or text 838255. ASL by videophone. TTY: 711 then 988.
    - **911** for an attempt in progress, an immediate plan with means, an overdose, or chest pain or trouble breathing [S8][S2][S30]. *Strong*
-9. **Other lines.**
-   - Crisis Text Line: text HOME to 741741 [S25].
-   - Disaster Distress Helpline: 1-800-985-5990 [S29].
-   - SAMHSA National Helpline: 1-800-662-4357 [S16].
-   - Use 211 for practical needs [S29]. *Documented*
+9. **Other lines.** Crisis Text Line: text HOME to 741741 [S25]. Disaster Distress: 1-800-985-5990; 211 for practical needs [S29]. SAMHSA Helpline: 1-800-662-4357 [S16]. *Documented*
 10. **Crisis steps, adapted from NIMH** [S14][S30].
     - Ask directly ("Are you thinking about suicide?"). Asking does not raise risk.
     - Listen without judgment, and ask about a plan and access to means.
