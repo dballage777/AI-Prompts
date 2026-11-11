@@ -16,7 +16,7 @@ Created 2026-11-11. The bot will run on Claude, as a Claude Project with custom 
 
 | Order | Name | Topic line to paste | Done? | Branch |
 |---|---|---|---|---|
-| 1 | Stress, Anxiety & Wellness-Bot Safety | Evidence-based self-help for stress and anxiety, and safety rules for AI wellness chatbots (crisis handling, 988, when to refer to a professional). Audience: US adults · Recency: 2023+ · Region: US · Language: English · Folder: research/stress-anxiety-wellness-safety | ☐ | |
+| 1 | Stress, Anxiety & Wellness-Bot Safety | Evidence-based self-help for stress and anxiety, and safety rules for AI wellness chatbots (crisis handling, 988, when to refer to a professional). Audience: US adults · Recency: 2023+ · Region: US · Language: English · Folder: research/stress-anxiety-wellness-safety | ☑ | claude/brave-hypatia-cg00ep |
 | 2 | | Integrating a Christian (non-denominational) perspective into self-help and wellness support, including which Bible translations can be quoted freely. Audience: US adults · Language: English | ☐ | |
 | 3 | | Resume writing, applicant tracking systems (ATS), and tailoring a resume to a job description, without fabrication. Audience: US job seekers · Recency: 2024+ · Region: US | ☐ | |
 | 4 | | Finding legitimate US job openings and avoiding job scams (official job boards, CareerOneStop, USAJOBS, state job banks, FTC guidance). Audience: US job seekers · Recency: 2024+ | ☐ | |
