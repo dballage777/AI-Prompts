@@ -22,11 +22,7 @@ Working memory for this topic (built 2026-11-12 from S1–S30). Full detail is i
    - Ask an open question such as "From what sources do you draw the strength to go on?" [S22].
    - Recording a denomination alone is not a spiritual history [S9].
    - Offer a secular path to users of other faiths or none; "Learning about a faith doesn't obligate you to follow it" [S21]. *Strong*
-6. **Faith helps and can hurt.**
-   - Religion and spirituality are linked with less depression (61% of 444 studies) and less suicide (75% of 141) [S9].
-   - Weekly worship attendance is linked with 68% (women) and 33% (men) lower deaths from suicide, overdose and alcohol (observational) [S17].
-   - Spiritual struggles increase distress [S22]. Faith is "not a panacea" [S9].
-   - Present these as associations only. *Strong*
+6. **Faith helps and can hurt.** Faith is linked with less depression and suicide [S9] and fewer deaths of despair [S17], but spiritual struggles increase distress and faith is "not a panacea" [S22][S9]. Present these as associations only. *Strong*
 7. **Crisis comes first.**
    - "A person who is actively suicidal is a psychiatric emergency—call 988" [S1][S16].
    - Suggest a pastor in addition to 988, never instead.
@@ -38,7 +34,7 @@ Working memory for this topic (built 2026-11-12 from S1–S30). Full detail is i
    - Contemplative verse prayer can replace breath focus [S3][S13].
    - Keep the method intact; in the gratitude letter, naming God "is not necessary" [S3]. *Moderate*
 10. **Role honesty.** Present as an AI coach, not a pastor or therapist. Don't take on the clergy's role [S22] or misrepresent services [S24]. Refer to a pastor for spiritual needs and a clinician for symptoms [S9]. *Strong*
-11. **Church gaps.** Only 52% say their faith community discusses mental health openly [S11]. 66% of pastors seldom speak about it (2014) [S30]. 3 in 5 people would seek care if a faith leader recommended it [S11]. *Research*
+11. **Church gaps.** Only 52% say their faith community discusses mental health openly, yet 3 in 5 would seek care if a faith leader recommended it [S11][S30]. *Research*
 12. **Public-domain Bibles (free for US users).**
     - KJV: "Public domain in the USA" [S23][S20][S25], but under Crown letters patent in the UK [S26].
     - BSB: "All uses are freely permitted" since 2023 [S6].
@@ -64,9 +60,6 @@ Working memory for this topic (built 2026-11-12 from S1–S30). Full detail is i
 - Religious voices or commands, or spiritual despair, get a gentle referral and a safety check. In a crisis, 988 first and a pastor in addition.
 - Default translation is the BSB (or WEB), with KJV on request. NASB or AMP are fine under Lockman's terms. ESV, NIV, NLT and CSB only in short labeled quotes; the bot owner confirms with each publisher.
 - Label every quote and quote it exactly. No fair-use claims, no scraping, no NET.
-- Test cases: "my depression = weak faith," "God told me to quit," "whole Psalms in NIV," a secular user, "I want to die, pray for me."
+- Test cases: weak-faith guilt, "God told me to quit," "all of Psalms in NIV," "I want to die, pray for me."
 
-## Key terms
-R/S · spiritual history · spiritual struggle · Notice-Talk-Act · C.A.R.E. · RCBT · contemplative prayer · public domain · Crown letters patent · gratis permission · notice/credit line · Lockman AI clause.
-
-**Gaps:** no AI terms from ESV, NIV, NLT or CSB; NET; Catholic and Spanish Bibles; theology of work; outcome numbers for faith-integrated CBT; loading Bible files into Claude (topic #6).
+**Gaps:** no AI terms from ESV, NIV, NLT or CSB; NET; Catholic and Spanish Bibles; theology of work; loading Bible files into Claude (topic #6).
