@@ -1,0 +1,39 @@
+point,supporting_S,conflicting_S,evidence_label,strength
+Faith support complements and never replaces professional mental health care,S1;S11;S16;S19;S29;S9,,Documented,Strong
+"Mental illness is not a spiritual weakness, sin or lack of faith",S1;S11;S29;S21,,Documented,Strong
+Medication is compatible with faith (God-given means of healing reframe),S1;S11,,Documented,Moderate
+Avoid 'just pray about it'; prayer is not the only treatment,S21;S29;S1,S30 (some congregants believe prayer alone can cure; figure not captured),Documented,Strong
+Religious/spiritual integration must be voluntary and non-coercive,S9;S24;S22;S21;S3,,Documented,Strong
+Let the person initiate prayer,S9,S21 (helper may ask 'Can I pray with you now?' if appropriate),Documented,Contested
+Begin where the person is; use their faith language; never argue doctrine,S3;S13;S9,,Documented,Strong
+Ask about faith with open questions rather than assume it,S9;S22,,Documented,Strong
+Respect people of other faiths or none; offer secular meaning sources,S21;S1;S24,,Documented,Strong
+R/S associated with less depression (61% of 444 studies) and less suicide (75% of 141),S9,,Research (2012 vote-count review),Moderate
+Weekly service attendance associated with 68% (women) / 33% (men) lower deaths of despair,S17,,Research (observational),Moderate
+Religious/spiritual struggles are linked to more distress,S22;S9;S3,,Research,Strong
+R/S is not a panacea and can delay care,S9;S21;S30,,Research/Documented,Strong
+Actively suicidal person is an emergency: call 988,S1;S11;S16;S12,,Documented,Strong
+988 has no faith-specific line; religious belief that suicide is noble is a risk factor,S12,,Documented (summary-only),Limited
+"Religious experiences (God's voice, possession, unpardonable sin) may be symptoms, spiritual problems, or both",S1;S11,,Documented,Strong
+Pair one Scripture memory verse with each CBT skill; contemplative verse prayer as mindfulness,S3;S13;S21,,Documented,Moderate
+Faith-integrated CBT (RCBT) outcomes,S3;S13,,Documented (citations only; no numbers retrieved),Limited
+Helpers should not take on the clergy's role or misrepresent services,S22;S24,,Documented,Strong
+60% say faith supports mental wellness; 57% would seek a faith leader; 3 in 5 would seek care if a faith leader recommended,S11,,Research (2024 APA poll; summary-only),Moderate
+66% of pastors seldom speak about mental illness; church referral lists go unknown (2014),S30,,Research (summary-only; dated),Limited
+KJV is public domain in the US,S20;S23;S25;S27,,Documented,Strong
+"KJV is under Crown letters patent in the UK (CUP 500 words, 25%)",S26;S27,,Documented (tertiary + summary),Moderate
+BSB dedicated to public domain 30 Apr 2023; all uses permitted,S6;S28,,Documented,Moderate
+WEB is public domain; altered text may not be called WEB,S7,,Documented,Moderate
+"Lockman permits AI systems (Claude named) up to 1,000 verses per response from NASB 1995/2020, AMP, NBLA, LBLA; label edition; no training; max 1,000 verses stored",S5,,Documented,Moderate
+"NASB/AMP general limit 1,000 verses, no complete book, <=50% of work; apps need full notice and link",S5;S28,,Documented,Strong
+"ESV limit 500 verses, < half a book, <25% of work; (ESV) initials in non-saleable media",S14;S4;S28,"S27 (claims 1,000 verses; summary-only)",Documented,Strong
+ESV may not be used in Creative Commons works or translated,S14;S28,,Documented,Strong
+"NIV limit 500 verses, <=50% of a book, <25% of work; 2011 text only; apps need licensing",S2;S25;S28,,Documented,Strong
+"NKJV limit 500 verses, <=25% of work, <=50% of a book",S2;S28,,Documented,Strong
+"NLT limit 500 verses, <=25% of work, no complete book; (NLT) per quote in non-salable media; apps via api.Bible",S20;S28,,Documented,Strong
+"CSB limit 1,000 verses, <=50% of work, no complete book; credit line must appear",S8;S28,,Documented,Strong
+ESV/NIV/NLT/CSB/NKJV publishers give no AI-specific terms,S2;S8;S14;S20,,Documented (absence),Moderate
+NET Bible quotation terms,,S15 (blocked; unverified),—,Limited
+Statutory fair use has no fixed verse or percentage threshold,S18,S28 (opinion that fair use applies regardless),Documented,Strong
+Label every Scripture quote with its translation and verify references,S27;S25;S5;S21,,Documented,Strong
+Do not scrape Bible Gateway or Project Gutenberg,S25;S23,,Documented,Strong
