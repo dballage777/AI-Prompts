@@ -1,4 +1,13 @@
 # PROGRESS — Top 30 research (media-recommender-rec-quality)
 - [x] Setup: branch claude/eager-cannon-i5x78b checked out and up to date; topic supplied by run instructions (ask step skipped)
 - [x] Access preflight (NOTES.md)
-- [ ] Pass 1 Discovery (5 batches: academic, llm, primary, usercentric, independent)
+- [x] Pass 1 Discovery: 5 batches (4 parallel workers + 1 run by the lead after a worker launch was refused) → candidates_*.md
+- [x] Pass 2 Expansion: followed survey citations, the awesome list, and related-work threads (faithfulness and false trust in LLM explanations)
+- [x] Pass 3 Validation: 69 shortlisted; arXiv abstracts and dates extracted; non-arXiv pages fetched and checked for content
+- [x] Pass 4 Community check (Reddit blocked; HN no substantive threads; reputation signals labeled anecdotal)
+- [x] Pass 5 Cross-check (hallucination definition across two papers plus the industry test; calibration definition in PDF and survey)
+- [x] Pass 6 Dedupe and clean (surveys found in several batches collapsed; arXiv abs canonical; third-party copies flagged)
+- [x] Pass 7 Score (SCORED_CANDIDATES.csv)
+- [x] Pass 8 Omission check (added 2605.10930, 2603.03080, CEUR ExUM-1, SRBench)
+- [x] Replacement loop: not needed (30 accessible)
+- [x] Final verification: all 30 URLs re-opened, all HTTP 200 (2026-11-14)

@@ -1,0 +1,70 @@
+rank,name,url,type,relevance,reliability,authority,depth,accuracy,practical,currentness,community,weighted_total,status
+1,Explainable Recommendation: A Survey and New Perspectives (Zhang & Chen),https://arxiv.org/abs/1804.11192,academic survey,10,9,10,10,9,7,6,10,9.2,selected
+2,"A Survey on Popularity Bias in Recommender Systems (Klimashevskaia, Jannach, Elahi & Trattner)",https://arxiv.org/abs/2308.01118,academic survey,10,9,9,10,9,7,8,8,9.05,selected
+3,"Calibrated Recommendations (Steck, Netflix, RecSys 2018)",https://salanghei.github.io/download/paper/CalibratedRecommendations.pdf,peer-reviewed paper (third-party PDF copy),10,9,10,8,9,9,6,9,9.05,selected
+4,Large Language Models are Zero-Shot Rankers for Recommender Systems (Hou et al.),https://arxiv.org/abs/2305.08845,peer-reviewed paper (ECIR),10,9,9,8,9,9,7,9,8.95,selected
+5,"Large Language Models are Competitive Near Cold-start Recommenders (Sanner et al., Google)",https://arxiv.org/abs/2307.14225,peer-reviewed paper (RecSys),10,9,9,8,9,10,7,7,8.95,selected
+6,Large Language Models as Zero-Shot Conversational Recommenders (He et al.),https://arxiv.org/abs/2308.10053,peer-reviewed paper (CIKM),10,9,9,8,9,9,7,8,8.9,selected
+7,"A Survey on Conversational Recommender Systems (Jannach, Manzoor, Cai & Chen)",https://arxiv.org/abs/2004.00646,academic survey (ACM CSUR),9,9,9,9,9,7,5,8,8.55,selected
+8,"What Are We Optimizing For? A Human-centric Evaluation of Deep Learning-based Movie Recommenders (Sun, Knijnenburg, Konstan et al.)",https://arxiv.org/abs/2401.11632,user study,9,9,9,8,9,8,8,6,8.55,selected
+9,"Beyond Utility: Evaluating LLM as Recommender (Jiang, Wang & Ma)",https://arxiv.org/abs/2411.00331,research paper,10,8,7,9,8,9,9,6,8.45,selected
+10,Google for Developers: Recommendation Systems course,https://developers.google.com/machine-learning/recommendation,official technical course,8,9,10,7,9,8,8,8,8.45,selected
+11,"Explanations and User Control in Recommender Systems (Jannach, Jugovac & Nunes)",https://web-ainf.aau.at/pub/jannach/files/BOOK_CHAPTER_PERSONALIZED_HCI_2019.pdf,book chapter (author copy),9,9,9,8,9,8,6,6,8.45,selected
+12,Calibrated Recommendations: Survey and Future Directions (da Silva & Jannach),https://arxiv.org/abs/2507.02643,academic survey,9,9,8,8,9,8,9,5,8.4,selected
+13,Bias and Debias in Recommender System: A Survey and Future Directions (Chen et al.),https://arxiv.org/abs/2010.03240,academic survey (TOIS),8,9,9,9,9,6,6,9,8.35,selected
+14,"Measuring ""Why"" in Recommender Systems: Evaluation of Explainable Recommendation (Chen, Zhang & Wen)",https://arxiv.org/abs/2202.06466,academic survey,8,9,9,9,9,6,6,7,8.25,selected
+15,"A Bi-Step Grounding Paradigm for LLMs in Recommendation (BIGRec, Bao et al.)",https://arxiv.org/abs/2308.08434,peer-reviewed paper (TORS),9,8,8,8,8,9,7,7,8.2,selected
+16,Cold-Start Recommendation towards the Era of LLMs: A Comprehensive Survey and Roadmap (Zhang et al.),https://arxiv.org/abs/2501.01945,academic survey,9,8,8,9,8,7,9,6,8.2,selected
+17,Large Language Models as Conversational Movie Recommenders: A User Study,https://arxiv.org/abs/2404.19093,user study,10,8,7,8,8,9,8,5,8.2,selected
+18,The Value of Personalized Recommendations: Evidence from Netflix,https://arxiv.org/abs/2511.07280,industry research,8,9,9,8,9,6,9,6,8.2,selected
+19,A Survey on Large Language Models for Recommendation (Wu et al.),https://arxiv.org/abs/2305.19860,academic survey,9,8,8,9,8,6,7,9,8.15,selected
+20,"Investigating Serendipity in Recommender Systems Based on Real User Feedback (Kotkov, Konstan, Zhao & Veijalainen)",https://will-qianzhao.github.io/pubs/kotkov2018sac.pdf,"peer-reviewed paper (SAC), author copy",9,9,8,7,9,7,6,7,8.1,selected
+21,Microsoft Recommenders documentation,https://recommenders-team.github.io/recommenders/intro.html,open-source docs,7,9,9,7,9,7,9,9,8.1,selected
+22,"Large Language Models as Recommender Systems: A Study of Popularity Bias (Lichtenberg, Buchholz & Schwöbel)",https://arxiv.org/abs/2406.01285,research paper,10,8,7,7,8,9,8,5,8.05,selected
+23,"UX Guidelines for Recommended Content (Harley, Nielsen Norman Group)",https://www.nngroup.com/articles/recommendation-guidelines/,UX research,9,8,9,6,8,9,6,8,8.05,selected
+24,Enhancing Recommendation Diversity by Re-ranking with Large Language Models (Carraro & Bridge),https://arxiv.org/abs/2401.11506,peer-reviewed paper (TORS),9,8,8,7,8,9,8,5,8.0,selected
+25,Hallucinations: What's the risk? (Gracenote),https://gracenote.com/insights/hallucinations-whats-the-risk/,industry report (vendor),10,7,8,7,7,9,10,5,8.0,selected
+26,Language-Based User Profiles for Recommendation (Zhou et al.),https://arxiv.org/abs/2402.15623,research paper,9,8,8,7,8,9,8,5,8.0,selected
+27,Improving Recommendation Systems & Search in the Age of LLMs (Eugene Yan),https://eugeneyan.com/writing/recsys-llm/,independent practitioner essay,8,8,8,8,8,7,9,9,8.0,selected
+28,The Unfairness of Popularity Bias in Recommendation (Abdollahpouri et al.),https://arxiv.org/abs/1907.13286,workshop paper,9,8,8,7,8,8,6,8,7.95,selected
+29,"Contextualizing Recommendation Explanations with LLMs: A User Study (Feng, Feuerriegel & Shrestha)",https://arxiv.org/abs/2501.12152,pre-registered user study,9,8,8,7,8,8,9,5,7.95,selected
+30,The Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify,https://arxiv.org/abs/2003.08203,industry field experiment,8,9,9,7,9,6,6,7,7.95,selected
+31,"Recommender Systems in the Era of Large Language Models (Zhao, Fan et al.)",https://arxiv.org/abs/2307.02046,academic survey (TKDE),8,8,8,9,8,6,7,8,7.9,near-miss (scored below rank 30)
+32,On Explaining Recommendations with Large Language Models: A Review,https://arxiv.org/abs/2411.19576,systematic review,9,8,7,8,8,8,8,5,7.9,near-miss (scored below rank 30)
+33,"Evaluating Position Bias in Large Language Model Recommendations (Bito, Ren & He)",https://arxiv.org/abs/2508.02020,research paper,9,8,7,7,8,9,9,5,7.9,near-miss (scored below rank 30)
+34,"Recommender AI Agent: Integrating LLMs for Interactive Recommendations (InteRecAgent, Microsoft)",https://arxiv.org/abs/2308.16505,research paper,8,8,8,8,8,8,7,7,7.9,near-miss (scored below rank 30)
+35,Evaluating Recommender Systems: Survey and Framework (Zangerle & Bauer),https://dbis-web1.uibk.ac.at/sites/default/files/2022-08/zangerle-csur-2022.pdf,academic survey (author copy),7,9,8,9,9,6,7,6,7.9,near-miss (scored below rank 30)
+36,User-centered Evaluation of Popularity Bias in Recommender Systems (Abdollahpouri et al.),https://arxiv.org/abs/2103.06364,peer-reviewed paper (UMAP),9,8,8,7,8,8,6,6,7.85,near-miss (scored below rank 30)
+37,"On YouTube's recommendation system (Goodrow, YouTube Official Blog)",https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/,official primary,8,8,10,6,8,7,7,7,7.8,near-miss (scored below rank 30)
+38,Result Diversification in Search and Recommendation: A Survey (Wu et al.),https://arxiv.org/abs/2212.14464,academic survey (TKDE),8,8,8,9,8,6,7,6,7.8,near-miss (scored below rank 30)
+39,"Values of User Exploration in Recommender Systems (Chen et al., Google)",https://research.google/pubs/values-of-exploration-in-recommender-systems/,industry research (abstract page),8,9,9,5,9,7,7,6,7.75,near-miss (scored below rank 30)
+40,"Degenerate Feedback Loops in Recommender Systems (Jiang et al., DeepMind)",https://arxiv.org/abs/1902.10730,peer-reviewed paper (AIES),7,9,9,7,9,6,6,7,7.75,near-miss (scored below rank 30)
+41,REGEN: Empowering personalized recommendations with natural language (Google Research),https://research.google/blog/regen-empowering-personalized-recommendations-with-natural-language/,industry research blog,8,8,9,6,8,7,9,5,7.65,near-miss (scored below rank 30)
+42,What Is Serendipity? An Interview Study to Conceptualize Experienced Serendipity,https://arxiv.org/abs/2505.15440,qualitative study,9,8,7,7,8,7,9,4,7.65,near-miss (scored below rank 30)
+43,Advances and Challenges in Conversational Recommender Systems: A Survey (Gao et al.),https://arxiv.org/abs/2101.09459,academic survey,8,8,8,8,8,6,6,7,7.65,near-miss (scored below rank 30)
+44,In-context learning for addressing user cold-start in sequential movie recommenders (Amazon Science),https://www.amazon.science/publications/in-context-learning-for-addressing-user-cold-start-in-sequential-movie-recommenders,industry research (abstract page),9,8,8,5,8,8,9,4,7.6,near-miss (scored below rank 30)
+45,Evaluating ChatGPT as a Recommender System: A Rigorous Approach (Di Palma et al.),https://arxiv.org/abs/2309.03613,research paper,8,8,7,8,8,7,7,6,7.6,near-miss (scored below rank 30)
+46,Do LLMs Memorize Recommendation Datasets? A Study on MovieLens-1M (Di Palma et al.),https://arxiv.org/abs/2505.10212,research paper,9,8,7,6,8,7,9,5,7.55,near-miss (scored below rank 30)
+47,Filter Bubbles in Recommender Systems: Fact or Fallacy (systematic review),https://arxiv.org/abs/2307.01221,systematic review,8,8,7,8,8,6,7,6,7.5,near-miss (scored below rank 30)
+48,Calibrated Recommendations with Contextual Bandits on Spotify Homepage (Spotify Research),https://research.atspotify.com/2025/9/calibrated-recommendations-with-contextual-bandits-on-spotify-homepage,industry research blog,8,8,9,5,8,7,9,5,7.5,near-miss (scored below rank 30)
+49,Evaluating the False Trust Engendered by LLM Explanations,https://arxiv.org/abs/2605.10930,user study,8,8,7,7,8,7,10,4,7.5,near-miss (scored below rank 30)
+50,Multi-Interest Recommendation: A Survey (Li et al.),https://arxiv.org/abs/2506.15284,academic survey,8,8,7,8,8,6,9,4,7.5,near-miss (scored below rank 30)
+51,"Hands on Data and Algorithmic Bias in Recommender Systems (Boratto & Marras, UMAP 2020 tutorial)",https://biasinrecsys.github.io/umap2020/,tutorial,8,8,8,7,8,7,5,6,7.5,near-miss (scored below rank 30)
+52,Understanding Biases in ChatGPT-based Recommender Systems (Deldjoo),https://arxiv.org/abs/2401.10545,research paper,8,8,7,7,8,7,8,5,7.45,near-miss (scored below rank 30)
+53,"Is ChatGPT Fair for Recommendation? (FaiRLLM, Zhang et al.)",https://arxiv.org/abs/2305.07609,peer-reviewed paper (RecSys),7,8,8,7,8,6,7,8,7.4,near-miss (scored below rank 30)
+54,Large Language Models are Not Stable Recommender Systems (Ma et al.),https://arxiv.org/abs/2312.15746,research paper,8,8,7,6,8,8,7,5,7.35,near-miss (scored below rank 30)
+55,Exploring the Potential of LLMs for Serendipity Evaluation (SerenEva),https://arxiv.org/abs/2507.17290,peer-reviewed paper (RecSys),8,8,7,7,8,6,9,4,7.35,near-miss (scored below rank 30)
+56,Beyond Factual Correctness: Mitigating Preference-Inconsistent Explanations in Explainable Recommendation,https://arxiv.org/abs/2603.03080,research paper,9,7,6,7,7,8,10,3,7.3,near-miss (scored below rank 30)
+57,"A Survey on Cross-domain Recommendation (Zang, Zhu et al.)",https://arxiv.org/abs/2108.03357,academic survey,7,8,8,8,8,5,6,6,7.3,near-miss (scored below rank 30)
+58,Decoding Matters: Amplification Bias and Homogeneity in LLM-based Recommendation (Bao et al.),https://arxiv.org/abs/2406.14900,peer-reviewed paper (EMNLP),7,8,8,7,8,6,8,5,7.3,near-miss (scored below rank 30)
+59,GPT4Rec: A Generative Framework for Personalized Recommendation (Amazon Science),https://www.amazon.science/publications/gpt4rec-a-generative-framework-for-personalized-recommendation-and-user-interests-interpretation,industry research (abstract page),8,8,8,5,8,7,7,5,7.25,near-miss (scored below rank 30)
+60,"How Prompting Shapes LLM-Generated Explanations for Recommender Systems (Oshchepkov & Tommasel, ExUM)",https://ceur-ws.org/Vol-4206/ExUM-1.pdf,workshop paper,9,7,6,6,7,9,10,3,7.25,near-miss (scored below rank 30)
+61,Tell Me the Good Stuff: User Preferences in Movie Recommendation Explanations,https://arxiv.org/abs/2505.03376,user study,9,7,6,6,7,8,9,4,7.15,near-miss (scored below rank 30)
+62,User Preferences for LLM versus Template-Based Explanations of Movie Recommendations (Albert et al.),https://arxiv.org/abs/2409.06297,pilot user study,9,7,6,6,7,8,8,3,7.05,near-miss (scored below rank 30)
+63,Representation Online Matters: End-to-End Diversification (Pinterest),https://arxiv.org/abs/2305.15534,industry paper (FAccT),6,8,8,7,8,5,7,5,6.95,near-miss (scored below rank 30)
+64,How AI powers experiences on Facebook and Instagram: system cards (Meta AI),https://ai.meta.com/blog/how-ai-powers-experiences-facebook-instagram-system-cards/,official primary,6,8,9,5,8,5,7,5,6.8,near-miss (scored below rank 30)
+65,Is ChatGPT a Good Recommender? A Preliminary Study (Liu et al.),https://arxiv.org/abs/2304.10149,research paper,7,7,7,6,7,6,6,8,6.75,near-miss (scored below rank 30)
+66,How Reliable is Your Simulator? Limitations of LLM-based User Simulators (Zhu et al.),https://arxiv.org/abs/2403.16416,research paper,6,8,7,6,8,5,8,4,6.65,near-miss (scored below rank 30)
+67,SRBench: A Comprehensive Benchmark for Sequential Recommendation with LLMs,https://arxiv.org/abs/2604.09553,benchmark paper,7,7,6,7,7,5,10,3,6.6,near-miss (scored below rank 30)
+68,"Exploring public service recommendation algorithms (Fields, Jones & Cowlishaw, BBC R&D)",https://facctrec.github.io/fatrec2018/program/fatrec2018-fields.pdf,workshop position paper,6,8,8,5,8,5,6,4,6.55,near-miss (scored below rank 30)
+69,RikoNet: A Novel Anime Recommendation Engine,https://arxiv.org/abs/2106.12970,research paper,7,6,5,5,6,6,6,3,5.75,near-miss (scored below rank 30)

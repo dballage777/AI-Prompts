@@ -1,0 +1,30 @@
+1. Explainable Recommendation: A Survey and New Perspectives (Zhang & Chen) — https://arxiv.org/abs/1804.11192
+2. A Survey on Popularity Bias in Recommender Systems (Klimashevskaia, Jannach, Elahi & Trattner) — https://arxiv.org/abs/2308.01118
+3. Calibrated Recommendations (Steck, Netflix, RecSys 2018) — https://salanghei.github.io/download/paper/CalibratedRecommendations.pdf
+4. Large Language Models are Zero-Shot Rankers for Recommender Systems (Hou et al.) — https://arxiv.org/abs/2305.08845
+5. Large Language Models are Competitive Near Cold-start Recommenders (Sanner et al., Google) — https://arxiv.org/abs/2307.14225
+6. Large Language Models as Zero-Shot Conversational Recommenders (He et al.) — https://arxiv.org/abs/2308.10053
+7. A Survey on Conversational Recommender Systems (Jannach, Manzoor, Cai & Chen) — https://arxiv.org/abs/2004.00646
+8. What Are We Optimizing For? A Human-centric Evaluation of Deep Learning-based Movie Recommenders (Sun, Knijnenburg, Konstan et al.) — https://arxiv.org/abs/2401.11632
+9. Beyond Utility: Evaluating LLM as Recommender (Jiang, Wang & Ma) — https://arxiv.org/abs/2411.00331
+10. Google for Developers: Recommendation Systems course — https://developers.google.com/machine-learning/recommendation
+11. Explanations and User Control in Recommender Systems (Jannach, Jugovac & Nunes) — https://web-ainf.aau.at/pub/jannach/files/BOOK_CHAPTER_PERSONALIZED_HCI_2019.pdf
+12. Calibrated Recommendations: Survey and Future Directions (da Silva & Jannach) — https://arxiv.org/abs/2507.02643
+13. Bias and Debias in Recommender System: A Survey and Future Directions (Chen et al.) — https://arxiv.org/abs/2010.03240
+14. Measuring "Why" in Recommender Systems: Evaluation of Explainable Recommendation (Chen, Zhang & Wen) — https://arxiv.org/abs/2202.06466
+15. A Bi-Step Grounding Paradigm for LLMs in Recommendation (BIGRec, Bao et al.) — https://arxiv.org/abs/2308.08434
+16. Cold-Start Recommendation towards the Era of LLMs: A Comprehensive Survey and Roadmap (Zhang et al.) — https://arxiv.org/abs/2501.01945
+17. Large Language Models as Conversational Movie Recommenders: A User Study — https://arxiv.org/abs/2404.19093
+18. The Value of Personalized Recommendations: Evidence from Netflix — https://arxiv.org/abs/2511.07280
+19. A Survey on Large Language Models for Recommendation (Wu et al.) — https://arxiv.org/abs/2305.19860
+20. Investigating Serendipity in Recommender Systems Based on Real User Feedback (Kotkov, Konstan, Zhao & Veijalainen) — https://will-qianzhao.github.io/pubs/kotkov2018sac.pdf
+21. Microsoft Recommenders documentation — https://recommenders-team.github.io/recommenders/intro.html
+22. Large Language Models as Recommender Systems: A Study of Popularity Bias (Lichtenberg, Buchholz & Schwöbel) — https://arxiv.org/abs/2406.01285
+23. UX Guidelines for Recommended Content (Harley, Nielsen Norman Group) — https://www.nngroup.com/articles/recommendation-guidelines/
+24. Enhancing Recommendation Diversity by Re-ranking with Large Language Models (Carraro & Bridge) — https://arxiv.org/abs/2401.11506
+25. Hallucinations: What's the risk? (Gracenote) — https://gracenote.com/insights/hallucinations-whats-the-risk/
+26. Language-Based User Profiles for Recommendation (Zhou et al.) — https://arxiv.org/abs/2402.15623
+27. Improving Recommendation Systems & Search in the Age of LLMs (Eugene Yan) — https://eugeneyan.com/writing/recsys-llm/
+28. The Unfairness of Popularity Bias in Recommendation (Abdollahpouri et al.) — https://arxiv.org/abs/1907.13286
+29. Contextualizing Recommendation Explanations with LLMs: A User Study (Feng, Feuerriegel & Shrestha) — https://arxiv.org/abs/2501.12152
+30. The Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify — https://arxiv.org/abs/2003.08203
