@@ -23,7 +23,7 @@
 23. UX Guidelines for Recommended Content (Harley, Nielsen Norman Group) — https://www.nngroup.com/articles/recommendation-guidelines/
 24. Enhancing Recommendation Diversity by Re-ranking with Large Language Models (Carraro & Bridge) — https://arxiv.org/abs/2401.11506
 25. Hallucinations: What's the risk? (Gracenote) — https://gracenote.com/insights/hallucinations-whats-the-risk/
-26. Language-Based User Profiles for Recommendation (Zhou et al.) — https://arxiv.org/abs/2402.15623
+26. Language-Based User Profiles for Recommendation (Dai, Zhou et al.) — https://arxiv.org/abs/2402.15623
 27. Improving Recommendation Systems & Search in the Age of LLMs (Eugene Yan) — https://eugeneyan.com/writing/recsys-llm/
 28. The Unfairness of Popularity Bias in Recommendation (Abdollahpouri et al.) — https://arxiv.org/abs/1907.13286
 29. Contextualizing Recommendation Explanations with LLMs: A User Study (Feng, Feuerriegel & Shrestha) — https://arxiv.org/abs/2501.12152

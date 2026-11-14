@@ -24,7 +24,7 @@ rank,name,url,type,relevance,reliability,authority,depth,accuracy,practical,curr
 23,"UX Guidelines for Recommended Content (Harley, Nielsen Norman Group)",https://www.nngroup.com/articles/recommendation-guidelines/,UX research,9,8,9,6,8,9,6,8,8.05,selected
 24,Enhancing Recommendation Diversity by Re-ranking with Large Language Models (Carraro & Bridge),https://arxiv.org/abs/2401.11506,peer-reviewed paper (TORS),9,8,8,7,8,9,8,5,8.0,selected
 25,Hallucinations: What's the risk? (Gracenote),https://gracenote.com/insights/hallucinations-whats-the-risk/,industry report (vendor),10,7,8,7,7,9,10,5,8.0,selected
-26,Language-Based User Profiles for Recommendation (Zhou et al.),https://arxiv.org/abs/2402.15623,research paper,9,8,8,7,8,9,8,5,8.0,selected
+26,Language-Based User Profiles for Recommendation (Dai, Zhou et al.),https://arxiv.org/abs/2402.15623,research paper,9,8,8,7,8,9,8,5,8.0,selected
 27,Improving Recommendation Systems & Search in the Age of LLMs (Eugene Yan),https://eugeneyan.com/writing/recsys-llm/,independent practitioner essay,8,8,8,8,8,7,9,9,8.0,selected
 28,The Unfairness of Popularity Bias in Recommendation (Abdollahpouri et al.),https://arxiv.org/abs/1907.13286,workshop paper,9,8,8,7,8,8,6,8,7.95,selected
 29,"Contextualizing Recommendation Explanations with LLMs: A User Study (Feng, Feuerriegel & Shrestha)",https://arxiv.org/abs/2501.12152,pre-registered user study,9,8,8,7,8,8,9,5,7.95,selected
