@@ -61,10 +61,10 @@ Workarounds: arXiv copies replace ACM DL versions; raw.githubusercontent.com and
 ## Community findings (anecdotal)
 - Reddit is blocked, and Hacker News searches surfaced no substantive thread on recommendation quality or LLM title hallucination.
 - Repeated reputation signals (anecdotal): the Zhang & Chen explainability survey, the Abdollahpouri popularity-bias line, Steck's calibration paper, and the Wu et al. LLM4Rec survey (with its awesome list, about 2k GitHub stars per aggregators) are the most-cited entry points named in tutorials, awesome lists, and later surveys. Eugene Yan's essays are widely recommended by practitioners.
-- Search-summary reports of users finding ChatGPT invented film titles and then insisted they were real. The Gracenote 2026 report (vendor) quantifies this for movie/TV metadata. Treat the vendor framing cautiously, since Gracenote sells grounding data.
+- Search-summary reports of users finding ChatGPT invented film titles and then insisted they were real. Search-result summaries also attributed a figure to Gracenote: 506 of 2,600 movie/TV titles got entirely wrong metadata from an ungrounded LLM. That figure was NOT found in the Gracenote article that was opened (S25 in the knowledge base), which gives qualitative risk ratings only, so it is not used anywhere as a fact. Treat the vendor framing cautiously, since Gracenote sells grounding data.
 
 ## Cross-checks (Pass 5)
-- "Hallucinated items" is defined and measured as catalog-absent titles in Jiang et al. (2411.00331, abstract), and is also measured in SRBench (2604.09553). The phenomenon is confirmed by two independent research groups plus the Gracenote industry test.
+- "Hallucinated items" is defined and measured as catalog-absent titles in Jiang et al. (2411.00331, abstract), and is also measured in SRBench (2604.09553). The phenomenon is confirmed by two independent research groups; the Gracenote article adds qualitative, vendor-side risk ratings (no data).
 - Steck calibration: the definition (a list should match the user's genre distribution, e.g., 70/30 romance/action) was confirmed in the PDF and restated in the da Silva & Jannach survey (51 papers reviewed).
 - The Netflix authorship of 2511.07280 is per the batch report and the arXiv title. The paper is framed as evidence "from Netflix".
 

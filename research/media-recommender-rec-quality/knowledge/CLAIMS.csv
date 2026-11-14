@@ -1,0 +1,39 @@
+point,supporting_S#,conflicting_S#,evidence_label,strength
+Accuracy-only ranking crowds out a user's minor interests and over-weights popular items,S3;S10;S28;S2;S13,,Research/Documented,Strong
+Calibration (match list genre/popularity mix to the user's history) improves balance with small accuracy cost offline,S3;S12,,Research,Strong
+Calibration to past interests alone keeps users in a bubble; blend an exploration prior,S3;S12,,Research,Moderate
+Calibration did not hurt CTR in the one field A/B test,S12;S2,S3 (offline accuracy cost),Research,Moderate
+"Perceived accuracy, trust and transparency explain 55% of satisfaction variance (445 MovieLens users)",S8,,Research,Moderate
+Unexplained serendipity lowers trust and transparency,S8,,Research,Moderate
+"'Would not have found it myself' serendipity broadens taste without lowering satisfaction; 'unexpected to be relevant' lowers satisfaction",S20,,Research,Moderate
+Popularity partly reflects quality and is a strong baseline in cold start,S2;S5;S13,,Research,Strong
+Popularity-based ranking reduces engagement and narrows consumption vs personalization,S18;S30,,Research,Strong
+Niche and heavy users are served worst by popularity bias,S28;S17,,Research,Moderate
+LLM recommenders are popularity-biased,S4;S6;S17;S19,S9;S22 (less biased than trained CF),Research,Contested
+'Match my popularity level' prompt is safer than 'avoid mainstream' (which collapses accuracy),S22,,Research,Moderate
+LLMs rank candidates with position bias (early items favored); shuffling/bootstrapping helps,S4;S9;S19,,Research,Strong
+LLMs ignore history order and do best with short (<10) recent histories,S4;S9,,Research,Strong
+LLMs recommend mainly from content/context knowledge rather than collaborative knowledge,S6;S15,,Research,Moderate
+LLMs produce some hallucinated or invalid titles; outputs must be grounded to a catalog,S4;S6;S9;S15;S19;S22;S24;S27,,Research/Reported,Strong
+LLM title hallucination rate is low (~1-5%) for strong models,S6;S9;S4,S22 (6-14% invalid);S24 (up to 22.4%);S9 (Mistral ~23%),Research,Contested
+Grounding method matters (BM25 vs embeddings),S15;S9;S27,S15 (BM25 nearly failed) vs S9/S27 (BM25 workable),Research/Reported,Contested
+"Hard facts (season/episode counts, dates, runtimes, IDs) are highest hallucination risk; genre/type low risk",S25,,Reported (vendor),Limited
+Free-text taste descriptions are a competitive cold-start input for LLM recommenders,S5;S26;S19;S9,,Research,Strong
+Short (50-200 word) editable text profiles work about as well as full history and are steerable,S26;S5,,Research,Moderate
+Dislikes alone are weak signals; use them as filters,S5;S23,,Research/Reported,Moderate
+User-provided context (examples and requirements) drives LLM recommendation satisfaction more than prompt shot count,S17,S5 (few-shot 3 beat zero-shot),Research,Contested
+Contextualized history-grounded explanations raise trust and intent; generic LLM explanations lower intent below none,S29,,Research,Moderate
+Item-based 'because you liked X' explanations are more credible than 'users like you',S1;S23;S11,,Research/Reported,Strong
+Feature-based explanations help users predict enjoyment; popularity-only explanations inflate expectations,S11,,Research,Moderate
+Persuasive explanations need not be faithful; evaluate faithfulness separately,S1;S14;S29,,Research,Strong
+LLMs may over-interpret history and invent user preferences which damages trust,S17;S29,,Research,Moderate
+Vague 'maximize diversity' instructions are unreliable for LLM re-rankers,S24,,Research,Moderate
+Users expect negative feedback to act immediately and generalize it to the category,S23,,Reported,Limited
+Few users use buried recommendation-control features (~8% on Amazon),S11,,Research,Moderate
+CRS should support revise/ask-why/details/feedback/restart with mixed initiative,S7,,Research,Moderate
+Longer recommendation conversations go with lower satisfaction,S17,,Research,Moderate
+Engagement-only personalization narrows individual diversity while raising between-user diversity,S30,S18 (personalization raises diversity overall),Research,Contested
+Filter bubbles from recommenders,S13,S20;S30 (aggregate diversity up),Research,Contested
+LLMs beat traditional recommenders in cold-start/sparse settings but not in warm settings,S5;S9;S6,S17 (users rated classic CF better),Research,Contested
+Mid-popularity titles gain most from personalized targeting,S18,S28 (long-tail framing),Research,Contested
+Optimizing a single proxy (clicks/watch time/consumption) produces side effects,S10;S30,,Documented/Research,Strong
