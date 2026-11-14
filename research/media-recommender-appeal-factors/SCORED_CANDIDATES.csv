@@ -1,0 +1,96 @@
+rank,name,url,type,relevance,reliability,authority,depth,accuracy,practical,currentness,community,weighted_total,status
+1,"The Readers' Advisory Guide to Genre Fiction, 3rd ed. (Saricks & Wyatt) - sample chapters",https://www.alastore.ala.org/sites/default/files/book_samples/9780838917817_sample_0.pdf,book sample (primary/authoritative),10,9,10,9,9,9,7,9,9.25,selected
+2,"Understanding Appeals of Video Games for Readers' Advisory and Recommendation (Lee et al., RUSQ)",https://journals.ala.org/index.php/rusq/article/view/6529/8685,peer-reviewed article,10,9,9,9,9,8,6,6,8.8,selected
+3,"Appeal Factors: Enabling Cross-media Advisory Services (Lee, Windleharth & Cho, OCLC/ALISE report)",https://www.oclc.org/content/dam/research/grants/reports/2015/lee2015.pdf,research report,10,9,9,8,9,8,5,6,8.6,selected
+4,NoveList Guide to Story Elements (The Secret Language of Books),https://about.ebsco.com/sites/g/files/nabnos191/files/acquiadam-assets/NoveList-Guide-to-Story-Elements.pdf,vendor primary documentation,9,8,9,8,8,10,8,8,8.55,selected
+5,"Facet Analysis of Anime Genres (Cho et al., Knowledge Organization)",https://storage.imrpress.com/imr/journal/KO/article/504774/1752845195213.pdf,peer-reviewed article,9,9,8,9,9,7,7,5,8.35,selected
+6,"Investigating Characteristics of Media Recommendation Solicitation in r/ifyoulikeblank (Bhuiyan et al., CSCW)",https://arxiv.org/abs/2408.06201,peer-reviewed paper (preprint copy),9,9,8,9,8,7,9,5,8.35,selected
+7,"""If I Like BLANK, What Else Will I Like?"" (Cao & Bogers, iConference)",https://vbn.aau.dk/ws/files/819969175/iconf2024-if-you-like-blank.pdf,peer-reviewed conference paper,9,9,8,8,9,7,9,5,8.3,selected
+8,"Materials Matchmaking: Articulating Whole Library Advisory (Williamson, RUSQ)",https://journals.ala.org/index.php/rusq/article/download/3966/4452,professional journal column,10,8,8,7,8,9,4,6,8.05,selected
+9,Major Updates to NoveList's Appeals Vocabulary (NoveList blog),https://about.ebsco.com/blogs/novelist/major-updates-novelist-appeals-vocabulary,vendor primary announcement,9,8,9,5,9,8,9,7,8.0,selected
+10,Readers' Advisory Conversation - RA Core Competencies Toolkit (Ontario Library Association),https://accessola.com/wp-content/uploads/2020/10/2018-RA-competency_conversation_final.pdf,professional association guideline,8,8,8,8,8,9,6,6,7.9,selected
+11,"""I'm looking for something like ..."": Narrative-driven Book Recommendation (Bogers & Koolen, KaRS)",https://ceur-ws.org/Vol-2290/kars2018_paper7.pdf,peer-reviewed workshop paper,8,9,8,8,8,7,6,5,7.85,selected
+12,"Good for What? Non-appeal, Discussability, and Book Groups (Bessman Taylor, RUSQ)",https://journals.ala.org/index.php/rusq/article/download/4133/4701,professional journal column,9,8,7,7,8,9,4,6,7.7,selected
+13,"Large Language Models as Narrative-Driven Recommenders (Eberhard, Ruprechter & Helic)",https://arxiv.org/abs/2410.13604,preprint,8,8,7,7,8,8,9,5,7.6,selected
+14,"In the Eye of the Beholder: Readers' Advisory from a Cataloging Perspective (Tarulli & Caplinger, RUSQ)",https://journals.ala.org/index.php/rusq/article/view/2892/2959,professional journal column,8,8,8,7,8,8,4,6,7.55,selected
+15,Players' Advisory: Librarians Share Tips for Recommending Games (American Libraries),https://americanlibrariesmagazine.org/blogs/the-scoop/players-advisory/,professional magazine,9,7,7,6,7,9,10,6,7.55,selected
+16,"Searching for Movies: An Exploratory Analysis of Movie-related Information Needs (Bogers, iConference)",https://vbn.aau.dk/ws/files/211306583/iconf2015_analyzing_movie_needs.CAMERA_READY.pdf,peer-reviewed conference paper,9,8,7,7,8,7,4,5,7.45,selected
+17,Manga Goes to School (ALA Editions) - sample chapter,https://alastore.ala.org/sites/default/files/2024-11/9798892555852_sample.pdf,book sample,7,8,8,7,8,7,9,5,7.45,selected
+18,"For Fans of the Marvelous Mrs. Maisel, Watch- and Read-Alikes Aplenty (Wyatt, LJ RA Crossroads)",https://www.libraryjournal.com/story/for-fans-of-the-marvelous-mrs-maisel-watch-and-read-alikes-aplenty-ra-crossroads,professional magazine column,9,7,8,5,7,9,7,6,7.4,selected
+19,"Analyzing Anime Users' Online Forum Queries for Recommendation (Cho et al., Journal of Documentation) - abstract",https://experts.boisestate.edu/en/publications/analyzing-anime-users-online-forum-queries-for-recommendation-usi/,peer-reviewed article (abstract record),9,8,8,4,8,7,6,5,7.25,selected
+20,"We Owe Our Work to Theirs: 25th Anniversary of Readers' Advisory Service in the Public Library (Wyatt, RUSQ)",https://journals.ala.org/index.php/rusq/article/download/2766/2756,professional journal column (history),7,8,8,7,8,6,4,6,7.15,selected
+21,"Redefining RA: An RA Big Think (Wyatt, Library Journal)",https://www.libraryjournal.com/story/lj-series-redefining-ra-an-ra-big-think,professional magazine,8,7,8,7,7,7,3,6,7.1,selected
+22,How to Read a Book in 5 Minutes (NoveList blog),https://about.ebsco.com/blogs/novelist/how-read-book-5-minutes-aka-how-figure-out-if-book-will-appeal-your-reader,vendor practitioner blog,8,7,7,5,7,9,7,6,7.05,selected
+23,For Fans Of... Just About Anything! (NoveList blog),https://about.ebsco.com/blogs/novelist/fans-just-about-anything,vendor practitioner blog,8,7,7,4,7,8,10,6,6.95,selected
+24,The Emotional Arcs of Stories Are Dominated by Six Basic Shapes (Reagan et al.),https://arxiv.org/abs/1606.07772,peer-reviewed article (preprint),6,8,7,8,8,5,5,7,6.95,selected
+25,Readers' Advisory for Gamer Patrons (NoveList blog),https://about.ebsco.com/blogs/novelist/readers-advisory-gamer-patrons,vendor practitioner blog,8,7,7,4,7,9,7,6,6.9,selected
+26,"Book Appeal, Literacy, and the Reader: Readers' Advisory in Practice and Theory (Ferri, See Also)",https://ojs.library.ubc.ca/index.php/seealso/article/view/186334,student journal article (critique),8,7,5,8,8,6,4,4,6.75,selected
+27,"The State of Readers' Advisory: A Discussion (Clark, RUSQ)",https://journals.ala.org/index.php/rusq/article/download/8424/11697,professional journal column,7,7,7,6,7,7,7,5,6.75,selected
+28,"Video Game Metadata Schema: Visual Style Controlled Vocabulary (UBC wiki, from UW GAMER Group)",https://wiki.ubc.ca/Course:ARST_556L/LIBR_514L/Metadata_Alphabets/Controlled_Vocabularies/VGMS_CV_VisualStyle,controlled vocabulary (course wiki copy),7,7,7,6,8,7,6,4,6.75,selected
+29,"Netflix Built Its Microgenres by Staring into the American Soul (Madrigal, NPR)",https://www.npr.org/sections/alltechconsidered/2014/01/02/259128268/netflix-built-its-microgenres-by-staring-into-the-american-soul,journalism,7,7,6,6,7,7,3,7,6.5,selected
+30,"Genre-based Readers' Advisory for Comics & Manga (LibraryPass, Moni's Picks)",https://librarypass.com/2026/02/12/genre-based-readers-advisory-for-comics-manga-monis-picks/,vendor practitioner blog,7,6,6,5,6,8,10,5,6.4,selected
+31,RA Core Competencies: Collection Knowledge (OLA),https://accessola.com/wp-content/uploads/2020/10/2018-RA-Core-Competencies-Collection-knowledge.pdf,association guideline,6,8,8,6,8,7,6,5,6.95,near-miss: overlaps S13
+32,RA Competency: Reader Development (OLA),https://accessola.com/wp-content/uploads/2015-RA-Competency4_ReaderDevelopment.pdf,association guideline,6,8,8,5,8,7,5,5,6.75,near-miss: overlaps S13
+33,Two Decades of Readers' Advisory in RUSQ (Thakare & Kumbhar),https://journals.ala.org/index.php/rusq/article/download/8319/11571,content analysis,6,8,7,7,8,5,6,4,6.7,near-miss: bibliometric; little on appeal itself
+34,Large Language Model Augmented Narrative Driven Recommendations (Mysore et al.),https://arxiv.org/abs/2306.02250,preprint,5,8,7,6,8,6,8,5,6.6,near-miss: points-of-interest domain; better for topic 2
+35,"A Selection of Core Resources for RA (Wyatt, RUSQ ALERT Collector)",https://journals.ala.org/index.php/rusq/article/download/3173/3305,bibliography,6,8,8,5,8,6,3,5,6.55,near-miss: older tool list
+36,"Manga in Libraries (Rudes, ALA Editions) - sample",https://alastore.ala.org/sites/default/files/book_samples/9780838938614_sample.pdf,book sample,6,7,7,6,7,6,7,5,6.45,near-miss: teen focus; sample has no appeal content
+37,From Genre Categorization to User Discovery: Online Comic Platforms in Taiwan (DCMI 2026),https://dcpapers-data.dublincore.org/articles/dcmi-2026/952618546/files/dcmi-952618546.pdf,conference paper,6,7,6,6,7,5,10,3,6.25,near-miss: regional platform study
+38,RA for All: Getting to the heart of character appeal (Spratford),https://raforall.blogspot.com/2015/07/getting-to-heart-of-character-appeal.html,practitioner blog,7,6,7,5,6,7,4,6,6.2,near-miss: good but narrower than selected sources
+39,RA for All (blog home),https://raforall.blogspot.com/,practitioner blog,6,6,7,4,6,6,9,6,6.0,near-miss: homepage; rolling posts
+40,Directory of Readers' Advisory Activities (Panorama Project),https://www.panoramaproject.org/directory-of-readers-advisory-activities-indirect,industry project,5,7,6,6,7,6,6,4,6.0,"near-miss: activities, not appeal matching"
+41,"Adult RA Services through Public Library Websites (Burke & Strothmann, RUSQ)",https://journals.ala.org/index.php/rusq/article/download/5861/7382,research article,4,8,7,6,8,4,5,4,6.0,"near-miss: service delivery, not appeal"
+42,MyAnimeList anime search (genre/theme/demographic list),https://myanimelist.net/anime.php,database,5,7,7,3,7,6,9,7,6.0,near-miss: belongs to topic 3
+43,GAMER Group projects (UW iSchool),https://gamer.ischool.uw.edu/projects,research group page,5,8,8,3,8,4,7,4,6.0,near-miss: project list
+44,RA School: Learning from ILS Faculty (RUSQ),https://journals.ala.org/index.php/rusq/article/view/7718/10716,interviews,5,7,7,5,7,5,6,4,5.9,near-miss: education focus
+45,AniList API: MediaTag,https://anilist.gitbook.io/anilist-apiv2-docs/docs/reference/object/mediatag,API docs,5,8,7,2,8,5,8,5,5.9,near-miss: schema only; belongs to topic 3
+46,"The Readers' Advisory Guide to Graphic Novels, 2nd ed. (ALA Store page)",https://alastore.ala.org/content/readers-advisory-guide-graphic-novels-second-edition,publisher page,6,7,7,3,7,5,6,5,5.85,near-miss: catalog page; book itself not accessible
+47,Readers' advisory services (State Library of NSW),https://pls.sl.nsw.gov.au/managing-my-library/readers-advisory-services,government guidance,5,7,7,4,7,6,6,4,5.85,near-miss: general
+48,Readers' advisory (Wikipedia),https://en.wikipedia.org/wiki/Readers%27_advisory,encyclopedia,6,6,5,5,6,6,8,6,5.8,near-miss: tertiary overview; cites primary works already in set
+49,Information Needs for Anime Recommendation (JCDL poster record),https://experts.boisestate.edu/en/publications/information-needs-for-anime-recommendation-analyzing-anime-users-/,abstract record,7,7,7,2,7,5,5,4,5.8,near-miss: duplicate of S16 content
+50,"Cross Media Reader Advisory (Renaud, CAIS lightning talk)",https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/article/view/1868,conference abstract,8,6,5,2,7,5,9,3,5.65,near-miss: one-page abstract only
+51,Book Review: RA Guide to Graphic Novels 2nd ed. (RUSQ),https://journals.ala.org/index.php/rusq/article/view/6452/8535,review,6,7,6,3,7,5,6,4,5.65,near-miss: review only
+52,Differing Mental Models and the Futures of ... RA (RUSQ),https://journals.ala.org/index.php/rusq/article/download/5854/7370,column,4,7,7,5,7,4,4,4,5.5,near-miss: profession debate
+53,Trends and Directions in RA Education (RUSQ),https://journals.ala.org/rusq/article/download/5930/7518,column,4,7,7,5,7,4,4,4,5.5,near-miss: education focus
+54,Graphic Novels and Adult Readers' Advisory handout (Infopeople),https://www.infopeople.org/sites/default/files/webinar/2013/11-20-2013/Graphic_Novels_Resources.pdf,webinar handout,6,6,6,4,6,6,3,4,5.45,"near-miss: title list, little method"
+55,Education for RA Service in Library Schools (RUSQ),https://journals.ala.org/index.php/rusq/article/download/3084/3182,column,4,7,7,5,7,4,3,4,5.45,near-miss: education focus
+56,Readers Advisory Reimagined (Public Libraries Online),https://publiclibrariesonline.org/2021/12/readers-advisory-reimagined/,practitioner,5,6,6,4,6,6,7,4,5.45,near-miss: staffing focus
+57,"It's All About Text Appeal (Nesi, SLJ)",https://www.slj.com/story/its-all-about-text-appeal,magazine,5,6,6,4,6,6,2,5,5.25,near-miss: middle-school audience
+58,Investigating reading appeal in user generated online book reviews (IDEALS),https://www.ideals.illinois.edu/items/91546,abstract record,6,7,6,2,7,4,4,3,5.25,near-miss: abstract only
+59,Readers' Advisory Tools (Book Riot),https://bookriot.com/readers-advisory-tools/,media,5,5,4,4,6,7,6,6,5.1,near-miss: tool roundup
+60,Menu workbook with NoveList-style annotations (Programming Librarian),https://programminglibrarian.org/sites/default/files/resources/menu_workbook.pdf,program handout,5,5,5,4,6,6,5,3,4.95,near-miss: example annotations only
+61,Gamers Are Readers (SLJ),https://www.schoollibraryjournal.com/story/gamers-are-readers-capitalize-on-the-popularity-of-video-games,magazine,6,5,5,3,6,6,1,5,4.9,"near-miss: 2009, youth focus"
+62,What is Readers' Advisory? (Martin County Library),https://www.martin.fl.us/readers-advisory,library page,4,5,4,3,6,5,6,3,4.4,near-miss: thin
+63,Book Lust Readers' Advisory Toolkit (UW capstone),https://ischool.uw.edu/capstone/projects/2017/book-lust-readers-advisory-toolkit,student project,5,5,5,2,6,4,4,3,4.4,near-miss: abstract only
+64,Mostly Manga (OverDrive listing),https://www.overdrive.com/media/10598254/mostly-manga,catalog listing,6,5,5,1,6,3,3,4,4.35,near-miss: listing only
+65,Unlocking Pop Culture to Improve Your RA (Wyoming State Library),https://library.wyo.gov/unlocking-pop-culture-to-improve-your-readers-advisory/,event notice,6,5,5,1,6,3,2,3,4.25,near-miss: webcast announcement only
+,"r/suggestmeabook, r/ifyoulikeblank (Reddit)",https://www.reddit.com/r/suggestmeabook/,,,,,,,,,,,excluded: BLOCKED 403
+,TV Tropes,https://tvtropes.org/,,,,,,,,,,,excluded: BLOCKED 403
+,Quantic Foundry Gamer Motivation Model,https://quanticfoundry.com/gamer-motivation-model/,,,,,,,,,,,excluded: BLOCKED 403 (3 URLs tried)
+,The StoryGraph,https://www.thestorygraph.com/,,,,,,,,,,,excluded: BLOCKED 403
+,AniDB Tags wiki,https://wiki.anidb.net/Tags,,,,,,,,,,,excluded: BLOCKED 403
+,Anime-Planet tags,https://www.anime-planet.com/anime/tags,,,,,,,,,,,excluded: BLOCKED 403
+,Music Genome Project ISMIR 2015 paper,https://www.ismir2015.uma.es/articles/276_Paper.pdf,,,,,,,,,,,excluded: BLOCKED (bot-check page)
+,Viewers' Advisory slideshows (SlideShare),https://www.slideshare.net/slideshow/viewers-advisory-slideshow-2012/14840312,,,,,,,,,,,excluded: BLOCKED (bot-check page)
+,How Netflix Reverse-Engineered Hollywood (The Atlantic),https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/,,,,,,,,,,,excluded: BLOCKED 403 / PAYWALL
+,Everand copy of Atlantic article,https://www.everand.com/article/396203262/How-Netflix-Reverse-Engineered-Hollywood,,,,,,,,,,,excluded: BLOCKED (bot-check)
+,Evaluating narrative-driven movie recommendations on Reddit (ACM DL),https://dl.acm.org/doi/10.1145/3301275.3302287,,,,,,,,,,,excluded: BLOCKED 403
+,"Cho dissertation, Understanding Users of Cross-media Information (UW ResearchWorks)",https://digital.lib.washington.edu/researchworks/items/1e4f747f-74aa-43ed-8d73-4ea626ec32dc/full,,,,,,,,,,,excluded: BLOCKED 403
+,Toward an understanding of cross-media appeals (Wiley/ASIS&T),https://doi.org/10.1002/pra2.2017.14505401027,,,,,,,,,,,excluded: PAYWALL (no open copy found)
+,"Dali, From book appeal to reading appeal (Library Quarterly)",https://doi.org/10.1086/674034,,,,,,,,,,,excluded: PAYWALL (no open copy found)
+,Booklist: Tackling RA within Your Manga Collection,(Gale/Booklist),,,,,,,,,,,excluded: LOGIN
+,Analyzing anime users' forum queries full text (Emerald),https://unpaywall.org/10.1108/JD-08-2017-0122,,,,,,,,,,,excluded: PAYWALL (redirects to publisher); abstract used instead
+,ALA Games & Gaming Round Table: Why have games in libraries,https://games.ala.org/why-have-games-in-libraries/,,,,,,,,,,,excluded: DEAD/timeout
+,RUSA Listen List,https://rusaupdate.org/awards/the-listen-list/,,,,,,,,,,,excluded: DEAD/timeout
+,Internet Archive,https://web.archive.org/,,,,,,,,,,,excluded: BLOCKED/timeout
+,KDLA What's the Appeal slides,https://kdla.ky.gov/...What's the Appeal Slides.pdf,,,,,,,,,,,excluded: DEAD 404
+,WMRL Saricks DIY RA article,https://www.wmrl.info/sites/default/files/DIYReadersAdvisorySaricksArticle.pdf,,,,,,,,,,,excluded: DEAD 404
+,Lawrence PL: The four doorways,https://lplks.org/blogs/post/the-four-doorways,,,,,,,,,,,excluded: DEAD 404
+,NOLS Doorways to Reading,https://www.nols.org/?p=38471,,,,,,,,,,,excluded: DEAD 404
+,Game Developer: Gamer Motivation Model chart,https://www.gamedeveloper.com/design/the-gamer-motivation-model-in-handy-reference-chart-and-slides,,,,,,,,,,,excluded: DEAD (redirects to category page)
+,Schmalz SelectedWorks,https://works.bepress.com/marc-schmalz/8,,,,,,,,,,,excluded: DEAD (service retired)
+,Toledo Library blog,https://www.toledolibrary.org/blog/how-to-find-a-good-book-to-read/,,,,,,,,,,,excluded: BLOCKED 403
+,NoveList webcast: Unlocking pop culture,https://www.ebsco.com/blogs/novelist/webcast-unlocking-pop-culture-improve-your-readers-advisory,,,,,,,,,,,excluded: BLOCKED 403
+,Taylor & Francis (tandfonline),https://www.tandfonline.com/,,,,,,,,,,,excluded: BLOCKED 403
+,ifyoulike.com,https://www.ifyoulike.com/,,,,,,,,,,,excluded: DEAD/timeout
+,Literary Resources: A Pathfinder (RUSQ),https://journals.ala.org/index.php/rusq/article/download/3535/3821,,,,,,,,,,,excluded: EXCLUDED off-topic (lit-crit collection development)

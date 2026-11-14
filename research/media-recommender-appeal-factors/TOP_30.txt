@@ -1,0 +1,30 @@
+1. The Readers' Advisory Guide to Genre Fiction, 3rd ed. (Saricks & Wyatt) - sample chapters — https://www.alastore.ala.org/sites/default/files/book_samples/9780838917817_sample_0.pdf
+2. Understanding Appeals of Video Games for Readers' Advisory and Recommendation (Lee et al., RUSQ) — https://journals.ala.org/index.php/rusq/article/view/6529/8685
+3. Appeal Factors: Enabling Cross-media Advisory Services (Lee, Windleharth & Cho, OCLC/ALISE report) — https://www.oclc.org/content/dam/research/grants/reports/2015/lee2015.pdf
+4. NoveList Guide to Story Elements (The Secret Language of Books) — https://about.ebsco.com/sites/g/files/nabnos191/files/acquiadam-assets/NoveList-Guide-to-Story-Elements.pdf
+5. Facet Analysis of Anime Genres (Cho et al., Knowledge Organization) — https://storage.imrpress.com/imr/journal/KO/article/504774/1752845195213.pdf
+6. Investigating Characteristics of Media Recommendation Solicitation in r/ifyoulikeblank (Bhuiyan et al., CSCW) — https://arxiv.org/abs/2408.06201
+7. "If I Like BLANK, What Else Will I Like?" (Cao & Bogers, iConference) — https://vbn.aau.dk/ws/files/819969175/iconf2024-if-you-like-blank.pdf
+8. Materials Matchmaking: Articulating Whole Library Advisory (Williamson, RUSQ) — https://journals.ala.org/index.php/rusq/article/download/3966/4452
+9. Major Updates to NoveList's Appeals Vocabulary (NoveList blog) — https://about.ebsco.com/blogs/novelist/major-updates-novelist-appeals-vocabulary
+10. Readers' Advisory Conversation - RA Core Competencies Toolkit (Ontario Library Association) — https://accessola.com/wp-content/uploads/2020/10/2018-RA-competency_conversation_final.pdf
+11. "I'm looking for something like ...": Narrative-driven Book Recommendation (Bogers & Koolen, KaRS) — https://ceur-ws.org/Vol-2290/kars2018_paper7.pdf
+12. Good for What? Non-appeal, Discussability, and Book Groups (Bessman Taylor, RUSQ) — https://journals.ala.org/index.php/rusq/article/download/4133/4701
+13. Large Language Models as Narrative-Driven Recommenders (Eberhard, Ruprechter & Helic) — https://arxiv.org/abs/2410.13604
+14. In the Eye of the Beholder: Readers' Advisory from a Cataloging Perspective (Tarulli & Caplinger, RUSQ) — https://journals.ala.org/index.php/rusq/article/view/2892/2959
+15. Players' Advisory: Librarians Share Tips for Recommending Games (American Libraries) — https://americanlibrariesmagazine.org/blogs/the-scoop/players-advisory/
+16. Searching for Movies: An Exploratory Analysis of Movie-related Information Needs (Bogers, iConference) — https://vbn.aau.dk/ws/files/211306583/iconf2015_analyzing_movie_needs.CAMERA_READY.pdf
+17. Manga Goes to School (ALA Editions) - sample chapter — https://alastore.ala.org/sites/default/files/2024-11/9798892555852_sample.pdf
+18. For Fans of the Marvelous Mrs. Maisel, Watch- and Read-Alikes Aplenty (Wyatt, LJ RA Crossroads) — https://www.libraryjournal.com/story/for-fans-of-the-marvelous-mrs-maisel-watch-and-read-alikes-aplenty-ra-crossroads
+19. Analyzing Anime Users' Online Forum Queries for Recommendation (Cho et al., Journal of Documentation) - abstract — https://experts.boisestate.edu/en/publications/analyzing-anime-users-online-forum-queries-for-recommendation-usi/
+20. We Owe Our Work to Theirs: 25th Anniversary of Readers' Advisory Service in the Public Library (Wyatt, RUSQ) — https://journals.ala.org/index.php/rusq/article/download/2766/2756
+21. Redefining RA: An RA Big Think (Wyatt, Library Journal) — https://www.libraryjournal.com/story/lj-series-redefining-ra-an-ra-big-think
+22. How to Read a Book in 5 Minutes (NoveList blog) — https://about.ebsco.com/blogs/novelist/how-read-book-5-minutes-aka-how-figure-out-if-book-will-appeal-your-reader
+23. For Fans Of... Just About Anything! (NoveList blog) — https://about.ebsco.com/blogs/novelist/fans-just-about-anything
+24. The Emotional Arcs of Stories Are Dominated by Six Basic Shapes (Reagan et al.) — https://arxiv.org/abs/1606.07772
+25. Readers' Advisory for Gamer Patrons (NoveList blog) — https://about.ebsco.com/blogs/novelist/readers-advisory-gamer-patrons
+26. Book Appeal, Literacy, and the Reader: Readers' Advisory in Practice and Theory (Ferri, See Also) — https://ojs.library.ubc.ca/index.php/seealso/article/view/186334
+27. The State of Readers' Advisory: A Discussion (Clark, RUSQ) — https://journals.ala.org/index.php/rusq/article/download/8424/11697
+28. Video Game Metadata Schema: Visual Style Controlled Vocabulary (UBC wiki, from UW GAMER Group) — https://wiki.ubc.ca/Course:ARST_556L/LIBR_514L/Metadata_Alphabets/Controlled_Vocabularies/VGMS_CV_VisualStyle
+29. Netflix Built Its Microgenres by Staring into the American Soul (Madrigal, NPR) — https://www.npr.org/sections/alltechconsidered/2014/01/02/259128268/netflix-built-its-microgenres-by-staring-into-the-american-soul
+30. Genre-based Readers' Advisory for Comics & Manga (LibraryPass, Moni's Picks) — https://librarypass.com/2026/02/12/genre-based-readers-advisory-for-comics-manga-monis-picks/

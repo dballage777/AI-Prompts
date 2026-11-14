@@ -1,0 +1,13 @@
+# PROGRESS — Top 30 research (media-recommender-appeal-factors)
+- [x] Setup: branch claude/eager-cannon-i5x78b checked out and up to date; topic supplied by run instructions
+- [x] Access preflight (NOTES.md)
+- [x] Pass 1 Discovery: ~25 web searches across primary, academic, community, technical, media, archive categories
+- [x] Pass 2 Expansion: followed citations (Lee/Cho UW GAMER work, Bogers narrative-driven line, RUSQ RA columns, NoveList blog)
+- [x] Pass 3 Validation: ~100 URLs fetched; full text extracted for accessible ones
+- [x] Pass 4 Community check (via research on r/ifyoulikeblank and ANN forums; Reddit itself blocked)
+- [x] Pass 5 Cross-check (NoveList vocabulary change confirmed on primary page; Saricks factor list confirmed in ALA sample)
+- [x] Pass 6 Dedupe and clean (canonical URLs; duplicates such as arXiv HTML vs PDF collapsed)
+- [x] Pass 7 Score (SCORED_CANDIDATES.csv)
+- [x] Pass 8 Omission check
+- [x] Replacement loop: not needed (30 accessible)
+- [x] Final verification: all 30 URLs re-opened, all HTTP 200 (2026-11-14)
