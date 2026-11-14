@@ -1,0 +1,30 @@
+1. IMDb Non-Commercial Datasets — https://developer.imdb.com/non-commercial-datasets/
+2. AniList API documentation (guide, terms, rate limits, reference) — https://docs.anilist.co/guide/introduction
+3. TMDB Developer Documentation — https://developer.themoviedb.org/docs/getting-started
+4. MPA / CARA Ratings Guide (filmratings.com) — https://www.filmratings.com/ratings-guide/
+5. TMDB API Terms of Use — https://www.themoviedb.org/api-terms-of-use
+6. TV Parental Guidelines: The Ratings — http://www.tvguidelines.org/ratings.html
+7. AniList API reference: MediaRelation — https://docs.anilist.co/reference/enum/mediarelation
+8. TVmaze API — https://www.tvmaze.com/api
+9. filmratings.com Resources & FAQ — https://www.filmratings.com/resources-faq/
+10. Wikidata SPARQL query service — https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service
+11. MyAnimeList API v2 reference — https://myanimelist.net/apiconfig/references/api/v2
+12. MyAnimeList Anime DB Guidelines — https://myanimelist.net/forum/?topicid=141101
+13. TMDB Contribution Bible: TV Episodes — https://www.themoviedb.org/bible/tv/59f743289251416e71000037
+14. ESRB Ratings Guide — https://www.esrb.org/ratings-guide/
+15. manami-project anime-offline-database — https://raw.githubusercontent.com/manami-project/anime-offline-database/HEAD/README.md
+16. MangaUpdates API — https://api.mangaupdates.com/
+17. Head-to-Tail: How Knowledgeable are LLMs? (Sun et al.) — https://arxiv.org/abs/2308.10168
+18. MyAnimeList genres and themes overhaul (official announcement) — https://myanimelist.net/forum/?topicid=1956762
+19. IGDB API documentation — https://api-docs.igdb.com/
+20. Wikimedia APIs: Rate limits — https://www.mediawiki.org/wiki/Wikimedia_APIs/Rate_limits
+21. Do LLM Recommenders Know When They're Hallucinating? (Ravikumar) — https://arxiv.org/abs/2608.10008
+22. Fribb/anime-lists — https://raw.githubusercontent.com/Fribb/anime-lists/HEAD/README.md
+23. RecLM: Eliminating Out-of-Domain Recommendations (Liao et al.) — https://arxiv.org/abs/2505.03336
+24. IMDb data dictionary: parentsGuide — https://developer.imdb.com/documentation/bulk-data-documentation/data-dictionary/parentsGuide/
+25. RestGPT / RestBench (Song et al.) — https://arxiv.org/abs/2306.06624
+26. Emby Learn: Understanding episode order — https://emby.media/learn/articles/libraries-collections/television/episode-order/Library-Episode-Order.html
+27. Gracenote report: Ungrounded LLM fabricates every detail for nearly 1 in 5 titles — https://gracenote.com/newsroom/ungrounded-llm-fabricates-every-detail-for-nearly-1-in-5-movie-and-tv-titles-tested-new-gracenote-report-finds/
+28. Wikipedia: Shōnen manga — https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga
+29. FreshLLMs / FreshQA (Vu et al.) — https://arxiv.org/abs/2310.03214
+30. chiaki.site Watch Order — https://chiaki.site/?/tools/watch_order

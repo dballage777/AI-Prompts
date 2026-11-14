@@ -1,0 +1,74 @@
+rank,name,url,type,relevance,reliability,authority,depth,accuracy,practical,currentness,community,weighted_total,status
+1,IMDb Non-Commercial Datasets,https://developer.imdb.com/non-commercial-datasets/,official dataset docs,10,10,10,8,10,9,9,8,9.45,selected
+2,"AniList API documentation (guide, terms, rate limits, reference)",https://docs.anilist.co/guide/introduction,official API docs,10,9,9,9,9,10,9,9,9.3,selected
+3,TMDB Developer Documentation,https://developer.themoviedb.org/docs/getting-started,official API docs,10,9,9,9,9,9,9,9,9.2,selected
+4,MPA / CARA Ratings Guide (filmratings.com),https://www.filmratings.com/ratings-guide/,official rating body,9,10,10,7,10,8,8,8,8.95,selected
+5,TMDB API Terms of Use,https://www.themoviedb.org/api-terms-of-use,terms,9,10,10,7,10,8,8,6,8.85,selected
+6,TV Parental Guidelines: The Ratings,http://www.tvguidelines.org/ratings.html,official rating body,9,10,10,7,10,8,6,8,8.85,selected
+7,AniList API reference: MediaRelation,https://docs.anilist.co/reference/enum/mediarelation,API reference,10,9,9,6,9,10,9,7,8.75,selected
+8,TVmaze API,https://www.tvmaze.com/api,official API docs,9,9,8,8,9,10,8,8,8.7,selected
+9,filmratings.com Resources & FAQ,https://www.filmratings.com/resources-faq/,official FAQ,8,10,10,7,10,7,8,7,8.6,selected
+10,Wikidata SPARQL query service,https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service,official docs,9,8,9,8,8,9,10,8,8.55,selected
+11,MyAnimeList API v2 reference,https://myanimelist.net/apiconfig/references/api/v2,official API docs,9,9,9,7,9,8,7,8,8.45,selected
+12,MyAnimeList Anime DB Guidelines,https://myanimelist.net/forum/?topicid=141101,database editorial rules,9,8,9,9,8,8,8,7,8.45,selected
+13,TMDB Contribution Bible: TV Episodes,https://www.themoviedb.org/bible/tv/59f743289251416e71000037,official editorial rules,9,9,9,7,9,8,8,6,8.4,selected
+14,ESRB Ratings Guide,https://www.esrb.org/ratings-guide/,official rating body,7,10,10,7,10,7,8,7,8.4,selected
+15,manami-project anime-offline-database,https://raw.githubusercontent.com/manami-project/anime-offline-database/HEAD/README.md,open-source dataset,9,8,7,8,8,9,10,9,8.3,selected
+16,MangaUpdates API,https://api.mangaupdates.com/,official API docs,9,8,8,7,8,10,9,7,8.25,selected
+17,Head-to-Tail: How Knowledgeable are LLMs? (Sun et al.),https://arxiv.org/abs/2308.10168,research paper,8,9,9,8,9,6,7,8,8.2,selected
+18,MyAnimeList genres and themes overhaul (official announcement),https://myanimelist.net/forum/?topicid=1956762,official announcement,9,8,9,8,8,7,6,8,8.15,selected
+19,IGDB API documentation,https://api-docs.igdb.com/,official API docs,7,9,9,8,9,6,8,7,8.0,selected
+20,Wikimedia APIs: Rate limits,https://www.mediawiki.org/wiki/Wikimedia_APIs/Rate_limits,official policy,7,9,9,6,9,9,10,5,8.0,selected
+21,Do LLM Recommenders Know When They're Hallucinating? (Ravikumar),https://arxiv.org/abs/2608.10008,research paper (preprint),10,7,6,8,8,9,10,5,7.95,selected
+22,Fribb/anime-lists,https://raw.githubusercontent.com/Fribb/anime-lists/HEAD/README.md,open-source mapping,9,8,6,7,8,9,10,8,7.95,selected
+23,RecLM: Eliminating Out-of-Domain Recommendations (Liao et al.),https://arxiv.org/abs/2505.03336,research paper,9,8,7,8,8,8,9,5,7.95,selected
+24,IMDb data dictionary: parentsGuide,https://developer.imdb.com/documentation/bulk-data-documentation/data-dictionary/parentsGuide/,dataset docs,8,9,9,6,9,6,8,6,7.85,selected
+25,RestGPT / RestBench (Song et al.),https://arxiv.org/abs/2306.06624,research paper,8,8,8,8,8,7,7,7,7.8,selected
+26,Emby Learn: Understanding episode order,https://emby.media/learn/articles/libraries-collections/television/episode-order/Library-Episode-Order.html,vendor docs,8,8,7,8,8,8,9,5,7.75,selected
+27,Gracenote report: Ungrounded LLM fabricates every detail for nearly 1 in 5 titles,https://gracenote.com/newsroom/ungrounded-llm-fabricates-every-detail-for-nearly-1-in-5-movie-and-tv-titles-tested-new-gracenote-report-finds/,industry study (vendor),10,6,8,6,7,8,10,6,7.6,selected
+28,Wikipedia: Shōnen manga,https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga,encyclopedia (cited),8,7,7,8,8,7,9,8,7.6,selected
+29,FreshLLMs / FreshQA (Vu et al.),https://arxiv.org/abs/2310.03214,research paper,6,9,9,7,9,5,7,8,7.55,selected
+30,chiaki.site Watch Order,https://chiaki.site/?/tools/watch_order,community tool,9,7,6,6,7,9,9,8,7.45,selected
+31,PEGI: What do the labels mean,https://pegi.info/what-do-the-labels-mean,official rating body,4,10,10,6,10,4,8,6,7.3,near-miss
+32,Kometa-Team Anime-IDs,https://raw.githubusercontent.com/Kometa-Team/Anime-IDs/master/README.md,open-source mapping,8,7,6,6,8,8,10,7,7.25,near-miss
+33,BBFC rating: 15,https://www.bbfc.co.uk/rating/15,official rating body,3,10,10,6,10,5,8,6,7.2,near-miss
+34,Gracenote: Can AI find the right TV episode? Not reliably.,https://gracenote.com/insights/can-ai-find-the-right-tv-episode-not-reliably/,industry study (vendor),9,6,7,6,7,7,10,5,7.1,near-miss
+35,Kitsu JSON:API docs,https://hummingbird-me.github.io/api-docs/,official API docs,7,7,7,7,8,8,6,6,7.1,near-miss
+36,Wikipedia: Seinen manga,https://en.wikipedia.org/wiki/Seinen_manga,encyclopedia (cited),7,7,7,7,8,6,9,7,7.1,near-miss
+37,Common Sense Media: About our ratings,https://www.commonsensemedia.org/about-us/our-mission/about-our-ratings,independent methodology,6,8,8,6,8,6,8,7,7.05,near-miss
+38,Servarr wiki: TheXEM moderation guide,https://wiki.servarr.com/sonarr/xem-guide,project docs,7,7,6,7,7,7,8,8,6.95,near-miss
+39,IGDB/Twitch Developer Services Agreement,https://legal.twitch.com/en/legal/developer-agreement/,terms,5,9,9,5,9,4,8,4,6.8,near-miss
+40,Wikipedia: Isekai,https://en.wikipedia.org/wiki/Isekai,encyclopedia (cited),6,7,6,7,8,6,9,7,6.75,near-miss
+41,TMDB Talk: Clarification on Air Date policy,https://www.themoviedb.org/talk/63eb406c8e870200a988f22d,community forum (moderator),7,7,7,5,7,7,8,6,6.7,not selected (lower score)
+42,AniList forum: Change how demographics work,https://anilist.co/forum/thread/62020,community forum,8,6,6,6,6,7,8,7,6.65,not selected (lower score)
+43,WatchNext blog: Why TMDB says your Apple TV+ show airs a day early,https://watchnext.leyu.studio/blog/apple-tv-air-dates-off-by-one,independent developer,7,6,5,7,7,8,10,5,6.65,not selected (lower score)
+44,Trakt API,https://trakt.docs.apiary.io/,official API docs,6,7,7,6,8,6,7,7,6.65,not selected (lower score)
+45,Wikipedia: Iyashikei,https://en.wikipedia.org/wiki/Iyashikei,encyclopedia (cited),6,7,6,6,8,6,9,7,6.6,not selected (lower score)
+46,Wikipedia: List of Chainsaw Man chapters (example list page),https://en.wikipedia.org/wiki/List_of_Chainsaw_Man_chapters,encyclopedia,6,7,6,6,8,6,9,6,6.55,not selected (lower score)
+47,Enriching Wikidata with Linked Open Data (Zhang et al.),https://arxiv.org/abs/2207.00143,research paper,6,8,7,6,8,4,7,4,6.5,not selected (lower score)
+48,Simkl API docs,https://api.simkl.org/,official API docs,6,7,6,6,7,6,10,5,6.45,not selected (lower score)
+49,Cinemagoer documentation,https://cinemagoer.readthedocs.io/en/latest/,open-source docs,6,7,6,5,7,6,10,6,6.35,not selected (lower score)
+50,JustWatch Partner API docs,https://apis.justwatch.com/docs/api/,official API docs,5,8,8,5,8,3,8,6,6.35,not selected (lower score)
+51,LLMLagBench (Pęzik et al.),https://arxiv.org/abs/2511.12116,research paper,6,7,6,6,7,5,10,4,6.3,not selected (lower score)
+52,TheTVDB Support KB: v4 API FAQ,https://support.thetvdb.com/kb/faq.php?id=62,vendor KB,6,7,7,5,7,5,8,5,6.25,not selected (lower score)
+53,TMDB Talk: Continuous episode numbers (anime),https://www.themoviedb.org/talk/63283b9b0f21c6007faa71d6,community forum,7,6,6,5,6,6,8,6,6.15,not selected (lower score)
+54,Anime Corner: Which manga chapter did 2023 Fall anime end with?,https://animecorner.me/which-manga-chapter-did-your-favorite-2023-fall-anime-end-with/,independent media,7,6,5,5,6,7,8,6,6.1,not selected (lower score)
+55,yuna0x0/anilist-mcp,https://raw.githubusercontent.com/yuna0x0/anilist-mcp/HEAD/README.md,MCP server,7,6,4,5,6,8,10,5,6.1,not selected (lower score)
+56,Laksh-star/mcp-server-tmdb (Screenward),https://raw.githubusercontent.com/Laksh-star/mcp-server-tmdb/HEAD/README.md,MCP server,7,6,4,5,6,8,10,5,6.1,not selected (lower score)
+57,OMDb API,https://www.omdbapi.com/,third-party API,6,6,5,5,7,6,8,7,5.95,not selected (lower score)
+58,"Outlook Respawn: Shonen, Seinen, Shojo & Josei explained",https://respawn.outlookindia.com/pop-culture/pop-culture-guides/shonen-vs-seinen-vs-shojo-vs-josei-anime-demographics-explained,media explainer,6,5,5,5,6,6,9,5,5.6,not selected (lower score)
+59,Sonarr forums: TMDB as metadata source,https://forums.sonarr.tv/t/tmdb-as-metadata-source/32403,community forum,6,5,4,5,5,6,8,7,5.4,not selected (lower score)
+60,"MAL Interest Stack 48481 (female-targeted, not tagged shoujo/josei)",https://myanimelist.net/stacks/48481,community list,6,5,4,5,5,5,8,6,5.25,not selected (lower score)
+,MyAnimeList API License and Developer Agreement,https://myanimelist.net/static/apiagreement.html,,,,,,,,,,,deduplicated: terms page of the MyAnimeList API; read as a sub-page of the MAL API v2 entry
+,MPA Film Ratings page,https://www.motionpictures.org/film-ratings/,,,,,,,,,,,deduplicated: one-line restatement of the filmratings.com guide (same body); used as a sub-page in learning
+,TV Parental Guidelines FAQs,http://www.tvguidelines.org/faqs.html,,,,,,,,,,,deduplicated: same site as TV Parental Guidelines ratings page; read as a sub-page
+,Beyond Utility: Evaluating LLM as Recommender,https://arxiv.org/abs/2411.00331,,,,,,,,,,,excluded: already S-source in topic 2 (rec-quality) TOP_30 #9
+,LLMs as Zero-Shot Conversational Recommenders (He et al.),https://arxiv.org/abs/2308.10053,,,,,,,,,,,excluded: already in topic 2 TOP_30 #6
+,Gracenote: Hallucinations: What's the risk?,https://gracenote.com/insights/hallucinations-whats-the-risk/,,,,,,,,,,,excluded: already in topic 2 TOP_30 #25
+,Facet Analysis of Anime Genres (Cho et al. 2018),https://www.imrpress.com/journal/ko/45/6/10.5771/0943-7444-2018-6-484,,,,,,,,,,,excluded: already in topic 1 TOP_30 #5; pre-2022
+,Enhancing Recommendation Diversity by Re-ranking with LLMs,https://arxiv.org/abs/2401.11506,,,,,,,,,,,excluded: already in topic 2 TOP_30 #24
+,LLMs as Recommender Systems: Popularity Bias,https://arxiv.org/abs/2406.01285,,,,,,,,,,,excluded: already in topic 2 TOP_30 #22
+,Jikan live API,https://api.jikan.moe/v4/,,,,,,,,,,,excluded: BLOCKED (connection reset)
+,AniDB HTTP API definition,https://wiki.anidb.net/HTTP_API_Definition,,,,,,,,,,,excluded: BLOCKED 403
+,MangaDex API docs,https://api.mangadex.org/docs/,,,,,,,,,,,excluded: BLOCKED (bot check)
+,r/anime watch order wiki,https://www.reddit.com/r/anime/wiki/watch_order/,,,,,,,,,,,excluded: BLOCKED 403
