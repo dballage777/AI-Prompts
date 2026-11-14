@@ -1,0 +1,39 @@
+point,supporting_S#,conflicting_S#,evidence_label,strength
+Matching on appeal (experience) works better than matching on subject or genre,S1;S10;S14;S20;S21,S26 (says it is not sufficient),Documented/Reported,Strong
+"Classic appeal factors: pacing, characterization, story line, frame/setting, tone/mood, language/style",S1;S14;S10,S9 (2024 renames);S21 (frame too reductive),Documented,Contested (naming)
+Appeal applies across all formats (whole-collection advisory),S1;S8;S10;S27,,Documented/Reported,Strong
+"Top cross-media appeals named by users: mood, theme, setting, complexity, character",S3,,Research,Moderate
+Mood/tone is the most central appeal across media,S3;S2;S4;S26,,Research/Documented,Strong
+"Setting as appeal means atmosphere/background, not geographic location",S20;S14;S4,S8 (setting stronger in film),Reported/Documented,Strong
+World-type facet: our world / imaginary world / alternate world,S3,,Research,Moderate
+"Complexity has intellectual, structural and time-commitment facets",S3,,Research,Moderate
+Pace is only an active appeal at the extremes,S4;S14,,Documented,Moderate
+Most works are driven by one or two dominant appeals; weight varies by genre,S10;S1,,Documented,Moderate
+Cross genres and media by holding the dominant appeals constant,S21;S18;S1,,Reported,Moderate
+Appeals reveal similarities across game genres that theme and mechanics hide,S2,,Research,Moderate
+"Video games have 16 appeals (narrative most frequent, 628 mentions)",S2,S3 (19-appeal taxonomy groups them differently),Research,Moderate
+Film cinematography roughly equals a book's language and tone,S8;S18,,Reported,Limited
+Content tolerance differs by medium,S8;S10,,Reported/Documented,Moderate
+"Each format needs its own facets (illustration, audio, game, anime production)",S4;S2;S5;S8;S10,,Documented/Research,Strong
+Anime is best described with 9 facets rather than one genre hierarchy,S5,,Research,Moderate
+"Anime demographics are audience labels, not genres, and are used inconsistently",S5;S17,,Research/Documented,Strong
+"Combine genre, appeal and theme for precise matches",S4;S14;S22,,Documented,Moderate
+Dislikes and negative examples are as informative as likes,S12;S3;S16;S7;S11,S14 (NoveList does not tag negative appeal),Research/Reported,Strong
+Users can name moods to avoid more easily than moods to seek,S3,,Research,Moderate
+More seed items bring more recommendations; request length does not,S7,S11 (no correlation with algorithm performance),Research,Moderate
+Search engines match plot when seekers care about another latent trait,S6;S16,,Research,Moderate
+Mainstream platforms support few requested dimensions and no cross-media queries,S6,,Research,Moderate
+"Context (time budget, completeness, company, rewatch, mood today) shapes requests",S6;S26;S12;S18,,Research/Reported,Strong
+Reader-language descriptions (reviews and tags) beat catalog metadata for narrative requests,S11,,Research,Moderate
+Expanding by author or creator alone causes topic drift,S11,,Research,Limited
+LLMs beat older methods on narrative movie requests by about 70%,S13,,Research,Moderate
+LLM recommendations show a post-2000 recency bias,S13,,Research,Limited
+Elaborate personas or few-shot prompts add little for capable LLMs,S13,,Research,Limited
+Human Reddit recommendations barely overlap with Spotify's and are not less popular,S7,S6 (frames multi-example queries as evading popularity bias),Research,Contested
+"Netflix microgenres = genre + appeal adjectives + frame, built from human ratings",S29,,Reported,Limited
+Avoid vague praise words; use one blunt term per concept,S14;S9,,Documented,Moderate
+Item-centered appeal misses reader context; use 'reading appeal',S26,S1;S14,Research (via review),Contested
+"Explain each suggestion in appeal language, citing the person's appeals",S10;S22;S30;S6,,Documented/Reported,Strong
+"Emotional arcs cluster into six shapes, separate from plot",S24,,Research,Moderate
+"Game advisory should match mechanics and experience, not theme",S15;S25;S2,,Reported/Research,Moderate
+"Adaptations and media tie-ins are key bridges for manga, anime and comics",S17;S30;S4,,Documented/Reported,Moderate

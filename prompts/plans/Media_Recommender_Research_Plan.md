@@ -15,7 +15,7 @@ Created 2026-11-14 · Platform: **Claude Code** · User: just me (adult; no cont
 
 | Order | Topic line to paste | Done? |
 |---|---|---|
-| 1 | Readers' advisory and appeal factors across media: how librarians and experts match people to books, films, TV, anime, manga, and video games by pacing, tone, characterization, story, and setting (cross-media "whole collection" advisory). Audience: adults · Recency: any (classic methods OK) + 2018+ · Language: English | ☐ |
+| 1 | Readers' advisory and appeal factors across media: how librarians and experts match people to books, films, TV, anime, manga, and video games by pacing, tone, characterization, story, and setting (cross-media "whole collection" advisory). Audience: adults · Recency: any (classic methods OK) + 2018+ · Language: English | ☑ |
 | 2 | How good recommendations work: personalization, explainable recommendations ("because you liked X"), diversity, novelty and serendipity, avoiding popularity bias, the cold-start problem, and research on LLM-based recommenders (including hallucinated items). Recency: 2018+ · Language: English | ☐ |
 | 3 | Accurate title data and media knowledge for recommendations: reliable title databases (TMDB, IMDb, AniList, MyAnimeList, IGDB), anime demographics and genre or theme tags, franchise watch orders and entry points, manga-to-anime adaptation status, and content ratings (MPA, TV Parental Guidelines). Recency: 2022+ · Language: English | ☐ |
 
