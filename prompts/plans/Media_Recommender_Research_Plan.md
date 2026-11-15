@@ -21,3 +21,6 @@ Created 2026-11-14 · Platform: **Claude Code** · User: just me (adult; no cont
 
 ## After all three are done
 Start a chat and say: "Build the media recommender prompt for Claude Code using the three recommender knowledge bases." Use the Prompt Architect master prompt v2, with platform **Claude Code**.
+
+## Status
+- 2026-11-15: all 3 topics done. Recommender prompt built: prompts/claude/Media_Recommender_Prompt_v1.txt
