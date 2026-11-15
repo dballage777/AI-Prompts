@@ -8,4 +8,4 @@ Requested via message from the prompt-creation session; topic per prompts/plans/
 - [x] Passes 2–5 (within workers; see NOTES)
 - [x] Pass 6 dedupe · Pass 7 score · Pass 8 omission · final verification (2026-11-15) — TOP_30.txt saved
 ## Part 2 — Learn
-- [ ] Phase A–D
+- [x] Phase A–D (2026-11-15) — see knowledge/PROGRESS.md
