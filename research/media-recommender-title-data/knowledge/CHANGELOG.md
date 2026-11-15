@@ -1,0 +1,2 @@
+# CHANGELOG — media-recommender-title-data knowledge base
+- 2026-11-15: Knowledge base built from 30 sources (TOP_30.txt). Phase B readers hit a usage limit mid-run and resumed after reset. Phase C re-checked key quotes on the live pages (TMDB §1.C AI clause, IMDb credit line, TVmaze CC BY-SA, AniList degraded limit and anti-hoarding term, Wikimedia UA tier, TV per-episode rating, MAL "do not make assumptions" relation rule) and the AniList PREQUEL behaviour (Bakemonogatari, live query).

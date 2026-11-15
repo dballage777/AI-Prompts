@@ -1,0 +1,43 @@
+point,supporting_S#,conflicting_S#,evidence_label,strength
+LLM memory accuracy for title attributes collapses for tail titles (GPT-4 Movie: 59.3% head vs 10.9% tail); 99.94% of IMDb titles are tail,S17,,Research,"Strong (with S21, S27)"
+Ungrounded LLMs put 0.6–2.7% out-of-catalog items in top-10 movie lists but 11–61% for long-tail catalogs,S21,,Research,Moderate
+String-matching choice changes measured OOD rates by >10x; exact match recovers only 49.6% of real items,S21,,Research,Moderate
+Verbalized LLM confidence does not predict catalog validity; confidence filtering cut hallucination ≤1.65 pts,S21,,Research,Moderate
+Grounding the recommendation slot to the catalog (retrieval or constrained decoding) yields 0% OOD,S23,,Research,Strong (with S25)
+Ungrounded GPT-4o OOD@10 on Amazon Movies & TV was 61.21%,S23,,Research,Moderate
+Agents must resolve names to IDs via search before detail calls; invented path IDs are a key failure,S25;S3,,Research/Documented,Strong
+"An ungrounded LLM hallucinated all measured metadata for 19.5% of 2,600 popular titles; same-name titles are confused",S27,,Reported (vendor),Limited
+"Ungrounded LLM had no info for 46.5% of 1,300 popular episodes",S27,,Reported (vendor),Limited
+"Without search, LLMs fail on fast-changing facts (GPT-4 ≤15%); search augmentation raised GPT-4 strict accuracy 28.6% → 75.6%",S29,,Research,Moderate
+"AniList GraphQL needs no key for public reads; rate limit is 90/min nominal, currently degraded to 30/min",S2,,Documented (+live header),Strong
+AniList prohibits hoarding/mass collection and use as data storage; free for non-commercial use,S2,,Documented,Moderate
+AniList isAdult does not cover ecchi,S2,,Documented,Moderate
+AniList PREQUEL/SEQUEL can follow story order rather than release date,S7,S7 (enum description says 'Released before'),Documented (live test),Contested
+"AniList ALTERNATIVE covers alternate versions, manga versions and PVs — not sequels",S7;S11,,Documented (live test),Moderate
+TMDB API requires a key; ~40 req/s; /find bridges IMDb/Wikidata/TVDB IDs,S3,,Documented,Moderate
+TMDB terms bar use in connection with ML/AI-based applications and treat LLM chatbots as commercial use; cache ≤6 months,S5,,Documented,Moderate (interpretation Inferred)
+TMDB movie certifications are per country and release type; TV ratings are series-level only,S3,S6 (TV ratings are per episode),Documented,Moderate
+TMDB keeps continuous-numbered anime sequels in one season; specials go to Season 0; alternate orders in episode groups,S13;S3,S12 (MAL splits by gap),Documented,Strong
+IMDb datasets are key-free daily TSVs for personal non-commercial use with required credit; scraping imdb.com is banned,S1,,Documented,Moderate
+IMDb free datasets contain no certifications or plots,S1;S24,,Documented,Moderate
+"TVmaze API is key-free, CC BY-SA, ≥20 calls/10 s, supports IMDb lookup and alternate episode lists",S8,,Documented (+live),Moderate
+"Wikidata is CC0, key-free via SPARQL with UA; holds IMDb/TMDB/TVmaze/AniList/MAL ID properties; anime IDs sit on season items",S10;S20,,Documented (+live),Strong
+Wikimedia 2026 limits: 10 req/min unidentified vs 200 with compliant User-Agent,S20,,Documented,Moderate
+MAL API v2 requires X-MAL-CLIENT-ID; licence bans scraping,S11,,Documented (+live 403),Moderate
+"MAL rating (g…rx) is an in-house, nudity-based scale",S11;S12,,Documented,Moderate
+"Demographics are editorial categories of the source magazine/label, not genres; readership extends beyond target",S28;S12;S18,,Reported/Documented,Strong
+MAL assigns demographics only from source manga/LN or documented target; original anime often have none,S12,,Documented,Moderate
+"MAL taxonomy (since 2021–22): 18 genres, 3 explicit genres, 52 themes, 5 demographics; old names renamed",S18,,Documented,Moderate
+"AniList stores demographics as ranked, user-voted tags",S2,S12;S18 (MAL separate field),Documented,Contested (models differ)
+Anime granularity: AniList/MAL per season/cour vs IMDb/TMDB/TVmaze per series; mappings are many-to-many,S10;S13;S22;S1,,Documented/Inferred,Strong
+Fribb anime-lists maps anime IDs to TMDB/TVDB/IMDb with season/episode offsets; ~21% have TMDB/TVDB IDs,S22,,Documented (live data),Limited
+"manami anime-offline-database: 41,537 entries, ODbL, weekly; tags non-curated; relatedAnime untyped",S15,,Documented,Moderate
+MangaUpdates API (key-free) gives anime.start/end chapter boundaries per season; credit + caching required; no correctness warranty,S16,,Documented (+live),Moderate
+chiaki.site orders franchise entries by air date using MAL+Shikimori data and includes recaps/shorts,S30,,Documented,Limited
+Episode numbers are meaningful only within a named order; no constant offset converts orders,S26;S13;S3,,Documented,Strong
+MPA ratings: G/PG/PG-13/R/NC-17 with film-specific descriptors; theme alone cannot exceed PG-13,S4,,Documented,Moderate
+"MPA ratings are voluntary, US-only; Unrated is valid; ratings don't transfer to other cuts",S9,,Documented,Moderate
+TV Parental Guidelines are self-applied by networks per episode and per version; news/sports exempt,S6,,Documented,Moderate
+ESRB: E/E10+/T/M/AO + 30 descriptors; digital-only games rated via IARC,S14,,Documented,Moderate
+IMDb Parents Guide severity is crowd-voted; method stated as median in data dictionary but average on help page,S24,S24,Documented,Contested
+IGDB requires Twitch OAuth; 4 req/s; age_ratings by organization; franchises/collections for series,S19,,Documented,Moderate
