@@ -1,0 +1,61 @@
+# Candidates: primary / authoritative job-search sources (batch: official)
+
+Checked 2026-11-15. Format: name | canonical URL | type | why it matters | how found | access status | date | API?
+
+## Accessible
+
+1. CareerOneStop API Explorer (Jobs V2, AJC finder, State Resources, UI sites) | https://api.careeronestop.org/api-explorer | Official API documentation (DOL-sponsored) | Lists endpoints an assistant could call: Jobs V2 "List Jobs" / "Get Job Details by Id", American Job Centers by location, State Resources, Unemployment UI sites by state, Training, Apprenticeship offices | WebSearch, then curl | ACCESSIBLE (200) | none visible | API: yes; every request needs a bearer token (Authorization: Bearer <token>) plus user ID. Terms below.
+2. USAJOBS home | https://www.usajobs.gov/ | Official federal job board (OPM) | The only official site for federal civilian job announcements; links to Search/Results, Help Center, hiring paths | WebSearch, WebFetch | ACCESSIBLE via WebFetch (curl 403) | none visible | Queryable search page: https://www.usajobs.gov/Search/Results (results load by JavaScript; a test query returned "No jobs found" in fetched HTML, so use the API instead)
+3. USAJOBS Developer: Search Jobs tutorial | https://developer.usajobs.gov/tutorials/search-jobs | Official API docs | Endpoint https://data.usajobs.gov/api/search; headers Host, User-Agent (your email), Authorization-Key; params Keyword, LocationName, JobCategoryCode; up to 500 per page | WebSearch, WebFetch | ACCESSIBLE via WebFetch (curl 403) | none visible | API: free key by application form; key required
+4. USAJOBS Developer: Rate limiting | https://developer.usajobs.gov/guides/rate-limiting | Official API docs | Search returns Public jobs by default; max 10,000 rows per query, 500 per page; Code List and Dynamic Search have no limits | URL from tutorial page | ACCESSIBLE via WebFetch | none visible | API: same key
+5. OPM FAQ: How do I apply for Federal jobs? | https://www.opm.gov/frequently-asked-questions/employment-faq/federal-hiring/how-do-i-apply-for-federal-jobs/ | Official how-to (OPM) | Step-by-step application flow on USAJOBS (profile, How to Apply / Required Documents, certify, finish on agency site) | WebSearch (opm.gov) | ACCESSIBLE via WebFetch (curl 403) | none visible | none
+6. DOL ETA: American Job Centers | https://www.dol.gov/agencies/eta/american-job-centers | Official (DOL ETA) | About 2,300 free WIOA centers; job search help, referrals, veterans priority; finder link and 1-877-US-2JOBS (1-877-872-5627) | curl | ACCESSIBLE (200) | none visible | none (points to CareerOneStop AJC finder, which has an API in #1)
+7. DOL Employment and Training Administration | https://www.dol.gov/agencies/eta | Official agency home | Parent agency for AJCs, apprenticeship, Job Corps, CareerOneStop | curl | ACCESSIBLE (200) | none visible | none
+8. NASWA: National Labor Exchange (NLx) | https://www.naswa.org/national-labor-exchange | Official partnership page (NASWA + DirectEmployers) | Explains NLx: since 2007, nonprofit, "unduplicated and authentic" jobs from vetted sources; all 50 state workforce agencies, DC, Guam, PR, USVI participate; state selector to each state's job bank and NLx microsite | WebSearch, curl, WebFetch | ACCESSIBLE (200) | founded 2007; no update date | Research Hub data access for approved users (not a public API); see Notes
+9. NASWA blog: NLx Research Hub | https://www.naswa.org/blog/national-labor-exchange-research-hub | Official announcement | Describes the Research Hub (real-time and historical postings for approved data users) | WebSearch, curl | ACCESSIBLE (200) | dateModified 2023-02-03 | Data access by application; contact nlxresearchhub@naswa.org (from search snippet)
+10. NASWA: NLx Services and Tools | https://www.naswa.org/national-labor-exchange/nlx-services-and-tools | Official | Lists NLx services for states and partners | WebSearch, curl | ACCESSIBLE (200) | none checked | none public
+11. US National Labor Exchange job search (NLx) | https://usnlx.com/ | Official NLx public job board | Public search across NLx feed (corporate career sites + state job banks); form posts to /jobs/ | WebSearch, curl | ACCESSIBLE (200) | none visible | Queryable search page (/jobs/?q=...&location=...), but results load by JavaScript from prod-search-api.jobsyn.org; fetched HTML had no listings. No documented public API found.
+12. NLx New York microsite | https://newyork.usnlx.com/ | Official NLx state microsite | Shows the per-state microsite pattern | WebSearch, curl | ACCESSIBLE (200) | none visible | Same as #11
+13. Apprenticeship.gov Apprenticeship Job Finder | https://www.apprenticeship.gov/apprenticeship-job-finder | Official (DOL) | Search open apprenticeship postings by keyword and location; listings drawn from RAPIDS, NLx, state job banks and other boards; "Registered Occupation/Partner" tags | WebSearch, curl | ACCESSIBLE via curl (200); WebFetch got 403 | none visible | Queryable search page (search snippet shows ?state=AK style params; not confirmed); no API found
+14. Apprenticeship.gov help: How do I find open apprenticeship job opportunities? | https://www.apprenticeship.gov/help/how-do-i-find-open-apprenticeship-job-opportunities | Official how-to | Explains filters, data sources and that "apply" sends you to the original listing | WebSearch, curl | ACCESSIBLE (200) | none visible | none
+15. Job Corps | https://www.jobcorps.gov/ | Official (DOL) program | Free residential training, ages 16 to 24, low-income; apply via enroll.jobcorps.gov or 800-733-5627 | curl, WebFetch | ACCESSIBLE (200) | footer (c) 2023 | none
+16. DOL VETS: Veterans | https://www.dol.gov/agencies/vets/veterans | Official (DOL VETS) | Hub for veterans: Find a Job, employment services, veterans' preference, military spouses, apprenticeship | curl, WebFetch | ACCESSIBLE (200) | none visible | none
+17. DOL VETS: Find a Job | https://www.dol.gov/agencies/vets/veterans/findajob | Official | Veteran job-search entry page | Link from #16, curl | ACCESSIBLE (200) | none visible | none
+18. HIRE Vets Medallion | https://www.hirevets.gov/ | Official (DOL) employer-recognition program | NOT a job board: lists employers awarded for hiring/retaining veterans (awardee map/table); useful as a trust signal | curl | ACCESSIBLE (200) | none visible | none
+19. VA Careers and Employment | https://www.va.gov/careers-employment/ | Official (VA) | Veteran employment benefits and services (also where vets.gov now redirects) | curl | ACCESSIBLE (200) | "Last updated" label present, date not parsed | none
+20. Ticket to Work: Find Help | https://www.choosework.ssa.gov/findhelp | Official (SSA) | Free job supports for SSI/SSDI beneficiaries aged 18 to 64; provider finder | curl | ACCESSIBLE (200) | none visible | Provider search page; no API found
+21. DOL Office of Disability Employment Policy (ODEP) | https://www.dol.gov/agencies/odep | Official (DOL) | Disability employment policy and resources | curl | ACCESSIBLE (200) | none visible | none
+22. WorkInTexas | https://www.workintexas.com/ | Official state job bank (Texas Workforce Commission / Workforce Solutions; Geographic Solutions Virtual OneStop platform) | Representative state job bank; guest job search; "Protect Yourself" link under Resources | curl, WebFetch | ACCESSIBLE (home page 200); /vosnet/Default.aspx returned 403 to curl | none visible | Guest search page (guest.aspx); no public API found
+23. Employ Florida | https://www.employflorida.com/ | Official state job bank (FloridaCommerce + CareerSource Florida; Virtual OneStop) | Representative state job bank; guest "Find a Job" | WebFetch | ACCESSIBLE via WebFetch (curl 403) | none visible | Guest search page; no public API found
+24. NY DOL: New York State Job Bank fact sheet | https://dol.ny.gov/new-york-state-job-bank-fact-sheet (redirects to https://dol.ny.gov/system/files/documents/2025/10/p423-job-bank-businesses-10-25.pdf) | Official state PDF | Documents NY's job bank and the newer Virtual Career Center | WebSearch, curl | ACCESSIBLE (200, PDF) | Oct 2025 | none
+
+## Excluded (not opened in this session)
+
+25. CareerOneStop Job Finder | https://www.careeronestop.org/Toolkit/Jobs/find-jobs.aspx | Official DOL job search (NLx-powered) | BLOCKED (403 to curl and WebFetch)
+26. CareerOneStop American Job Center Finder | https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers.aspx | BLOCKED (403 both)
+27. CareerOneStop State Job Banks list | https://www.careeronestop.org/JobSearch/FindJobs/state-job-banks.aspx | BLOCKED (403 both). Also listed as the "Job Banks data" dataset on catalog.data.gov (search snippet only; not opened).
+28. CareerOneStop Web API page / Jobs API update notice | https://www.careeronestop.org/Developers/WebAPI/web-api.aspx ; https://www.careeronestop.org/Developers/WebAPI/jobs-api-updates.aspx | BLOCKED (403 both). Did not use cloudfront.careeronestop.org copies, per the no-mirrors rule.
+29. USAJOBS Help Center (help.usajobs.gov / usajobshelp.opm.gov), incl. email/phishing FAQ and terms and conditions | https://usajobshelp.opm.gov/ | BLOCKED (403 to curl and WebFetch; help.usajobs.gov now 302-redirects here)
+30. USAJOBS developer Terms of Service | https://developer.usajobs.gov/guides/terms-of-service | Not read: the URL tried (/general/terms-of-service) returned a USAJOBS error page; the guides URL was not fetched
+31. CalJOBS (California EDD) | https://www.caljobs.ca.gov/ | BLOCKED (Incapsula bot-check page to curl; WebFetch returned empty)
+32. New York State Job Bank | https://myjobs.ny.gov/ | BLOCKED/DEAD for this session (curl TLS handshake failure; WebFetch 503)
+33. OPM FAQ index | https://www.opm.gov/frequently-asked-questions/employment/ | DEAD (404 via WebFetch)
+
+## Notes
+
+- **Main APIs for the bot:**
+  - **USAJOBS Search API** (data.usajobs.gov/api/search): free; needs a key from the developer site, with your email sent as User-Agent. Paging limits are 500 rows per page and 10,000 per query. A call without a key got 403 (Akamai "Access Denied"). The Terms of Service page was not read, so caching, attribution and AI-use terms are still unconfirmed.
+  - **CareerOneStop Web API** (api.careeronestop.org): bearer token plus user ID, with a Jobs V2 endpoint for NLx-sourced jobs. Search snippets (not opened, because the CareerOneStop pages were blocked) give these terms:
+    - free, but a CareerOneStop icon must link back;
+    - the key must be kept secret;
+    - it can only be used on registered sites the developer controls;
+    - end users cannot be required to pay or register to see the data;
+    - service is "best-effort";
+    - docs are for registered users only;
+    - the v1 Jobs API is kept only for users enrolled before 2024-08-27.
+  - The terms PDF in the snippet was on a staging host, so confirm all of the above on the live site before relying on it.
+- **NLx:** It feeds CareerOneStop Job Finder, the Apprenticeship Finder and state job banks. The public board usnlx.com renders results client-side, so no stable public API was found. The Research Hub serves bulk data to approved users; per NASWA pages, state workforce agencies get no-cost access. Its terms for outside developers were not found.
+- **State job banks:** The pattern is that many run on the same vendor platform (Geographic Solutions "Virtual OneStop"), for example WorkInTexas and Employ Florida. They allow guest search and need login only for résumés. They are behind bot protection (403 or Incapsula), so an AI should link users to them rather than scrape them.
+- **USAJOBS scam guidance:** Current Help Center pages could not be opened, and what search found was mostly archived (UNT web archive) pages from 2008 to 2015, which were excluded. Per search snippets only, current pages include "How can I tell if an email really came from USAJOBS?" (phishing). The scam-warning content still needs a reader in another batch, for example FTC guidance.
+- **Job Corps:** The fetched home page shows no pause or closure notice. Check the program's current operating status separately before the bot recommends it.
+- **HIRE Vets:** This is an employer award program, not a job listing. Treat it as a trust signal only.

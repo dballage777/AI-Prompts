@@ -1,0 +1,48 @@
+point,supporting_S,conflicting_S,evidence_label,strength
+"Never fabricate or inflate resume content; AI can invent details to match a posting","S1;S4;S9;S19;S28","",Documented,Strong
+"Every resume line should pass an interview-defense test","S1;S4;S8","",Documented,Strong
+"Employers increasingly verify claims (background checks, assessments, in-person interviews, fraud detection)","S17;S21;S29;S30","",Reported/Research,Strong
+"The person should author; AI should edit and give feedback, not write most bullets","S3;S5;S9;S11","S20 (offers bullet-writing prompts); S1 (AI suggests keywords)",Documented,Strong
+"AI flags gaps; the human fills them truthfully or treats them as interview prep / not a fit","S1;S4","",Documented,Strong
+"Mirror posting language only where it genuinely applies, without changing meaning","S2;S4;S12","",Documented,Strong
+"Tailor every application","S2;S12;S16;S19;S28","",Documented,Strong
+"Tailored resumes get about twice the interviews","S28","",Reported (vendor; correlational),Limited
+"Show skills with examples and quantify results","S2;S4;S8;S19;S23","",Documented/Research,Strong
+"41% of US job seekers admit hidden-text prompt injection; 22% of US hiring managers caught it","S21;S1","",Research (vendor survey),Moderate
+"Never use hidden text or pasted job descriptions; ATS can detect it","S6;S21;S1","",Documented,Strong
+"Avoid keyword stuffing; write naturally","S6;S10;S16;S28","",Documented,Strong
+"Avoid auto-apply / mass applications","S11;S21;S25;S28;S29","",Documented/Reported,Strong
+"32% of job seekers claimed AI skills they lack; 28% made fake work samples; 22% use auto-apply bots","S25","",Research (vendor survey),Moderate
+"Knockout questions are the main automatic filter","S16;S28;S14","",Research/Reported,Moderate
+"ATS auto-reject most resumes (70-80% never reach a human)","S6;S18;S30;S21","S16;S28;S14;S15",Reported,Contested
+"Most major ATS offer AI ranking/fit scores; low-ranked candidates may not be reviewed","S28;S16;S21","",Reported,Moderate
+"Workday parsing varies by format and word order; image-free resumes recommended; Skills/Languages not auto-filled","S15","",Documented,Moderate
+"Avoid tables, text boxes, images, graphics, icons","S2;S6;S13;S14;S27;S18","",Documented,Strong
+"Keep contact info out of headers/footers","S13;S14;S27;S28","",Documented,Strong
+"Use standard section headings","S6;S10;S27;S14","",Documented,Strong
+"Include full term and acronym","S6;S10;S13;S27;S14","",Documented,Strong
+"Use one column","S6;S14","S10 (one or two columns OK); S28 (columns won't cause rejection)",Documented,Contested
+"Do not use a template","S4;S13","S2 (use an ATS-friendly basic template)",Documented,Contested
+"Submit a text-based PDF","S6;S13;S22;S27","S28 (.docx 23% fewer Workday errors, unnamed study); S10;S18 (either)",Documented,Contested
+"Never submit an image-based/scanned PDF","S6;S14;S27","",Documented,Strong
+"Follow the posting's file-format instructions","S27","",Documented,Moderate
+"Body font 10-12 pt; standard fonts (Calibri, Arial, Times New Roman)","S2;S4;S6;S12;S13;S27","",Documented,Strong
+"Margins 0.5-1 inch","S2;S4;S12;S13;S22;S27","S14;S27 prefer 1 inch",Documented,Strong
+"One page early career; up to two with substantial experience","S2;S4;S13;S14;S16;S19","S28 (two pages perform as well at all levels)",Documented,Strong
+"Federal Title 5 resumes limited to 2 pages since Sept 27, 2025; longer = ineligible","S22","",Documented,Moderate
+"Federal resumes need month/year dates, hours per week, series/grade","S22","",Documented,Moderate
+"Use present tense for current roles","S4;S12","S6 (past tense even for current jobs)",Documented,Contested
+"Aim for a 75% keyword match","S10","S6 (perfect match unnecessary); S28 (no universal ATS score)",Reported,Contested
+"Slight wording variations may cause mismatch","S10","S28 (semantic matching in some ATS)",Documented/Reported,Contested
+"Omit photo, age, marital status, religion, SSN, references","S5;S13;S14;S19","",Documented,Strong
+"Remove personal identifying and confidential info before using AI","S2;S3;S4;S9;S20","",Documented,Strong
+"LLM screeners prefer their own generated text (67-82% quality-controlled); 23-60% higher shortlisting","S26","",Research (preprint),Moderate
+"Employers want evidence of teamwork, problem-solving, communication (85/82/78%)","S8;S23","","Research (small, vendor-sponsored)",Moderate
+"Nearly 70% of employers use skills-based hiring","S23","","Research (small, vendor-sponsored)",Moderate
+"More than one-third of entry-level jobs require AI skills; AI skills in job descriptions 10.5% to 16.5%","S24;S23","",Research,Moderate
+"53% of US recruiters handed most screening to AI/ATS","S21","S16;S28",Research (vendor survey),Contested
+"71% of employers let AI reject candidates without human oversight","S30","S28;S16",Reported (Resume Builder survey),Contested
+"O*NET provides occupation tasks, technology skills and Hot Technologies for keyword recall","S7","",Documented,Moderate
+"Avoid Canva/LaTeX/design-heavy builders","S6;S10;S28","",Documented,Strong
+"Apply early","S16;S18;S28","",Reported,Moderate
+"Recruiters skim resumes in about 6-10 seconds","S2;S28","S19 (30 seconds)",Reported,Limited

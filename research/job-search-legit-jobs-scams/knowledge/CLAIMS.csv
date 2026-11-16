@@ -1,0 +1,41 @@
+point,supporting_S,conflicting_S,evidence_label,strength
+Never pay to get a job or to get paid; federal/postal applications are always free,S1;S4;S5;S6;S13;S21;S23,S21 (uniform/tool costs may be deducted after hire),Documented,Strong
+Fake check/overpayment scams: funds show quickly but check bounces weeks later; victim owes bank,S1;S11;S21;S29,,Documented,Strong
+"Task scams: unsolicited text, gamified tasks, deposit (often crypto) to unlock earnings",S4;S5;S13;S22,,Documented/Research,Strong
+"Task-scam reports ~5,000 (2023) to ~20,000 (H1 2024); job-scam losses >$220M H1 2024",S4,,Research,Moderate
+"IC3 employment fraud: 15,443/$70.2M (2023), 20,044/$264.2M (2024), 24,688/$362.9M (2025)",S7,,Documented,Moderate
+FTC and IC3 loss totals come from different pools and must not be added,S7;S4,,Inferred,Moderate
+"Employment scams #2 riskiest (2025), #1 for ages 18-34; median loss $1,000; 51.4% via text; 35.1% crypto",S22,,Research,Moderate
+"Employment-scam reports doubled in 2025 (>23,000); half by text; task-scam median loss $2,300",S13,,Research,Moderate
+Unsolicited text/WhatsApp/Telegram job offers are scam signals,S6;S4;S13;S22;S26,,Documented,Strong
+90% of reported LinkedIn scam messages move users off-platform,S28;S26,,Research (vendor),Moderate
+"Don't share SSN, bank details, ID photos or ID.me logins before a verified offer",S21;S26;S28;S20,,Documented,Strong
+Verify on the employer's own careers site and main phone; search name with scam/review/complaint,S1;S11;S21;S22;S26;S28,,Documented,Strong
+A recruiter discouraging verification is a red flag,S21,,Documented,Limited
+Free-email or lookalike domains are red flags; trusted domains can be spoofed,S21;S26;S23,,Documented,Strong
+Insist on video/in-person interview; chat-only or camera-off interviews are red flags,S21;S13;S22,,Documented,Strong
+"Listings on reputable boards (Indeed, LinkedIn, Handshake, state/NLx) can still be scams",S21;S20;S23;S16,S20 About ('no duplicates or scams'),Documented,Strong
+Reshipping/money-moving 'jobs' are scams and may be illegal,S6;S21,,Documented,Strong
+"Laptop hosting, proxy interviews, lending identity/accounts are illegal facilitation (DPRK IT workers)",S15,,Documented,Moderate
+If scammed: contact bank immediately for recall; file at IC3 and ReportFraud.ftc.gov,S7;S18;S1;S11;S21,,Documented,Strong
+Recovery services offering to retrieve lost funds are often scams,S5;S7,,Documented,Strong
+FTC does not resolve individual reports; can refer transfers to FBI IC3,S18,,Documented,Moderate
+IC3 Recovery Asset Team froze $679M (58% success) in 2025,S7,,Documented,Moderate
+USAJOBS is the official federal job site; apply via announcement then agency system,S3;S19;S1,,Documented,Strong
+"USAJOBS Search API needs free key (Host, User-Agent email, Authorization-Key); 25 default/500 max per page; 10,000 rows/query",S2,,Documented,Moderate
+USAJOBS Historic JOA API needs no key; returns closed postings too,S8,,Documented,Moderate
+USAJOBS data reusable commercially; no endorsement claims; never claim an application was submitted,S9,,Documented,Moderate
+"American Job Centers (~2,300-2,400) offer free-to-access job search help; some services have eligibility",S10,S10 (counts differ by page),Documented,Moderate
+CareerOneStop Web API uses bearer token + userId; Jobs V2 accepts O*NET codes,S14,,Documented,Moderate
+"CareerOneStop API terms, limits and data sources",,S14 (terms page blocked; unverified),—,Limited
+"O*NET Web Services: free key, attribution link required, don't alter data, ~5 req/s 50k/day",S12,,Documented,Moderate
+NLx aggregates from original vetted sources across all states and links back,S17;S20,,Documented (self-described),Moderate
+NLx/USNLx/BBB data not open for bot scraping or commercial reuse,S17;S20;S25,,Documented,Moderate
+"Apprenticeship.gov Finder pulls from RAPIDS, NLx, state banks and commercial boards; 'Registered Occupation' tag is occupation-level only",S16,,Documented,Moderate
+Greenhouse and Lever job-board GET endpoints need no key; per-employer only,S24;S30,,Documented,Strong
+State business registration is ministerial and not proof of legitimacy,S27,,Documented,Moderate
+BBB Scam Tracker reports are unverified user claims; personal non-commercial use only,S25,,Documented,Moderate
+Ghost postings are misleading but distinct from scams,S29,,Reported,Limited
+"Job scams cause emotional harm (lost confidence, stress)",S13;S28,,Research,Moderate
+32% of Gen Z ignored warning signs because jobs felt scarce,S28,,Research (vendor),Limited
+~$300M job-scam losses H1 2025 (FTC per NPR host),S29,,Reported (unverified),Limited

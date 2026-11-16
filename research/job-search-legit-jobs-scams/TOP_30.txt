@@ -1,0 +1,30 @@
+1. FTC Consumer Advice: Job Scams — https://consumer.ftc.gov/articles/job-scams
+2. USAJOBS Search API (developer docs) — https://developer.usajobs.gov/api-reference/get-api-search
+3. USAJOBS — https://www.usajobs.gov/
+4. FTC Data Spotlight: Paying to get paid (gamified job scams) — https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2024/12/paying-get-paid-gamified-job-scams-drive-record-losses
+5. FBI IC3 PSA: Fake work-from-home task jobs (I-060424-PSA) — https://www.ic3.gov/PSA/2024/PSA240604
+6. FTC Consumer Alert: That job offer text is probably a scam — https://consumer.ftc.gov/consumer-alerts/2026/04/job-offer-text-probably-scam
+7. FBI IC3 2025 Annual Internet Crime Report — https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf
+8. USAJOBS Historic JOA API — https://developer.usajobs.gov/api-reference/get-api-historicjoa
+9. USAJOBS API Terms of Service — https://developer.usajobs.gov/guides/terms-of-service
+10. DOL ETA: American Job Centers — https://www.dol.gov/agencies/eta/american-job-centers
+11. FTC Consumer Advice: Fake Check Scams — https://consumer.ftc.gov/fake-check-scams
+12. O*NET Web Services — https://services.onetcenter.org/
+13. BBB Scam Study: Employment scams 2026 update — https://www.bbb.org/all/scamstudies/jobscams/employment-scams-2026-update
+14. CareerOneStop API Explorer — https://api.careeronestop.org/api-explorer
+15. FBI IC3 PSA: North Korean IT workers expand use of facilitators — https://www.ic3.gov/PSA/2026/PSA261013
+16. Apprenticeship.gov Apprenticeship Job Finder — https://www.apprenticeship.gov/apprenticeship-job-finder
+17. NASWA: National Labor Exchange (NLx) — https://www.naswa.org/national-labor-exchange
+18. ReportFraud.ftc.gov — https://reportfraud.ftc.gov/
+19. OPM FAQ: How do I apply for Federal jobs? — https://www.opm.gov/frequently-asked-questions/employment-faq/federal-hiring/how-do-i-apply-for-federal-jobs/
+20. US National Labor Exchange job search (NLx) — https://usnlx.com/
+21. Indeed Help Center: Common Job Scams to Avoid — https://www.indeed.com/help/job-seekers/articles/38886273141389-common-job-scams-to-avoid
+22. BBB 2025 Scam Tracker Risk Report (US) — https://bbbmarketplacetrust.org/wp-content/uploads/2026/08/Risk-Report-2025-US.pdf
+23. University of Washington: Identifying Scam & Fraudulent Job Postings — https://careers.uw.edu/resources/identifying-scam-and-fraudulent-job-postings/
+24. Greenhouse Job Board API — https://developers.greenhouse.io/job-board.html
+25. BBB Scam Tracker — https://www.bbb.org/scamtracker
+26. LinkedIn Help: Recognize and report scams — https://www.linkedin.com/help/linkedin/answer/a1336387
+27. NASS: Corporate Registration (state business registries) — https://www.nass.org/business-services/corporate-registration
+28. LinkedIn Job Search Safety Pulse 2026 — https://news.linkedin.com/2026/LinkedIn-Job-Search-Safety-Pulse
+29. NPR: 'Ghost jobs' are everywhere - here's how to avoid falling for them — https://www.npr.org/2025/11/02/nx-s1-5591302/ghost-jobs-are-everywhere-heres-how-to-avoid-falling-for-them
+30. Lever Postings API — https://github.com/lever/postings-api
