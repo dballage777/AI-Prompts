@@ -9,7 +9,7 @@ Adult · last updated 2026-11-16 · confirmed by Jaxton
 
 **Likes:** Shangri-La Frontier, Solo Leveling, Bleach, Black Clover, Blood-C (reasons inferred from the titles and confirmed).
 
-**Popularity level:** mainstream (mostly shōnen battle series).
+**Popularity level:** mainstream tastes, but has already seen most big action hits; lean toward deeper cuts.
 
 **Hard filters:** none stated yet; skip titles already seen.
 

@@ -4,3 +4,9 @@
 - Bleach · loved
 - Black Clover · loved
 - Blood-C · loved
+- Jujutsu Kaisen · seen (no reaction given)
+- Hunter x Hunter (2011) · seen (no reaction given)
+- Overlord · seen (no reaction given)
+- Hellsing Ultimate · seen (no reaction given)
+- Vampire Hunter D: Bloodlust · seen (no reaction given)
+- Mob Psycho 100 · seen (no reaction given)
