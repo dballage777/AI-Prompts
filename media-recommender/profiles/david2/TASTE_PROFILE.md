@@ -11,6 +11,8 @@ Adult · last updated 2026-11-17 · confirmed by David#2 (a different person fro
 
 **Popularity level:** mainstream (shōnen battle).
 
-**Hard filters:** no stories that revolve around a love interest; skip titles already seen.
+**Hard filters:** no stories that revolve around a love interest; no movies (series only); no series known for starting strong and then dropping in quality (for example, One-Punch Man); skip titles already seen.
+
+**Style:** prefers newer animation (roughly 2015+); skip older-looking shows.
 
 **Defaults:** watching solo; short or long fine; ongoing or finished OK; adventurousness: mix it up.
