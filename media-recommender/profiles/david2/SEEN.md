@@ -16,3 +16,4 @@
 - Deadman Wonderland · liked
 - Attack on Titan · liked
 - Bleach: Thousand-Year Blood War · loved (all-time #1 favorite)
+- Frieren: Beyond Journey's End · not for me: way too boring (slow, quiet pacing)

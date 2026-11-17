@@ -16,4 +16,4 @@
 - Feedback: had seen Bleach: Thousand-Year Blood War; it is David#2's all-time #1 anime. Others not yet rated.
 - Asked: another list (anchored on all-time #1, Bleach TYBW)
 - Recommended: Bungo Stray Dogs (AniList 21311); Sword of the Demon Hunter: Kijin Gentosho (AniList 143598); Noragami (AniList 20447); Blood Blockade Battlefront (AniList 20727); Arknights: Prelude to Dawn (AniList 140660); STRETCH: Frieren (AniList 154587). Upcoming note: Kagurabachi (AniList 211496, 2027).
-- Feedback: (pending)
+- Feedback: Frieren removed: way too boring. Added fast-pacing rule; flagged Vinland Saga Season 2 as a slow-pacing risk.
