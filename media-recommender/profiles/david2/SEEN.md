@@ -1,0 +1,16 @@
+# David#2: seen
+- Bleach · liked
+- Solo Leveling · liked
+- Dr. Stone · liked
+- Kaiju No. 8 · liked
+- Black Clover · liked
+- Demon Slayer · liked
+- Jujutsu Kaisen · liked
+- Fire Force · liked
+- Gachiakuta · liked
+- Sakamoto Days · liked
+- Shangri-La Frontier · liked
+- Blue Lock · liked
+- Mob Psycho 100 · liked
+- The Seven Deadly Sins · liked
+- Deadman Wonderland · liked
