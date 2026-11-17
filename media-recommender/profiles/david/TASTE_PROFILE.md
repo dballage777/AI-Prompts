@@ -5,9 +5,9 @@ Adult · last updated 2026-11-17 · confirmed by David
 
 **Frame and world:** monster/demon hunting, often as part of an organized corps (Demon Slayer, Kaiju No. 8). Bonus appeal: a hero who wins with brains and problem-solving (Dr. Stone).
 
-**Mood and style:** hype, earnest, stylish well-animated fights.
+**Mood and style:** hype, earnest, stylish well-animated fights. Prefers modern animation; older-looking styles (for example FMA: Brotherhood, 2009) are less appealing, so favor recent productions (roughly 2015+) and treat older titles as occasional exceptions only.
 
-**Likes:** Bleach, Solo Leveling, Dr. Stone, Kaiju No. 8, Black Clover, Demon Slayer.
+**Likes:** Bleach, Solo Leveling, Dr. Stone, Kaiju No. 8, Black Clover, Demon Slayer; also liked Jujutsu Kaisen and Fire Force.
 
 **Popularity level:** mainstream (shōnen battle).
 
