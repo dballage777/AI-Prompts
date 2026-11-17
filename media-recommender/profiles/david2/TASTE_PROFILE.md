@@ -1,18 +1,12 @@
 # David#2: taste profile
-Adult · last updated 2026-11-17 · confirmed by David#2 (a different person from David)
+Adult · rebuilt 2026-11-17 from all 16 liked titles · a different person from David
 
-**Dominant appeals:** fast action and big fights; a determined hero who grows stronger toward a goal (Bleach, Black Clover, Solo Leveling, The Seven Deadly Sins).
+**Dominant appeals:** (1) a determined underdog who keeps growing stronger (Black Clover, Solo Leveling, Bleach, Seven Deadly Sins, Kaiju No. 8); (2) high stakes in a dark, dangerous world with monster or war fights (Attack on Titan, Deadman Wonderland, Jujutsu Kaisen, Gachiakuta, Demon Slayer).
 
-**Frame and world:** monster/demon hunting (Demon Slayer, Kaiju No. 8, Jujutsu Kaisen); fantasy kingdoms with knights and magic (Seven Deadly Sins); game worlds (Shangri-La Frontier); brains over brawn (Dr. Stone).
+**Secondary:** action-comedy (Mob Psycho 100, Sakamoto Days); clever problem-solving (Dr. Stone); game worlds and sports played like battles (Shangri-La Frontier, Blue Lock); squads and corps (Fire Force).
 
-**Mood and style:** hype action with humor (Mob Psycho 100, Sakamoto Days); darker, gritty, even gory stories are fine (Deadman Wonderland, Gachiakuta); sports played like battles (Blue Lock). Attack on Titan adds an appetite for dark, high-stakes, mystery-driven war stories with monster fights.
+**Mood:** hype and intense; gore OK.
 
-**Likes:** Bleach, Solo Leveling, Dr. Stone, Kaiju No. 8, Black Clover, Demon Slayer, Jujutsu Kaisen, Fire Force, Gachiakuta, Sakamoto Days, Shangri-La Frontier, Blue Lock, Mob Psycho 100, The Seven Deadly Sins, Deadman Wonderland, Attack on Titan.
+**Hard filters:** no love-interest-driven stories; series only (no movies); no shows known for dropping off in quality (e.g., One-Punch Man); newer animation, roughly 2015+ (Attack on Titan is an exception); skip seen titles.
 
-**Popularity level:** mainstream (shōnen battle).
-
-**Hard filters:** no stories that revolve around a love interest; no movies (series only); no series known for starting strong and then dropping in quality (for example, One-Punch Man); skip titles already seen.
-
-**Style:** prefers newer animation (roughly 2015+); skip older-looking shows. Exception: liked Attack on Titan (2013).
-
-**Defaults:** watching solo; short or long fine; ongoing or finished OK; adventurousness: mix it up.
+**Popularity:** mainstream. **Defaults:** solo; any length; mix it up.
