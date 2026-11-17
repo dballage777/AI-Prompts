@@ -8,3 +8,8 @@
 - Jujutsu Kaisen · liked
 - Fire Force · liked
 - Fullmetal Alchemist: Brotherhood · liked (good, but older animation style is less appealing)
+- Jujutsu Kaisen 0 · seen (not added to likes)
+- Gachiakuta · liked
+- Sakamoto Days · liked
+- Shangri-La Frontier · liked
+- Blue Lock · liked

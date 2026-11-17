@@ -7,7 +7,9 @@ Adult · last updated 2026-11-17 · confirmed by David
 
 **Mood and style:** hype, earnest, stylish well-animated fights. Prefers modern animation; older-looking styles (for example FMA: Brotherhood, 2009) are less appealing, so favor recent productions (roughly 2015+) and treat older titles as occasional exceptions only.
 
-**Likes:** Bleach, Solo Leveling, Dr. Stone, Kaiju No. 8, Black Clover, Demon Slayer; also liked Jujutsu Kaisen and Fire Force.
+**Likes:** Bleach, Solo Leveling, Dr. Stone, Kaiju No. 8, Black Clover, Demon Slayer; also liked Jujutsu Kaisen, Fire Force, Gachiakuta, Sakamoto Days, Shangri-La Frontier, and Blue Lock.
+
+**Open to:** battle-style sports anime with escalating rivals (Blue Lock) and action-comedy (Sakamoto Days).
 
 **Popularity level:** mainstream (shōnen battle).
 
