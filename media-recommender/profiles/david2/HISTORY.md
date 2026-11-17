@@ -8,4 +8,6 @@
 - Revised feedback: added Attack on Titan; asked to reassess.
 - Reassessed list: Vinland Saga (AniList 101348, no longer a stretch); Tougen Anki (AniList 177474); My Hero Academia (AniList 21459); The Eminence in Shadow (AniList 130298); Wind Breaker (AniList 163270); STRETCH: Dorohedoro (AniList 105228). Mashle (AniList 151801) moved to backup.
 - Reassessed feedback: (pending)
-- Rebuilt taste profile from all 16 liked titles; dark high-stakes stories now a co-dominant appeal. Confirmation: (pending)
+- Rebuilt taste profile from all 16 liked titles; dark high-stakes stories now a co-dominant appeal. Confirmed OK.
+- Re-ranked against rebuilt profile: 1 Vinland Saga; 2 Tougen Anki; 3 Heavenly Delusion (new, AniList 155783); 4 My Hero Academia; 5 Akudama Drive (new, AniList 116566); 6 The Eminence in Shadow; 7 Wind Breaker; 8 Mashle; 9 STRETCH Dorohedoro
+- Feedback: (pending)
