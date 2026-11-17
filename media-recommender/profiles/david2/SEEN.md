@@ -14,3 +14,4 @@
 - Mob Psycho 100 · liked
 - The Seven Deadly Sins · liked
 - Deadman Wonderland · liked
+- Attack on Titan · liked
