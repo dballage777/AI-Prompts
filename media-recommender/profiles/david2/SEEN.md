@@ -15,3 +15,4 @@
 - The Seven Deadly Sins · liked
 - Deadman Wonderland · liked
 - Attack on Titan · liked
+- Bleach: Thousand-Year Blood War · loved (all-time #1 favorite)
