@@ -14,3 +14,6 @@
 - Asked: more like Bleach, Solo Leveling, Demon Slayer, Mob Psycho 100
 - Recommended: Bleach: Thousand-Year Blood War (AniList 116674); Lord of Mysteries (AniList 137667); Ragna Crimson (AniList 146493); Kemono Jihen (AniList 114085); Go! Go! Loser Ranger! (AniList 158417); STRETCH: Ranking of Kings (AniList 113717)
 - Feedback: had seen Bleach: Thousand-Year Blood War; it is David#2's all-time #1 anime. Others not yet rated.
+- Asked: another list (anchored on all-time #1, Bleach TYBW)
+- Recommended: Bungo Stray Dogs (AniList 21311); Sword of the Demon Hunter: Kijin Gentosho (AniList 143598); Noragami (AniList 20447); Blood Blockade Battlefront (AniList 20727); Arknights: Prelude to Dawn (AniList 140660); STRETCH: Frieren (AniList 154587). Upcoming note: Kagurabachi (AniList 211496, 2027).
+- Feedback: (pending)
