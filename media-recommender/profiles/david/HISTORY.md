@@ -4,3 +4,6 @@
 - Asked: anime, mix it up
 - Recommended: Jujutsu Kaisen (AniList 113415); Fire Force (AniList 105310); Fullmetal Alchemist: Brotherhood (AniList 5114); Hunter x Hunter 2011 (AniList 11061); Promare (AniList 99425); STRETCH: Vinland Saga (AniList 101348)
 - Feedback: had seen #1–3. Liked Jujutsu Kaisen and Fire Force; FMA: Brotherhood good, but dislikes older animation style. #4–6 not yet rated.
+- Round 2 asked: more based on updated profile (modern animation, 2015+)
+- Round 2 recommended: Jujutsu Kaisen 0 (AniList 131573); Gachiakuta (AniList 178025); Sakamoto Days (AniList 177709); Shangri-La Frontier (AniList 151970); Mashle (AniList 151801); STRETCH: Blue Lock (AniList 137822)
+- Round 2 feedback: (pending)
