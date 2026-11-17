@@ -13,6 +13,6 @@ Adult · created 2026-11-17
 
 **Popularity:** mainstream, classic shōnen battle.
 
-**Hard filters:** none stated yet; skip titles already seen.
+**Hard filters:** newer anime only (roughly 2015+); skip titles already seen or turned down.
 
 **Defaults:** watching solo; ongoing or finished OK; mix it up.
