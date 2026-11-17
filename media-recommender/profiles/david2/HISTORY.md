@@ -11,3 +11,6 @@
 - Rebuilt taste profile from all 16 liked titles; dark high-stakes stories now a co-dominant appeal. Confirmed OK.
 - Re-ranked against rebuilt profile: 1 Vinland Saga; 2 Tougen Anki; 3 Heavenly Delusion (new, AniList 155783); 4 My Hero Academia; 5 Akudama Drive (new, AniList 116566); 6 The Eminence in Shadow; 7 Wind Breaker; 8 Mashle; 9 STRETCH Dorohedoro
 - Feedback: (pending)
+- Asked: more like Bleach, Solo Leveling, Demon Slayer, Mob Psycho 100
+- Recommended: Bleach: Thousand-Year Blood War (AniList 116674); Lord of Mysteries (AniList 137667); Ragna Crimson (AniList 146493); Kemono Jihen (AniList 114085); Go! Go! Loser Ranger! (AniList 158417); STRETCH: Ranking of Kings (AniList 113717)
+- Feedback: (pending)
