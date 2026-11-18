@@ -17,3 +17,9 @@
 - Asked: another list (anchored on all-time #1, Bleach TYBW)
 - Recommended: Bungo Stray Dogs (AniList 21311); Sword of the Demon Hunter: Kijin Gentosho (AniList 143598); Noragami (AniList 20447); Blood Blockade Battlefront (AniList 20727); Arknights: Prelude to Dawn (AniList 140660); STRETCH: Frieren (AniList 154587). Upcoming note: Kagurabachi (AniList 211496, 2027).
 - Feedback: Frieren removed: way too boring. Added fast-pacing rule; flagged Vinland Saga Season 2 as a slow-pacing risk.
+
+## 2026-11-18
+- Asked: rerank every recommendation so far against the full conversation
+- Master ranking (unseen, still eligible): 1 Tougen Anki; 2 My Hero Academia; 3 Ragna Crimson; 4 Bungo Stray Dogs; 5 The Eminence in Shadow; 6 Akudama Drive; 7 Wind Breaker; 8 Blood Blockade Battlefront; 9 Mashle; 10 Kemono Jihen; 11 Sword of the Demon Hunter; 12 Noragami; 13 Arknights: Prelude to Dawn; 14 Go! Go! Loser Ranger!; 15 Lord of Mysteries; 16 Heavenly Delusion; 17 Vinland Saga (S1 only); 18 Ranking of Kings; 19 Dorohedoro
+- Excluded: Bleach TYBW (seen, all-time #1); Frieren (too boring); One-Punch Man, Promare, FMA: Brotherhood, Hunter x Hunter, Parasyte (removed by filters)
+- Feedback: (pending)
