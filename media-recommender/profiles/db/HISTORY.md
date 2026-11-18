@@ -6,3 +6,7 @@
 - Added Re:Zero at A tier.
 - Feedback: (pending)
 - Reassessed full tier list: added 'unique edge / outthinks' as top appeal; mecha and grim/bleak rank low; old animation is a soft (not hard) negative.
+- Profile confirmed OK.
+- Asked: ranked top-10 list from profile
+- Ranked: 1 Haikyu!!; 2 Aoashi; 3 Hunter x Hunter 2011 (new, AniList 11061); 4 Mashle; 5 Assassination Classroom (new, AniList 20755); 6 The Eminence in Shadow; 7 No Game, No Life (new, AniList 19815); 8 Dandadan; 9 One-Punch Man; 10 Wind Breaker (new, AniList 163270)
+- Feedback: (pending)
