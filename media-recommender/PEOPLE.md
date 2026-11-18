@@ -9,3 +9,4 @@ Name · folder name · adult or under 18 · date added · last visit
 - DB · profiles/db/ · adult · 2026-11-18 · 2026-11-18
 - Way · profiles/way/ · adult · 2026-11-18 · 2026-11-18
 - Michael · profiles/michael/ · adult · 2026-11-18 · 2026-11-18
+- Zoey · profiles/zoey/ · adult · 2026-11-18 · 2026-11-18
