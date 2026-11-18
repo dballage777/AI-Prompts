@@ -6,4 +6,6 @@
 - Feedback: no British shows; no shows that ended on cliffhangers; added MobLand (TVmaze 75026) to likes. Removed Slow Horses (British). Replaced with Ozark (TVmaze 13417).
 - Feedback: new top watch list, not Silo.
 - Top 10: 1 Yellowstone (TVmaze 27848); 2 Breaking Bad (169); 3 Justified (106); 4 Ozark (13417); 5 Tom Clancy's Jack Ryan (5079); 6 The Terminal List (47856); 7 Landman (53777); 8 Banshee (164); 9 Burn Notice (667); 10 Lioness (50415). Bench: Severance (44933).
+- Feedback: had seen Yellowstone, Breaking Bad, Justified.
+- Updated top 10: 1 Ozark; 2 Tom Clancy's Jack Ryan; 3 The Terminal List; 4 1883 (TVmaze 53327); 5 Landman; 6 Sons of Anarchy (TVmaze 76); 7 Better Call Saul (TVmaze 618); 8 Banshee; 9 Burn Notice; 10 Lioness. Bench: Severance.
 - Feedback: (pending)
