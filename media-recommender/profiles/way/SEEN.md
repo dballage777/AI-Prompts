@@ -6,3 +6,4 @@
 - C: "hxh" (also listed at A; unclear) · One-Punch Man · Mob Psycho 100 · The Promised Neverland · Jujutsu Kaisen · Gachiakuta · Re:Zero · Fire Force · Tokyo Ghoul · Death Note · Chainsaw Man
 - D: Dr. Stone · Sword Art Online
 - F: Soul Eater · Frieren (boring)
+- Overlord · seen (no tier given yet)
