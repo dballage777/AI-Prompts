@@ -12,4 +12,4 @@
 - Feedback: (pending)
 - Asked: more action-based, no sports (this request)
 - Ranked: 1 Gachiakuta (AniList 178025); 2 Bungo Stray Dogs (21311); 3 Hell's Paradise (128893); 4 That Time I Got Reincarnated as a Slime (101280); 5 Chainsaw Man (127230); 6 Blood Blockade Battlefront (20727); 7 Tougen Anki (177474); 8 Akudama Drive (116566); 9 Ragna Crimson (146493); 10 Kemono Jihen (114085)
-- Feedback: (pending)
+- Feedback: had seen Gachiakuta, A tier. Reassessed: gritty OK if stylish. Re-ranked rest: 1 Hell's Paradise; 2 Tougen Anki; 3 Bungo Stray Dogs; 4 Chainsaw Man; 5 Slime; 6 Blood Blockade Battlefront; 7 Akudama Drive; 8 Ragna Crimson; 9 Kemono Jihen
