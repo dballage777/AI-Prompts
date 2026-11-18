@@ -15,4 +15,4 @@
 - Feedback: had seen Gachiakuta, A tier. Reassessed: gritty OK if stylish. Re-ranked rest: 1 Hell's Paradise; 2 Tougen Anki; 3 Bungo Stray Dogs; 4 Chainsaw Man; 5 Slime; 6 Blood Blockade Battlefront; 7 Akudama Drive; 8 Ragna Crimson; 9 Kemono Jihen
 - Added hard filters: no heavy romance / simp leads; no quality drop-offs; no movies. Removed Chainsaw Man, One-Punch Man, Dandadan, That Time I Got Reincarnated as a Slime (later seasons slow down).
 - Top 10 watch list: 1 Haikyu!!; 2 Aoashi; 3 Hell's Paradise; 4 Hunter x Hunter; 5 Tougen Anki; 6 Bungo Stray Dogs; 7 Mashle; 8 Assassination Classroom; 9 The Eminence in Shadow; 10 Blood Blockade Battlefront. Bench: Wind Breaker, Akudama Drive, No Game No Life, Ragna Crimson, Kemono Jihen.
-- Feedback: (pending)
+- Feedback: no sports, more action (now a standing filter). Top 10 revised: 1 Hell's Paradise; 2 Hunter x Hunter; 3 Tougen Anki; 4 Bungo Stray Dogs; 5 Mashle; 6 Assassination Classroom; 7 The Eminence in Shadow; 8 Blood Blockade Battlefront; 9 Wind Breaker; 10 Akudama Drive. Bench: No Game No Life, Ragna Crimson, Kemono Jihen.
