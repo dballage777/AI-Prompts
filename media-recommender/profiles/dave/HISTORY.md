@@ -8,4 +8,6 @@
 - Top 10: 1 Yellowstone (TVmaze 27848); 2 Breaking Bad (169); 3 Justified (106); 4 Ozark (13417); 5 Tom Clancy's Jack Ryan (5079); 6 The Terminal List (47856); 7 Landman (53777); 8 Banshee (164); 9 Burn Notice (667); 10 Lioness (50415). Bench: Severance (44933).
 - Feedback: had seen Yellowstone, Breaking Bad, Justified.
 - Updated top 10: 1 Ozark; 2 Tom Clancy's Jack Ryan; 3 The Terminal List; 4 1883 (TVmaze 53327); 5 Landman; 6 Sons of Anarchy (TVmaze 76); 7 Better Call Saul (TVmaze 618); 8 Banshee; 9 Burn Notice; 10 Lioness. Bench: Severance.
+- Feedback: wants more comedy and action-comedy. (Reactions to Yellowstone, Breaking Bad, Justified still not given.)
+- Comedy round: Brooklyn Nine-Nine (TVmaze 49); Chuck (168); Psych (517); What We Do in the Shadows (34522); Abbott Elementary (55350); STRETCH: The Righteous Gemstones (37387). Skipped Peacemaker (may end on a franchise cliffhanger).
 - Feedback: (pending)
