@@ -5,3 +5,6 @@
 - C: One-Punch Man · Solo Leveling
 - D: A Returner's Magic Should Be Special
 - F: Mushoku Tensei: Jobless Reincarnation (fan service)
+- Attack on Titan · B
+- Fullmetal Alchemist: Brotherhood · A
+- Vinland Saga · A
