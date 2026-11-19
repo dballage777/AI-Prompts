@@ -11,3 +11,4 @@ Name · folder name · adult or under 18 · date added · last visit
 - Michael · profiles/michael/ · adult · 2026-11-18 · 2026-11-18
 - Zoey · profiles/zoey/ · adult · 2026-11-18 · 2026-11-18
 - Dave · profiles/dave/ · adult · 2026-11-18 · 2026-11-18 (a different person from David and David#2)
+- De'shawn · profiles/deshawn/ · adult · 2026-11-19 · 2026-11-19
