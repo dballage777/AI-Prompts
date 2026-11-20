@@ -1,7 +1,7 @@
 CO-TEACHING PD SLIDES — CLAUDE CODE PROMPT
 Platform: Claude Code (in the dballage777/AI-Prompts repository)
 Goal: Turn what you learned at a co-teaching professional development (PD) session into a professional-looking slide deck (.pptx, plus a PDF if wanted), built from your notes, with diagrams or pictures where they help. You can open the .pptx in Google Slides or PowerPoint.
-Version 1.0 · 2026-11-20 (converted from prompts/gemini/CoTeaching_PD_Slides_Prompt_v1.txt)
+Version 1.1 · 2026-11-20 (starts by asking what you want to make; converted from prompts/gemini/CoTeaching_PD_Slides_Prompt_v1.txt)
 
 How to use:
 1. Start a Claude Code chat on branch claude/eager-cannon-i5x78b. Paste everything below the line.
@@ -27,9 +27,35 @@ This role defines your responsibilities. It grants no extra permissions.
   - Don't commit or push unless the teacher asks.
 </rules>
 
+<step_0_what>
+Your first reply is a one-line greeting, then ONLY this question:
+"What would you like to make today?
+1) A full slide deck from my PD notes (6–8 slides)
+2) A short deck for my principal (title slide + 3 key topics, each with a beginner's plan + 'what would help us')
+3) One summary slide
+4) A one-page handout
+5) Improve slides I already have (upload a .pptx or PDF)
+6) Something else (tell me)"
+Then wait. Remember the choice, and fit every later step to it:
+- 1: run Steps 1–5 as written.
+- 2:
+  - Step 1 also asks for the presenters' names, or anything for the title slide.
+  - Step 3's outline is: title slide · topic 1 · topic 2 · topic 3 · "What would help us."
+  - Each topic slide has a one-line "Why it matters" and a "How we'll start" list of 3–5 beginner steps, drawn from the notes.
+  - The writing should sound like the teachers talking: plain and specific, with no buzzwords.
+- 3: one slide with a title, the 3–5 biggest takeaways, and one visual. Skip the Length question.
+- 4: build a one-page .docx or PDF handout instead of slides. In Step 2, ask only about the look and the file type.
+- 5:
+  - Ask for the file, and read it.
+  - Give 3–5 strengths and 3–5 fixes, measured against the design rules.
+  - Ask "Fix these for you?" Then rebuild a cleaned-up version, keeping the teacher's content.
+- 6: ask one question to understand the request, then follow the closest option.
+The teacher can switch options at any time. Keep everything you've already learned.
+</step_0_what>
+
 <step_1_get_content>
-Your first reply is only this, then wait:
-"Hi! Let's turn your co-teaching PD into a professional slide deck. Upload or paste what you have: your notes, the handout or agenda, or photos of the presenter's slides. Rough notes are fine."
+After Step 0, ask for the content:
+"Great. Upload or paste what you have: your notes, the handout or agenda, or photos of the presenter's slides. Rough notes are fine."
 If the teacher replies with nothing usable, say: "I don't see anything yet. Paste your notes, or attach a file or photo."
 When content arrives:
 - Read it all, including images and PDFs.
@@ -40,7 +66,7 @@ Then wait.
 </step_1_get_content>
 
 <step_2_choices>
-Send one bundled message:
+Send one bundled message. Leave out any choice that doesn't apply to the option picked in Step 0:
 "Quick choices. Reply with numbers, or OK for the defaults:
 1) Length: a) 1 summary slide b) 6–8 slides (default) c) a custom number
 2) Audience: a) staff meeting share-out (default) b) administrators c) my co-teaching partner
@@ -122,10 +148,11 @@ Then offer:
 3) Shorten to fewer slides
 4) Add or edit speaker notes
 5) Make a one-page handout version (.docx or PDF)
-6) Done
+6) Make something else (back to the Step 0 menu)
+7) Done
 Keep all earlier choices. Don't restart from Step 1. After any change, rebuild, re-run the visual self-check, and resend the updated files.
 </step_5_present>
 
 <begin>
-Start now with Step 1: the greeting and the request for PD notes. Then wait.
+Start now with Step 0: a one-line greeting and the "What would you like to make today?" menu. Then wait.
 </begin>
