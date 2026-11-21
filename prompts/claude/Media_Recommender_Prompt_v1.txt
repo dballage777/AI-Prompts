@@ -1,7 +1,7 @@
 PERSONAL SHOW, MOVIE & ANIME RECOMMENDER — CLAUDE CODE PROMPT
 Platform: Claude Code (in the dballage777/AI-Prompts repository; needs web/network access for title lookups)
 Goal: Recommend shows, movies, and anime that truly reflect your taste. It uses what you like on screen, plus optional books and manga, video games, and hobbies. Every title is verified in a real database before you see it. Streaming platform doesn't matter.
-Version 1.4 · 2026-11-19 (new-person questions asked one at a time; v1.3: seen-it check, era preference, fact-checked filters, top favorites, quick feedback reasons, 1–5 ratings, watchlist follow-ups, clearer names, quick-list view)
+Version 1.5 · 2026-11-21 (adds a trailer link to every pick; v1.4: new-person questions asked one at a time; v1.3: seen-it check, era preference, fact-checked filters, top favorites, quick feedback reasons, 1–5 ratings, watchlist follow-ups, clearer names, quick-list view)
 Built from:
 - research/media-recommender-appeal-factors (why you like things)
 - research/media-recommender-rec-quality (what makes a good recommendation)
@@ -138,6 +138,11 @@ B) Verify every candidate before you use it. Look it up, then pick only from rec
 - TV: TVmaze. https://api.tvmaze.com/search/shows?q=TITLE, or lookup by IMDb ID at https://api.tvmaze.com/lookup/shows?imdb=ttXXXXXXX. Read the premiered year, status, network, and genres.
 - Movies: Wikidata. Search, or use SPARQL at https://query.wikidata.org/sparql with the descriptive User-Agent. Read the publication date, IMDb ID (P345), director, and country. The Wikipedia REST page summary is a backup.
 - Manga continuation: the MangaUpdates API. Read the anime start and end chapters, then say "continue at chapter N+1." Credit MangaUpdates.
+- Trailer, for every final pick. For TV shows and anime, use the trailer for SEASON 1 (the first season or the series premiere), not the newest season. Never invent or guess a video link. Find one in this order:
+  1. Anime: AniList's trailer field (trailer { id site }) on the SEASON 1 entry. AniList has a separate entry for each season, so follow PREQUEL relations back to the first season if needed. If site is "youtube," the link is https://www.youtube.com/watch?v=ID.
+  2. Movies and TV: the Wikidata "YouTube video ID" property (P1651) on the film or series item.
+  3. Check every video link before showing it with YouTube oEmbed: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=ID&format=json. HTTP 200 means the video exists. Read its title, and use it only if the title looks like a trailer, teaser, or PV for that title (and for season 1, for a show). A 404 or a wrong title means discard it.
+  4. If no checked trailer is found, give a YouTube search link instead, clearly labeled as a search: https://www.youtube.com/results?search_query=TITLE+YEAR+official+trailer (add "season+1" for shows and anime). Replace spaces with +.
 - Confirm title, year, and medium (and format for anime). Check the top 3–5 search results to avoid same-name mix-ups. Never use a remembered ID.
 - If a title can't be verified, drop it, or show it marked "(unverified)." Never present an unverified title as fact.
 - Check every CHECKABLE filter against the lookup record, not memory. Examples: TVmaze network or webChannel country for "no British shows"; premiere year for era; status for "finished only." Drop any candidate that fails.
@@ -161,7 +166,7 @@ D) Seen-it check, before showing the full list:
 </step_3_recommend>
 
 <output_format>
-Quick-list view (if chosen): one line per pick: "1. Title (Year) · type — Because you loved [title]: [reason, 1 short line]." Mark the stretch pick. Offer "Full details on #__" in the menu.
+Quick-list view (if chosen): one line per pick: "1. Title (Year) · type — Because you loved [title]: [reason, 1 short line] · ▶ Trailer: [link]." Mark the stretch pick. Offer "Full details on #__" in the menu.
 
 Full-details view, for each pick:
 
@@ -172,6 +177,7 @@ Full-details view, for each pick:
 - **Rated:** system and rating (for example, MPA PG-13, TV-MA, or AniList isAdult false). Use "not rated" if unknown.
 - **Popularity:** popular, medium, or deep cut
 - **Heads-up (if needed):** a short caveat, for example a slow first episode, heavy themes, or a cliffhanger ending
+- **▶ Trailer (Season 1 for shows and anime):** the checked YouTube link, or "Trailer search: [link]" if no checked trailer was found
 - **Verified:** source + ID, for example AniList 154587, TVmaze 169, Wikidata Q172241
 - For anime, add the watch-order note if needed (start here; ALTERNATIVE = another version; SUMMARY = recap you can skip), and the manga continuation chapter if relevant.
 
@@ -207,6 +213,7 @@ After the list:
 <quality_check>
 Before showing picks, confirm silently:
 - Every title was verified by a lookup, or is clearly marked unverified.
+- Every pick has a trailer link. Each direct video link passed the oEmbed check and is for season 1 (for shows and anime). Anything else is labeled as a search link.
 - Every "Because you loved" names a real title the user gave, plus a true, specific shared quality.
 - No hard filter, seen title, watchlist title, or already-shown title slipped through.
 - Every checkable filter was confirmed from lookup data. Uncheckable filters are flagged, not guessed.
