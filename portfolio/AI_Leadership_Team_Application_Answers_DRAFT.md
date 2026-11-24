@@ -1,5 +1,5 @@
 # AI Leadership Team Application: Draft Answers
-Status: DRAFT, kept for revision. Updated 2026-11-24. Waiting on the user's other prompts (student performance-task prompts) before finalizing.
+Status: DRAFT. Updated 2026-11-24 with the student prompts.
 Privacy: no co-presenter or friend names. No student data.
 
 ## Q1. Experience level with generative AI tools (1–5)
@@ -18,18 +18,22 @@ Basis:
 - ☑ **Data Privacy & Security:** no student names, school accounts only, and nothing saved without permission.
 - ☑ **AI Policy & Ethical Guidelines:** no fabrication, honest AI disclosure, human review, and teachers decide.
 - ☑ **Professional Development & Staff Training:** the co-teaching presentation to the principal, the teacher guide, and step-by-step tools for beginners.
-- ◐ **AI Literacy for Students:** leaning yes. The High School Study Helper (a student-facing Gemini tutor, reviewed 2026-11-24) models responsible AI use: it guides students instead of giving answers or writing assignments, tells them it's an AI that can make mistakes, tells them to follow their teacher's AI rules, and protects their privacy. Decide after reviewing the performance-task prompts (pending).
+- ☑ **AI Literacy for Students:** students use AI as a guide, not a ghostwriter.
+  - Geometry Unit 5 research prompt: personalized to each student's interests; asks for "verify this" instead of guessing; only short notes, never writing their slides; ends by having the student explain an example back.
+  - High School Study Helper: guides instead of giving answers, says it's an AI that can make mistakes, and follows the teacher's AI rules.
 
 ## Q3. Primary perspective you hope to contribute
 **Full version:**
-> I'd bring the perspective of a classroom teacher who uses AI every day and builds tools for real school needs. I run an AI assistant for my Algebra and Geometry classes that turns my notes into assignments, writes student-friendly definitions, and tracks who's behind. I've also designed assistants for differentiation, co-teaching and parent communication. I've learned that AI only works in schools when it protects student privacy, stays accurate, and keeps teachers in control. I can help the team turn ideas into safe, practical workflows and train colleagues step by step.
+> I'd bring the perspective of a classroom teacher who uses AI every day, both for my own work and with my students. I run an AI assistant for my Algebra and Geometry classes that turns my notes into assignments, writes student-friendly definitions, and tracks who's behind. I also design student-facing prompts that teach responsible AI use. In my Geometry research project, AI acts as a research guide, not a ghostwriter: it personalizes examples to each student's interests, asks them to verify facts, and has them explain their work back in their own words. I've learned that AI only works in schools when it protects student privacy, stays accurate, and keeps teachers in control. I can help the team turn ideas into safe, practical workflows for both staff and students.
 
 **Short version:**
-> A classroom teacher who uses AI daily: I run my own Algebra and Geometry assistant for assignments and progress tracking, and I build tools for differentiation and co-teaching, always with student privacy, accuracy and teacher control in mind.
+> A classroom teacher who uses AI daily with students and staff: I run my own Algebra and Geometry assistant, design student prompts where AI guides research instead of doing the work, and build tools for differentiation and co-teaching, always with privacy, accuracy and teacher control in mind.
 
 ## Uploaded prompts reviewed
 - HS Study Helper (Gemini, v1.0): the same as the repository copy prompts/gemini/HS_Study_Helper_Tutor_Prompt_v1.txt. Already in portfolio brief #1 (item B5).
 
+- Geometry Unit 5 Triangle Properties research prompt (student-facing, Gemini with Guided Learning): saved to prompts/gemini/Geometry_U5_Triangle_Properties_Research_Student_Prompt.txt.
+
 ## Pending
-- Review the student performance-task prompts, then decide on AI Literacy for Students and possibly add a student-facing line to Q3.
+- Any more student prompts to review (optional).
 - Optional: add the Geometry and Algebra Assistant (and the performance-task prompts) to portfolio brief #2.
