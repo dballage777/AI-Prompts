@@ -23,6 +23,9 @@ Basis:
   - High School Study Helper: guides instead of giving answers, says it's an AI that can make mistakes, and follows the teacher's AI rules.
 
 ## Q3. Primary perspective you hope to contribute
+**FINAL (chosen by user, 2026-11-24):**
+> I'd bring the perspective of a classroom teacher who uses AI every day and builds tools for real school needs. I run an AI assistant for my Algebra and Geometry classes that turns my notes into assignments, writes student-friendly definitions, and tracks who's behind. I also design prompts that teach students to use AI responsibly: in my Geometry research project, AI acts as a research guide, not a ghostwriter, and my study-helper tutor coaches students step by step instead of giving answers. I've also designed assistants for differentiation, co-teaching and parent communication. I've learned that AI only works in schools when it protects student privacy, stays accurate, and keeps teachers in control. I can help the team turn ideas into safe, practical workflows and train colleagues step by step.
+
 **Explicit version (names every tool):**
 > I'd bring the perspective of a classroom teacher who uses AI every day, with my students and for my own work, and who builds practical tools with privacy, accuracy and teacher control built in. What I've built and use:
 >
