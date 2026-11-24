@@ -11,3 +11,9 @@ Ratings 1–5 (5 = all-time favorite). ★ = top favorite.
 - Spirited Away · unrated
 - Snatch · unrated
 - Little Miss Sunshine · unrated
+- Dredd · unrated
+- The Night Comes for Us · unrated
+- Train to Busan · unrated
+- Edge of Tomorrow · unrated
+- Inside Man · unrated
+- Scott Pilgrim vs. the World · unrated
