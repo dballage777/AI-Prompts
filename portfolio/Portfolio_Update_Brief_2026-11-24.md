@@ -16,7 +16,7 @@
 1. **Accuracy over impressiveness.** Use only facts in PART B or facts I give you. Never invent outcomes, adoption numbers, results, awards, or testimonials. Where an outcome would help, ask me, or leave a clearly marked placeholder such as `[ADD: …]` or `[CONFIRM: …]`.
 2. **Honest framing.** This work was done with an AI coding assistant (Claude Code) and, for some prompts, written for Google Gemini. I directed the work and set the goals, requirements, and revisions; the AI researched, drafted, and built. Describe it truthfully as AI-assisted design and direction. Keep the limitations in PART B unless I tell you they've changed.
 3. **Two sections.** I want **professional** work (education and AI systems) and **personal projects** (the media recommender, the resume builder and job finder, and other personal research) both included. Keep them in separate sections, unless I say otherwise.
-4. **Privacy.** Never include student data, my email, or the names of the friends and family who used the personal tools. Use counts only.
+4. **Privacy.** Never include student data, my email, my co-teaching partner's name, or the names of the friends and family who used the personal tools. Use counts or roles only.
 5. **Ask before changing anything.** Propose first. Write or replace portfolio content only after I reply APPROVE.
 
 **Workflow (one step at a time; end each reply with one clear question)**
@@ -89,7 +89,7 @@
   - It produces the Doc through Canvas export, or through a generated Google Apps Script.
 - **Co-teaching:**
   - **Getting-started tip sheet:** researched from the National Association for Co-Teaching (NACT) plus 3 articles, built around my conference takeaways, for a presentation to my principal. Delivered as Word and Markdown files.
-  - **3-slide principal presentation prompt (Gemini):** designed to look teacher-made, not AI-made. Title slide: "NACT Conference Takeaways," by David Ballage & Michael Whitlow. [CONFIRM: OK to name co-presenter]
+  - **3-slide principal presentation prompt (Gemini):** designed to look teacher-made, not AI-made. Title slide: "NACT Conference Takeaways," presented with my co-teaching partner. (Do not name the co-presenter.)
   - **Co-Teaching PD Slides prompt:** a Gemini version, plus a Claude Code version that builds real .pptx files and checks each slide visually for overflow and contrast.
 - **Differentiation, Reteaching & Co-Teaching Assistant, converted to Claude Code:** the flagship Gemini assistant from Brief #1, now producing real Word, PDF, and slide files. It checks math answer keys by computing them, measures reading levels with a formula, and draws on the High School Differentiation research library.
 - **Staff morale: "Blessing in a Backpack" picture prompt (Gemini):** a kind, school-appropriate picture of a colleague's face peeking out of a backpack, with a fallback if photo editing is unavailable.
