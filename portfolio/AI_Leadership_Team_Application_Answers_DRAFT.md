@@ -23,7 +23,34 @@ Basis:
   - High School Study Helper: guides instead of giving answers, says it's an AI that can make mistakes, and follows the teacher's AI rules.
 
 ## Q3. Primary perspective you hope to contribute
-**Full version:**
+**Explicit version (names every tool):**
+> I'd bring the perspective of a classroom teacher who uses AI every day, with my students and for my own work, and who builds practical tools with privacy, accuracy and teacher control built in. What I've built and use:
+>
+> **In my classroom:**
+> - A Geometry and Algebra Assistant that turns my notes into assignments, writes student-friendly definitions, and makes "who's behind" lists by class period.
+> - A Gradebook "Who's Behind" tool that turns gradebook exports into a color-coded list of who needs to catch up.
+>
+> **For students:**
+> - A Geometry research prompt (Unit 5: Properties of Triangles) where AI acts as a research guide, not a ghostwriter. It personalizes examples to each student's interests, marks facts to verify, and has students explain their work back.
+> - A High School Study Helper tutor that guides students step by step instead of giving answers.
+>
+> **For teachers and staff:**
+> - A Differentiation, Reteaching and Co-Teaching Assistant for struggling and advanced learners.
+> - A High School Differentiation Assistant.
+> - A Parent Communication and Mail-Merge Assistant.
+> - Co-teaching PD slide builders, a co-teaching "where to start" guide I presented to my principal, and a teacher guide for non-technical colleagues.
+>
+> **Research and AI systems:**
+> - Research-backed knowledge bases (30 sources each) on differentiation, prompt engineering, Gemini for K–12, and which AI tools fit which tasks.
+> - A research pipeline (a Top 30 source finder, a topic-learning prompt, and a deep web search prompt) with honesty rules: no made-up facts, cited sources, and labeled evidence.
+>
+> **Personal projects** that sharpened these skills:
+> - A media recommender that verifies every suggestion, used by 11 people.
+> - A Resume Helper and Job Finder with honesty and scam-safety rules.
+>
+> I've learned that AI only works in schools when it protects student privacy, stays accurate, and keeps teachers in control. I can help the team turn ideas into safe, practical workflows for both staff and students.
+
+**Full version (shorter, no tool list):**
 > I'd bring the perspective of a classroom teacher who uses AI every day, both for my own work and with my students. I run an AI assistant for my Algebra and Geometry classes that turns my notes into assignments, writes student-friendly definitions, and tracks who's behind. I also design student-facing prompts that teach responsible AI use. In my Geometry research project, AI acts as a research guide, not a ghostwriter: it personalizes examples to each student's interests, asks them to verify facts, and has them explain their work back in their own words. I've learned that AI only works in schools when it protects student privacy, stays accurate, and keeps teachers in control. I can help the team turn ideas into safe, practical workflows for both staff and students.
 
 **Short version:**
