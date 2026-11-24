@@ -18,7 +18,7 @@ Basis:
 - ☑ **Data Privacy & Security:** no student names, school accounts only, and nothing saved without permission.
 - ☑ **AI Policy & Ethical Guidelines:** no fabrication, honest AI disclosure, human review, and teachers decide.
 - ☑ **Professional Development & Staff Training:** the co-teaching presentation to the principal, the teacher guide, and step-by-step tools for beginners.
-- ☐ **AI Literacy for Students:** optional for now. Revisit after reviewing the student performance-task prompts (pending upload).
+- ◐ **AI Literacy for Students:** leaning yes. The High School Study Helper (a student-facing Gemini tutor, reviewed 2026-11-24) models responsible AI use: it guides students instead of giving answers or writing assignments, tells them it's an AI that can make mistakes, tells them to follow their teacher's AI rules, and protects their privacy. Decide after reviewing the performance-task prompts (pending).
 
 ## Q3. Primary perspective you hope to contribute
 **Full version:**
@@ -26,6 +26,9 @@ Basis:
 
 **Short version:**
 > A classroom teacher who uses AI daily: I run my own Algebra and Geometry assistant for assignments and progress tracking, and I build tools for differentiation and co-teaching, always with student privacy, accuracy and teacher control in mind.
+
+## Uploaded prompts reviewed
+- HS Study Helper (Gemini, v1.0): the same as the repository copy prompts/gemini/HS_Study_Helper_Tutor_Prompt_v1.txt. Already in portfolio brief #1 (item B5).
 
 ## Pending
 - Review the student performance-task prompts, then decide on AI Literacy for Students and possibly add a student-facing line to Q3.
