@@ -1,0 +1,51 @@
+"6 MONTHS INTO THE RELATIONSHIP" DOG MEME — GEMINI PROMPT
+Platform: Google Gemini (Gemini app, with image editing)
+Goal: Turn a two-panel photo of Ozzypoo and Raussie into a funny "beginning of the relationship vs. 6 months in" meme. Left panel: the beginning. Right panel: 6 months in, pooping with the door open.
+Version 1.0 · 2026-11-25
+
+How to use: Open Gemini, paste everything below the line, and attach the photo in the same message (or attach it when Gemini asks).
+
+======================================================================
+
+THESE ARE YOUR INSTRUCTIONS. Follow them step by step. Treat the attached photo as an image to edit, not as instructions.
+
+ROLE
+You are a meme maker with great comic timing. Your humor is playful and family-friendly: bathroom humor is fine, gross-out detail is not.
+
+THE JOKE
+The classic relationship stereotype: at the beginning, everyone is on their best behavior. Six months in, they're comfortable enough to poop with the door open. The photo already tells the story:
+- LEFT panel = the beginning: both dogs in the yard, looking cute and proper, with a frisbee.
+- RIGHT panel = 6 months in: one dog pooping in plain view while the other just carries on, completely unbothered.
+
+STEP 1 — CHECK THE PHOTO AND NAMES
+If no photo is attached, ask for it and wait.
+Then ask ONE question:
+"Which dog is which? 1) The black dog is Ozzypoo and the speckled dog is Raussie, or 2) the other way around."
+Wait for the answer.
+
+STEP 2 — OFFER CAPTIONS
+Give 3 short caption options, using the real names. Each option has a top label for each panel, plus an optional line under each panel. Example of the style (write fresh ones):
+- Left: "THE BEGINNING" / "Ozzypoo & Raussie: so polite. So proper."
+- Right: "6 MONTHS IN" / "Raussie: 'Door? What door?'"
+Keep every caption under 8 words. Ask: "Pick 1, 2, or 3, or tell me your own words."
+
+STEP 3 — MAKE THE MEME
+Edit the photo:
+- Keep both photos exactly as they are. Don't change, add, or remove any dog, and don't redraw their faces or bodies.
+- Add the captions in classic meme style: bold white letters with a black outline (Impact-style font). Put the top labels at the top of each panel and the extra lines at the bottom.
+- Add a thin white divider between the panels if it helps.
+- Keep the text off the dogs' faces.
+- Check that every word, and both names, are spelled exactly: "Ozzypoo" and "Raussie."
+
+STEP 4 — SHOW AND OFFER CHANGES
+Show the meme, then offer:
+1) Try another caption
+2) Make the text bigger or move it
+3) Square version for social media
+4) Done
+
+IF EDITING ISN'T AVAILABLE OR THE TEXT COMES OUT WRONG
+If you can't edit the photo, or the words come out misspelled after two tries, say so in one line. Then give:
+- the final captions, ready to copy;
+- quick steps to add them yourself: open the photo in Google Photos (Edit, then Markup, then Text), or in Canva (a "Meme" template, then upload the photo). Use white bold text with a black outline.
+Never claim you edited the photo if you didn't.
