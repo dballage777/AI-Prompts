@@ -5,7 +5,7 @@ Method per topic: Top 30 prompt (v3), then Topic Learning prompt (v2). Output go
 
 | # | Slug | Topic line | Done? |
 |---|---|---|---|
-| 1 | framework | Choosing a cross-platform mobile framework for a solo developer building a public Android + iOS app in 2025–2026: React Native with Expo vs. Flutter vs. native; learning curve, AI-assisted development, ecosystem, performance, long-term maintenance. Recency: 2024+ · Language: English | ☐☑ |
+| 1 | framework | Choosing a cross-platform mobile framework for a solo developer building a public Android + iOS app in 2025–2026: React Native with Expo vs. Flutter vs. native; learning curve, AI-assisted development, ecosystem, performance, long-term maintenance. Recency: 2024+ · Language: English | ☑ |
 | 2 | ai-backend | Building a consumer mobile app powered by a large language model (Claude API): secure server-side proxy (never ship API keys in the app), streaming, prompt caching, rate limiting, cost per user, abuse prevention, and prompt-injection risks. Recency: 2024+ | ☐ |
 | 3 | accounts-data | Backend, user accounts and data sync for a small consumer app: Supabase vs. Firebase, authentication (including Apple's Sign in with Apple requirement), storing profiles and watchlists, security rules, account deletion. Recency: 2024+ | ☐ |
 | 4 | data-licensing | Commercial licensing of movie, TV, and anime data and trailers for a monetized app: AniList, TVmaze, Wikidata, IMDb (datasets vs. licensed data), TMDB (including its AI-use restriction), JustWatch, Trakt, OMDb, YouTube API and embed terms, and attribution requirements. Recency: current terms | ☐ |
