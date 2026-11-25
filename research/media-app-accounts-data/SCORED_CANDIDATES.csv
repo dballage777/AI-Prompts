@@ -1,0 +1,91 @@
+rank,name,url,type,relevance,reliability,authority,depth,accuracy,practical,currentness,community,weighted_total,status
+1,Apple TN3194: Handling account deletions and revoking tokens for Sign in with Apple,https://developer.apple.com/documentation/technotes/tn3194-handling-account-deletions-and-revoking-tokens-for-sign-in-with-apple,official technote,10,10,10,9,10,10,9,6,9.66,selected
+2,"Apple App Review Guidelines (4.8 Login Services, 5.1.1(v) account deletion)",https://developer.apple.com/app-store/review/guidelines/,policy,10,10,10,8,10,10,10,8,9.64,selected
+3,Google Play: Understanding app account deletion requirements,https://support.google.com/googleplay/android-developer/answer/13327111,policy,10,10,10,8,10,10,9,6,9.51,selected
+4,Supabase Pricing,https://supabase.com/pricing,pricing,10,9,9,9,9,10,10,7,9.33,selected
+5,Supabase docs: Row Level Security,https://supabase.com/docs/guides/database/postgres/row-level-security,official docs,10,9,9,9,9,10,9,8,9.29,selected
+6,Firebase Pricing,https://firebase.google.com/pricing,pricing,10,9,9,8,9,10,10,7,9.18,selected
+7,Supabase docs: Sign in with Apple (and Sign in with Google),https://supabase.com/docs/guides/auth/social-sign-in/auth-apple,official docs,10,9,9,8,9,10,9,6,9.08,selected
+8,Expo: AppleAuthentication (expo-apple-authentication),https://docs.expo.dev/versions/latest/sdk/apple-authentication/,official SDK docs,10,9,9,7,9,10,9,6,8.93,selected
+9,PostgreSQL docs: Row Security Policies,https://www.postgresql.org/docs/current/ddl-rowsecurity.html,official docs,8,10,10,8,10,8,9,7,8.9,selected
+10,Supabase docs: JWT Signing Keys,https://supabase.com/docs/guides/auth/signing-keys,official docs,9,9,9,8,9,9,10,5,8.8,selected
+11,Supabase docs: User Management,https://supabase.com/docs/guides/auth/managing-user-data,official docs,9,9,9,8,9,9,9,6,8.76,selected
+12,Firestore Security Rules: Get started,https://firebase.google.com/docs/firestore/security/get-started,official docs,9,9,9,8,9,9,8,7,8.72,selected
+13,RFC 9700: Best Current Practice for OAuth 2.0 Security,https://www.rfc-editor.org/rfc/rfc9700.html,standard (RFC),7,10,10,9,10,7,9,6,8.7,selected
+14,Firebase: Authenticate Using Apple (JavaScript),https://firebase.google.com/docs/auth/web/apple,official docs,9,9,9,8,9,9,8,5,8.66,selected
+15,Expo: Local-first architecture with Expo,https://docs.expo.dev/guides/local-first/,official docs,9,9,9,7,9,9,9,6,8.61,selected
+16,"No Way to Sign Out? Non-Compliance with Google Play's App Account Deletion Requirements (Yan et al., USENIX Security 2025)",https://www.usenix.org/conference/usenixsecurity25/presentation/yan-jingwen,peer-reviewed,9,9,9,8,9,8,9,5,8.61,selected
+17,Firestore: Access data offline,https://firebase.google.com/docs/firestore/manage-data/enable-offline,official docs,9,9,9,7,9,9,8,6,8.54,selected
+18,PowerSync: Supabase integration guide,https://docs.powersync.com/integrations/supabase/guide,vendor docs,9,8,8,9,8,9,9,6,8.48,selected
+19,Cloudflare D1: Pricing,https://developers.cloudflare.com/d1/platform/pricing/,pricing,8,9,9,7,9,9,10,5,8.45,selected
+20,UpGuard: Everything Everywhere: Systemic Data Exposure in Supabase Apps,https://www.upguard.com/labs/research/everything-everywhere-systemic-data-exposure-in-supabase-apps,industry research,9,8,8,8,8,9,10,7,8.43,selected
+21,React Native Google Sign In: Expo setup,https://react-native-google-signin.github.io/docs/setting-up/expo,library docs,9,8,8,7,8,10,9,7,8.33,selected
+22,Cloudflare Durable Objects: Pricing,https://developers.cloudflare.com/durable-objects/platform/pricing/,pricing,8,9,9,7,9,8,10,5,8.33,selected
+23,Supabase blog: Local-first Realtime Apps with Expo and Legend-State,https://supabase.com/blog/local-first-expo-legend-state,engineering blog,9,8,8,8,8,9,8,6,8.26,selected
+24,OWASP MASVS-AUTH,https://mas.owasp.org/MASVS/07-MASVS-AUTH/,standard,8,9,10,6,9,8,8,7,8.23,selected
+25,Wiz: Hacking Moltbook (exposed Supabase database),https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys,incident research,8,8,8,8,8,8,10,7,8.11,selected
+26,"Crissy Field: Lovable, many apps expose sensitive data",https://www.crissyfield.de/research/lovable-en/,industry research,8,8,7,8,8,8,10,6,7.95,selected
+27,eva: Arc browser takeover via Firestore rules (CVE-2024-45489),https://eva.ac/blog/arc/,independent security research,8,8,7,7,8,8,8,8,7.72,selected
+28,The Register: Millions of user records exposed by 900+ sites via Firebase,https://www.theregister.com/security/2024/03/18/millions-of-user-records-exposed-by-900-sites-via-firebase/1365304,media,8,8,7,7,8,8,8,7,7.69,selected
+29,ASO.dev: Sign In with Apple issue (case study),https://aso.dev/blog/apple-sign-in/,independent case study,9,7,6,7,7,9,9,8,7.68,selected
+30,Clerk docs: Integrate Supabase with Clerk,https://clerk.com/docs/guides/development/integrations/databases/supabase,vendor docs,7,8,8,7,8,8,9,6,7.66,selected
+31,Apple: 5.1.1(v) Offering account deletion,https://developer.apple.com/help/app-review/guideline-reference/5-1-1-account-deletion,policy guidance,10,10,10,7,10,10,9,6,9.36,merged (read under TN3194/App Review)
+32,Apple: Token revocation REST API,https://developer.apple.com/documentation/signinwithapplerestapi/revoke-tokens,API docs,9,10,10,6,10,9,8,5,8.79,merged (read under TN3194)
+33,Firestore billing,https://firebase.google.com/docs/firestore/pricing,pricing,9,9,9,8,9,9,9,6,8.76,merged (read under Firebase Pricing)
+34,Supabase KB: RLS performance and best practices,https://supabase.com/kb/troubleshooting/rls-performance-and-best-practices-Z5Jjwv,official KB,9,9,9,8,9,9,9,6,8.76,merged (read under Supabase RLS)
+35,Supabase: Sign in with Google,https://supabase.com/docs/guides/auth/social-sign-in/auth-google,official docs,9,9,9,8,9,9,9,6,8.76,merged (read under Supabase Apple)
+36,Firebase: Avoid surprise bills,https://firebase.google.com/docs/projects/billing/avoid-surprise-bills,official docs,9,9,9,7,9,9,9,6,8.61,merged (read under Firebase Pricing)
+37,Supabase: Securing your API,https://supabase.com/docs/guides/api/securing-your-api,official docs,9,9,9,7,9,9,9,6,8.61,merged (read under Supabase RLS)
+38,Firebase: Avoid insecure rules,https://firebase.google.com/docs/rules/insecure-rules,official docs,9,9,9,7,9,9,8,6,8.54,merged (read under Firestore rules)
+39,Firebase Delete User Data extension,https://firebase.google.com/docs/extensions/official/delete-user-data,official docs,9,9,9,7,9,9,8,5,8.51,merged (read under Firebase Apple auth)
+40,Supabase: Auth quickstart React Native,https://supabase.com/docs/guides/auth/quickstarts/react-native,quickstart,9,9,9,6,9,9,9,6,8.46,merged (read under Supabase Apple)
+41,Supabase: Control your costs,https://supabase.com/docs/guides/platform/cost-control,official docs,9,9,9,6,9,9,9,5,8.43,merged (read under Supabase Pricing)
+42,Supabase: Securing Edge Functions,https://supabase.com/docs/guides/functions/auth,official docs,8,9,9,7,9,9,9,5,8.38,merged (read under JWT signing keys; topic 2 S22 covers)
+43,Google Play User Data policy,https://support.google.com/googleplay/android-developer/answer/10144311,policy,7,10,10,7,10,7,9,5,8.37,merged (read under Play deletion)
+44,Supabase: auth.admin.deleteUser,https://supabase.com/docs/reference/javascript/auth-admin-deleteuser,API reference,9,9,9,5,9,9,9,5,8.28,merged (read under User Management)
+45,Supabase: Anonymous Sign-Ins,https://supabase.com/docs/guides/auth/auth-anonymous,official docs,8,9,9,7,9,8,9,5,8.26,merged (read under User Management)
+46,Expo SQLite,https://docs.expo.dev/versions/latest/sdk/sqlite/,official SDK docs,8,9,9,7,9,8,9,5,8.26,merged (read under Expo local-first)
+47,RFC 8252 OAuth 2.0 for Native Apps,https://www.rfc-editor.org/rfc/rfc8252.html,standard (RFC),7,10,10,8,10,7,4,7,8.23,merged (read under RFC 9700; 2017)
+48,NIST SP 800-63B-4,https://pages.nist.gov/800-63-4/sp800-63b.html,standard,6,10,10,9,10,5,9,5,8.23,near-miss (less practical for consumer app)
+49,Firebase rules unit tests,https://firebase.google.com/docs/rules/unit-tests,official docs,8,9,9,7,9,8,8,5,8.19,merged (read under Firestore rules)
+50,Cloudflare D1 limits,https://developers.cloudflare.com/d1/platform/limits/,official docs,8,9,9,6,9,8,10,5,8.18,merged (read under D1 pricing)
+51,Apple HIG: Sign in with Apple,https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple,design guidance,7,10,10,6,10,7,8,5,8.15,near-miss
+52,Expo: Using Firebase,https://docs.expo.dev/guides/using-firebase/,official docs,8,9,9,6,9,8,9,5,8.11,"merged (read with Firestore offline? no, near-miss)"
+53,Apple App Privacy Details,https://developer.apple.com/app-store/app-privacy-details/,policy,6,10,10,7,10,7,8,5,8.1,near-miss (topic 5 app-store-rules)
+54,Firestore data model,https://firebase.google.com/docs/firestore/data-model,official docs,8,9,9,6,9,8,8,5,8.04,merged (read under Firestore offline)
+55,Supabase: Production checklist,https://supabase.com/docs/guides/deployment/going-into-prod,official docs,8,9,9,6,9,8,8,5,8.04,merged (read under RLS)
+56,Durable Objects SQLite storage API,https://developers.cloudflare.com/durable-objects/api/sqlite-storage-api/,official docs,7,9,9,7,9,7,10,5,8.01,merged (read under DO pricing)
+57,Expo: Using Supabase,https://docs.expo.dev/guides/using-supabase/,official docs,8,9,9,5,9,8,9,5,7.96,near-miss (thin; links Supabase docs)
+58,Expo: Using Google authentication,https://docs.expo.dev/guides/google-authentication/,official docs,8,9,9,5,9,8,9,5,7.96,merged (read under expo-apple-authentication)
+59,OWASP MASVS-STORAGE,https://mas.owasp.org/MASVS/05-MASVS-STORAGE/,standard,7,9,10,6,9,7,8,6,7.88,merged (read under MASVS-AUTH)
+60,PowerSync pricing,https://powersync.com/pricing,pricing,8,8,8,6,8,8,10,5,7.75,near-miss (read under PowerSync guide... different subdomain; used as note)
+61,Ink & Switch: Local-first software,https://www.inkandswitch.com/essay/local-first/,essay/peer-reviewed,7,9,9,9,9,5,4,8,7.74,"near-miss (foundational, pre-2024)"
+62,Expo blog: What synced in-app SQLite brings to Expo apps,https://expo.dev/blog/what-synced-in-app-sqlite-brings-to-expo-apps,engineering blog,8,8,8,6,8,8,9,5,7.68,merged (read under Expo local-first)
+63,Legend-State v3 Supabase plugin,https://legendapp.com/open-source/state/v3/sync/supabase/,library docs,8,8,7,7,8,8,8,6,7.66,near-miss (covered by Supabase blog S17)
+64,React Native Firebase: Social auth,https://rnfirebase.io/auth/social-auth,library docs,8,8,8,6,8,8,8,6,7.64,near-miss
+65,Liu et al.: Zombie Accounts (USENIX 2022),https://www.usenix.org/conference/usenixsecurity22/presentation/liu-yijing,peer-reviewed,7,9,9,7,9,6,5,5,7.54,near-miss
+66,Zuo et al.: Why Does Your Data Leak? (2019),https://par.nsf.gov/servlets/purl/10134835,peer-reviewed,7,9,9,8,9,5,3,5,7.43,near-miss (pre-2024)
+67,Clerk pricing,https://clerk.com/pricing,pricing,7,8,8,5,8,8,10,5,7.4,merged (read under Clerk+Supabase)
+68,Jannett et al.: The State of Passkeys (USENIX 2026),https://www.usenix.org/conference/usenixsecurity26,peer-reviewed,5,9,9,8,9,4,10,5,7.4,near-miss (passkeys out of v1 scope)
+69,Demissie & Ranise: Firebase shared-responsibility study (2021),https://cris.fbk.eu/retrieve/ddb241a5-8518-ba8a-e053-3a05fe0afd55/smds_preprint.pdf,peer-reviewed,8,8,8,8,8,6,4,5,7.39,near-miss (pre-2024)
+70,Dar et al.: RLS Side Channels (SIGMOD 2023),https://www.cs.tau.ac.il/~mad/publications/sigmod2023-rls.pdf,peer-reviewed,6,9,9,8,9,4,6,4,7.29,near-miss (low practical impact at this scale)
+71,Cloudflare blog: How D1 scales to millions of databases,https://blog.cloudflare.com/d1-control-plane/,engineering blog,6,8,8,7,8,6,10,5,7.26,near-miss
+72,Matt Palmer: Statement on CVE-2025-48757,https://mattpalmer.io/posts/2025/05/statement-on-CVE-2025-48757/,independent disclosure,8,7,7,6,7,7,8,6,7.09,near-miss (covered by Crissy/UpGuard)
+73,BleepingComputer: Tea app second database,https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/,media,7,8,7,6,8,6,8,6,7.07,near-miss
+74,Boris Tane: One database per user with Durable Objects,https://boristane.com/blog/durable-objects-database-per-user/,independent blog,7,7,6,7,7,7,9,6,6.98,near-miss
+75,Better Auth: Expo integration,https://better-auth.com/docs/integrations/expo,library docs,7,7,7,6,7,7,9,6,6.96,near-miss
+76,Convex pricing,https://www.convex.dev/pricing,pricing,6,8,8,5,8,6,10,5,6.96,near-miss (alternative BaaS)
+77,Alexander Oskin (DEV): built sync on top of SQLite in React Native,https://dev.to/superoskin/i-didnt-need-powersync-so-i-built-sync-on-top-of-sqlite-in-react-native,community blog,8,6,5,7,6,8,10,6,6.94,near-miss (community; diversity already covered)
+78,Appwrite pricing,https://appwrite.io/pricing,pricing,6,8,8,5,8,6,9,5,6.89,near-miss
+79,ElectricSQL Expo,https://electric.ax/docs/integrations/expo,vendor docs,7,7,7,6,7,6,9,5,6.81,near-miss
+80,WatermelonDB sync,https://watermelondb.dev/docs/Sync/Intro,library docs,7,7,7,7,7,6,6,6,6.78,near-miss
+81,General Analysis: Supabase MCP can leak your entire SQL database,https://generalanalysis.com/blog/supabase-mcp-blog,security research,6,7,7,6,7,6,8,6,6.57,near-miss
+82,InstantDB: team joins OpenAI,https://www.instantdb.com/essays/instant_team_joins_openai,vendor announcement,5,8,8,4,8,5,10,5,6.49,near-miss (rules Instant out)
+83,Val Town: From Supabase to Clerk to Better Auth,https://blog.val.town/better-auth,engineering blog,6,7,6,6,7,6,8,7,6.47,near-miss
+84,Zero status,https://zero.rocicorp.dev/docs/status,vendor docs,6,7,7,5,7,5,10,5,6.41,near-miss
+85,PocketBase docs,https://pocketbase.io/docs/,docs,5,7,7,6,7,5,8,6,6.25,"near-miss (pre-1.0, not recommended for prod by itself)"
+86,Arseniy Shestakov: Hide My Email,https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/,independent blog,7,6,5,5,6,6,10,6,6.2,near-miss
+87,HN: Firebase $70k bill in one day,https://news.ycombinator.com/item?id=42732714,community thread,7,5,4,5,5,6,8,8,5.69,near-miss (anecdotal; topic 2 covers bill shock)
+88,HN: What in the world is going on at Supabase?,https://news.ycombinator.com/item?id=45609621,community thread,6,5,4,5,5,5,9,8,5.44,near-miss (anecdotal)
+89,Indie Hackers: What's your Firebase bill,https://www.indiehackers.com/post/whats-your-firebase-bill-545fe2fb36,community,0,0,0,0,0,0,0,0,0.0,excluded (BLOCKED 403)
+90,Triplit,https://triplit.dev,vendor,0,0,0,0,0,0,0,0,0.0,excluded (DEAD 502)
