@@ -1,0 +1,32 @@
+point,supporting,conflicting,evidence_label,strength
+"Provider API keys must never ship in the mobile app; values in the bundle are extractable",S4;S6;S11;S20;S24;S29,,Documented,Strong
+"Anthropic TypeScript SDK does not support React Native; browsers need dangerouslyAllowBrowser",S11,,Documented,Moderate
+"64% of 444 iOS LLM apps leaked working credentials; 48% JWT, 33% unauthenticated proxy, 19% plaintext",S15,,Research (preprint),Moderate
+"A proxy without user authentication still leaks access",S15;S22,S24;S29 (say a backend suffices; silent on auth),Research/Documented,Strong
+"Supabase default verify_jwt accepts the publishable key; use auth:'user'",S22,,Documented,Moderate
+"App attestation (Play Integrity / App Attest) via @expo/app-integrity; server must verify; no iOS Simulator",S17;S29,,Documented,Moderate
+"Native apps have no CORS; origin checks do not protect a proxy",S24,,Documented,Moderate
+"Hard spend caps per key/user/account are required; alerts lag",S10;S28;S30;S3;S8,,Documented/Reported,Strong
+"Request-rate limiting alone is insufficient; budget tokens and cost",S10,,Documented,Moderate
+"Anthropic tier monthly caps: Start $500, Build $1,000, Scale $200,000; cap hit = 429 enforced_spend_limit_reached",S3,,Documented,Moderate
+"Workspaces support monthly spend limits, per-model rate limits, email alerts",S8;S6,,Documented,Strong
+"anthropic-user-profile-id header attributes requests so enforcement hits one end user",S13,,Documented,Moderate
+"Workers rate-limit binding is approximate, per-location, 10 s/60 s periods; strict limits need Durable Objects",S19,,Documented,Moderate
+"Upstash ratelimit fails open on timeout by default; multi-region can exceed limits slightly",S25,,Documented,Limited
+"Prices per MTok: Haiku 5.5 $0.10/$0.50, Sonnet 5.5 $2/$10, Opus 5.5 $4/$20; batch 50% off",S2;S7,,Documented,Strong
+"Cache writes 1.25x (5m) / 2x (1h); reads 0.05x Opus/Sonnet 5.5, 0.1x Haiku 5.5; 512-token minimum",S1;S2,,Documented,Strong
+"Cache reads do not count toward ITPM",S3;S1,,Documented,Strong
+"Errors and refusals can arrive mid-stream after HTTP 200",S5,,Documented,Moderate
+"expo/fetch supports streaming response bodies on iOS/Android (SDK 52+)",S16,,Documented,Moderate
+"Expo Hosting Free plan allows only 10 CPU-ms and 10 subrequests per request",S9,,Documented,Moderate
+"AI Gateway caching is exact-match only; gateway token is account-scoped and must not ship",S18,,Documented,Moderate
+"No reliable filter-based prevention for prompt injection exists",S12;S21;S23;S26,S7 (offers classifier screens as one layer),Documented/Research,Strong
+"Third-party API responses are a (semi-trusted) indirect injection surface",S12;S27;S21,,Documented/Research,Strong
+"Injection via tool responses succeeded 24-47% on ReAct GPT-4 (2024); Claude-2.1 3.4-11.4%",S27,S12 (adaptive attacks >90% vs defenses),Research,Moderate
+"Map-reduce isolates untrusted items in a recommender",S23,,Research (preprint),Limited
+"Remove the exfiltration channel (incl. rendered links/images) to break the lethal trifecta",S26;S12;S23,,Reported/Documented,Strong
+"Put third-party text only in tool_result blocks, JSON-encoded, with an untrusted-content policy",S7,,Documented,Moderate
+"Assume the system prompt leaks; never put secrets or authorization in it",S12;S7,,Documented,Strong
+"Consumer chatbots must disclose AI; minors trigger age verification and COPPA statement",S14,,Documented,Moderate
+"Stolen key ran ~ $600k over ~3 weeks unnoticed (METR)",S28,,Documented,Moderate
+"Per round cost ~ $0.003 Haiku 5.5, ~ $0.043-0.053 Sonnet 5.5, ~ $0.085-0.107 Opus 5.5 (assumptions in KB appendix)",S2;S1,,Inferred,Limited
