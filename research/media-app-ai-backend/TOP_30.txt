@@ -1,0 +1,30 @@
+1. Claude API docs: Prompt caching — https://platform.claude.com/docs/en/build-with-claude/prompt-caching
+2. Claude API docs: Pricing — https://platform.claude.com/docs/en/about-claude/pricing
+3. Claude API docs: Rate limits — https://platform.claude.com/docs/en/api/rate-limits
+4. Expo docs: Environment variables in Expo — https://docs.expo.dev/guides/environment-variables/
+5. Claude API docs: Streaming Messages — https://platform.claude.com/docs/en/build-with-claude/streaming
+6. Claude Help Center: API key best practices — https://support.claude.com/en/articles/9767949-api-key-best-practices-keeping-your-keys-safe-and-secure
+7. Claude API docs: Mitigate jailbreaks and prompt injections — https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks
+8. Claude API docs: Workspaces (spend and rate limits) — https://platform.claude.com/docs/en/manage-claude/workspaces
+9. Expo Router docs: API Routes — https://docs.expo.dev/router/web/api-routes/
+10. OWASP Top 10 for LLM Applications 2026: LLM06 Unbounded Consumption — https://raw.githubusercontent.com/GenAI-Security-Project/GenAI-LLM-Top10/main/2026/final/LLM06_UnboundedConsumption.md
+11. Anthropic TypeScript SDK README — https://raw.githubusercontent.com/anthropics/anthropic-sdk-typescript/main/README.md
+12. OWASP Top 10 for LLM Applications 2026: LLM01 Prompt Injection — https://raw.githubusercontent.com/GenAI-Security-Project/GenAI-LLM-Top10/main/2026/final/LLM01_PromptInjection.md
+13. Claude API docs: User profiles for end-customer attribution — https://platform.claude.com/docs/en/manage-claude/user-profiles
+14. Anthropic Usage Policy — https://www.anthropic.com/legal/aup
+15. Mind your key: LLM API Credential Leakage in iOS Apps (Gao et al.) — https://arxiv.org/abs/2606.12212
+16. Expo SDK reference: expo/fetch — https://docs.expo.dev/versions/latest/sdk/expo/
+17. Expo docs: AppIntegrity — https://docs.expo.dev/versions/latest/sdk/app-integrity/
+18. Cloudflare AI Gateway: Anthropic provider — https://developers.cloudflare.com/ai-gateway/usage/providers/anthropic/
+19. Cloudflare Workers: Rate Limiting binding — https://developers.cloudflare.com/workers/runtime-apis/bindings/rate-limit/
+20. OWASP MASWE-0004: Sensitive Data Hardcoded in the App Package — https://mas.owasp.org/MASWE/MASVS-STORAGE/MASWE-0004/
+21. UK NCSC: Prompt injection is not SQL injection — https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection
+22. Supabase docs: Securing Edge Functions — https://supabase.com/docs/guides/functions/auth
+23. Design Patterns for Securing LLM Agents against Prompt Injections — https://arxiv.org/abs/2506.08837
+24. React Native docs: Security — https://reactnative.dev/docs/security
+25. Upstash Ratelimit: Algorithms — https://upstash.com/docs/redis/sdks/ratelimit-ts/algorithms
+26. Simon Willison: The lethal trifecta for AI agents — https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
+27. InjecAgent: Indirect Prompt Injections in Tool-Integrated LLM Agents — https://arxiv.org/abs/2403.02691
+28. METR: Update on Security at METR — https://metr.org/blog/2026-08-31-security-update/
+29. Codeminer42: Why Your AI-Powered React Native App Needs a Backend — https://blog.codeminer42.com/thinking-about-adding-ai-to-your-expo-react-native-app-read-this-first/
+30. Hacker News: €54k spike in 13h from unrestricted Firebase browser key — https://news.ycombinator.com/item?id=47791871

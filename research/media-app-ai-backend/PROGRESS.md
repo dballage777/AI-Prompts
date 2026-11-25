@@ -1,11 +1,12 @@
 # PROGRESS — media-app-ai-backend (Top 30)
 - [x] Setup, scope, access preflight (2026-11-25)
-- [ ] Pass 1 discovery
-- [ ] Pass 2 expansion
-- [ ] Pass 3 validation
-- [ ] Pass 4 community check
-- [ ] Pass 5 cross-check
-- [ ] Pass 6 dedupe
-- [ ] Pass 7 score
-- [ ] Pass 8 omission check
-- [ ] Final verification
+- [x] Pass 1 discovery
+- [x] Pass 2 expansion
+- [x] Pass 3 validation
+- [x] Pass 4 community check
+- [x] Pass 5 cross-check
+- [x] Pass 6 dedupe
+- [x] Pass 7 score
+- [x] Pass 8 omission check
+- [x] Final verification
+- Final 30 re-verified 2026-11-25 (all HTTP 200)

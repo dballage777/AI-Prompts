@@ -1,0 +1,74 @@
+rank,name,url,type,relevance,reliability,authority,depth,accuracy,practical,currentness,community,weighted_total,status
+1,Claude API docs: Prompt caching,https://platform.claude.com/docs/en/build-with-claude/prompt-caching,official docs,10,10,10,10,10,10,10,8,9.94,selected
+2,Claude API docs: Pricing,https://platform.claude.com/docs/en/about-claude/pricing,official docs,10,10,10,9,10,10,10,8,9.79,selected
+3,Claude API docs: Rate limits,https://platform.claude.com/docs/en/api/rate-limits,official docs,10,10,10,9,10,10,10,7,9.76,selected
+4,Expo docs: Environment variables in Expo,https://docs.expo.dev/guides/environment-variables/,official docs,10,10,9,8,10,10,10,8,9.51,selected
+5,Claude API docs: Streaming Messages,https://platform.claude.com/docs/en/build-with-claude/streaming,official docs,9,10,10,9,10,9,10,7,9.44,selected
+6,Claude Help Center: API key best practices,https://support.claude.com/en/articles/9767949-api-key-best-practices-keeping-your-keys-safe-and-secure,official help article,10,10,10,6,10,10,10,7,9.31,selected
+7,Claude API docs: Mitigate jailbreaks and prompt injections,https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/mitigate-jailbreaks,official docs,10,10,10,7,9,9,10,7,9.24,selected
+8,Claude API docs: Workspaces (spend and rate limits),https://platform.claude.com/docs/en/manage-claude/workspaces,official docs,9,10,10,8,10,9,10,5,9.23,selected
+9,Expo Router docs: API Routes,https://docs.expo.dev/router/web/api-routes/,official docs,10,9,9,8,9,10,10,7,9.18,selected
+10,OWASP Top 10 for LLM Applications 2026: LLM06 Unbounded Consumption,https://raw.githubusercontent.com/GenAI-Security-Project/GenAI-LLM-Top10/main/2026/final/LLM06_UnboundedConsumption.md,standard,10,9,9,8,9,9,10,8,9.09,selected
+11,Anthropic TypeScript SDK README,https://raw.githubusercontent.com/anthropics/anthropic-sdk-typescript/main/README.md,official SDK README,9,10,10,6,10,9,9,8,8.95,selected
+12,OWASP Top 10 for LLM Applications 2026: LLM01 Prompt Injection,https://raw.githubusercontent.com/GenAI-Security-Project/GenAI-LLM-Top10/main/2026/final/LLM01_PromptInjection.md,standard,9,9,9,9,9,8,10,8,8.92,selected
+13,Claude API docs: User profiles for end-customer attribution,https://platform.claude.com/docs/en/manage-claude/user-profiles,official docs,8,10,10,8,10,8,10,4,8.88,selected
+14,Anthropic Usage Policy,https://www.anthropic.com/legal/aup,policy,8,10,10,8,10,7,10,6,8.82,selected
+15,Mind your key: LLM API Credential Leakage in iOS Apps (Gao et al.),https://arxiv.org/abs/2606.12212,research (preprint),10,8,8,8,9,9,10,6,8.7,selected
+16,Expo SDK reference: expo/fetch,https://docs.expo.dev/versions/latest/sdk/expo/,official API reference,9,9,9,6,9,10,9,6,8.58,selected
+17,Expo docs: AppIntegrity,https://docs.expo.dev/versions/latest/sdk/app-integrity/,official API reference,9,9,9,7,9,9,9,5,8.58,selected
+18,Cloudflare AI Gateway: Anthropic provider,https://developers.cloudflare.com/ai-gateway/usage/providers/anthropic/,vendor docs,8,9,8,7,9,9,10,7,8.38,selected
+19,Cloudflare Workers: Rate Limiting binding,https://developers.cloudflare.com/workers/runtime-apis/bindings/rate-limit/,vendor docs,8,9,8,7,9,9,9,6,8.28,selected
+20,OWASP MASWE-0004: Sensitive Data Hardcoded in the App Package,https://mas.owasp.org/MASWE/MASVS-STORAGE/MASWE-0004/,standard,9,9,9,6,9,8,8,6,8.27,selected
+21,UK NCSC: Prompt injection is not SQL injection,https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection,government guidance,8,9,9,7,9,7,9,8,8.23,selected
+22,Supabase docs: Securing Edge Functions,https://supabase.com/docs/guides/functions/auth,vendor docs,8,9,8,7,9,8,10,6,8.23,selected
+23,Design Patterns for Securing LLM Agents against Prompt Injections,https://arxiv.org/abs/2506.08837,research (preprint),8,8,8,9,8,8,9,8,8.22,selected
+24,React Native docs: Security,https://reactnative.dev/docs/security,official docs,9,9,9,5,9,8,9,6,8.19,selected
+25,Upstash Ratelimit: Algorithms,https://upstash.com/docs/redis/sdks/ratelimit-ts/algorithms,vendor docs,7,9,7,8,9,8,7,7,7.87,selected
+26,Simon Willison: The lethal trifecta for AI agents,https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/,independent expert blog,8,8,7,7,8,8,8,10,7.78,selected
+27,InjecAgent: Indirect Prompt Injections in Tool-Integrated LLM Agents,https://arxiv.org/abs/2403.02691,"research (peer-reviewed, ACL Findings 2024)",8,8,8,8,8,7,6,8,7.74,selected
+28,METR: Update on Security at METR,https://metr.org/blog/2026-08-31-security-update/,primary incident report,7,9,7,6,9,7,10,6,7.63,selected
+29,Codeminer42: Why Your AI-Powered React Native App Needs a Backend,https://blog.codeminer42.com/thinking-about-adding-ai-to-your-expo-react-native-app-read-this-first/,engineering consultancy blog,9,6,5,6,7,9,9,5,7.11,selected
+30,Hacker News: €54k spike in 13h from unrestricted Firebase browser key,https://news.ycombinator.com/item?id=47791871,community thread (anecdotal),8,5,4,5,6,7,10,8,6.25,selected
+31,Claude API docs: Optimizing for cost and intelligence,https://platform.claude.com/docs/en/about-claude/models/optimizing-for-cost-and-intelligence,official docs,8,10,10,8,10,8,10,5,8.91,merged: read as a sub-page of Pricing
+32,Claude API docs: Structured outputs,https://platform.claude.com/docs/en/build-with-claude/structured-outputs,official docs,7,10,10,8,10,8,10,6,8.74,near-miss: diversity cap
+33,Claude API docs: Tool use overview,https://platform.claude.com/docs/en/agents-and-tools/tool-use/overview,official docs,7,10,10,8,10,7,10,6,8.62,near-miss: diversity cap on official docs; tool overhead read under Pricing
+34,Claude API docs: Errors,https://platform.claude.com/docs/en/api/errors,official docs,8,10,10,6,10,8,10,5,8.61,near-miss: covered inside rate-limits/streaming reading
+35,Claude API docs: Token counting,https://platform.claude.com/docs/en/build-with-claude/token-counting,official docs,7,10,10,7,10,8,10,5,8.56,merged: read as a sub-page of Pricing/Caching
+36,Claude API docs: Choosing a model,https://platform.claude.com/docs/en/about-claude/models/choosing-a-model,official docs,8,10,10,5,10,8,10,5,8.46,merged: read as a sub-page of Pricing
+37,Play Integrity API,https://developer.android.com/google/play/integrity/overview,official docs,7,10,10,7,10,7,10,5,8.44,near-miss: read via Expo AppIntegrity
+38,Claude API docs: Handle streaming refusals,https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/handle-streaming-refusals,official docs,8,10,10,5,10,8,10,4,8.43,merged: read as a sub-page of Streaming
+39,Claude API docs: Batch processing,https://platform.claude.com/docs/en/build-with-claude/batch-processing,official docs,6,10,10,8,10,7,10,5,8.39,near-miss: off-path for interactive app; price read under Pricing
+40,Apple App Attest,https://developer.apple.com/documentation/devicecheck/establishing-your-app-s-integrity,official docs,7,10,10,7,10,7,8,5,8.3,near-miss: read via Expo AppIntegrity
+41,OWASP LLM10:2025 Unbounded Consumption,https://genai.owasp.org/llmrisk/llm102025-unbounded-consumption/,standard (prior edition),8,9,9,8,9,8,6,8,8.29,duplicate: superseded by LLM06:2026
+42,Expo Hosting: Introduction,https://docs.expo.dev/eas/hosting/introduction/,official docs,8,9,9,6,9,8,10,5,8.18,merged: read under Expo Router API Routes
+43,Claude API docs: API and data retention,https://platform.claude.com/docs/en/manage-claude/api-and-data-retention,official docs,6,10,10,7,10,6,10,4,8.09,near-miss: belongs to topic 6 (privacy-legal)
+44,Claude API docs: Content moderation,https://platform.claude.com/docs/en/about-claude/use-case-guides/content-moderation,official docs,6,10,10,7,10,6,10,4,8.09,near-miss: diversity cap
+45,OWASP LLM08:2026 Hidden Context Exposure,https://raw.githubusercontent.com/GenAI-Security-Project/GenAI-LLM-Top10/main/2026/final/LLM08_HiddenContextExposure.md,standard,7,9,9,7,9,7,10,6,8.04,near-miss: diversity cap on OWASP entries
+46,Firebase App Check: custom backend,https://firebase.google.com/docs/app-check/custom-resource-backend,vendor docs,7,9,8,7,9,8,10,6,8.03,near-miss: AppIntegrity (Expo) covers attestation for this stack
+47,Cloudflare AI Gateway: Rate limiting,https://developers.cloudflare.com/ai-gateway/features/rate-limiting/,vendor docs,8,9,8,5,9,8,10,5,7.9,merged: read under AI Gateway Anthropic provider
+48,Anthropic Commercial Terms,https://www.anthropic.com/legal/commercial-terms,policy,6,10,10,6,10,5,10,4,7.82,near-miss: belongs to topic 6
+49,OWASP Cheat Sheet: LLM Prompt Injection Prevention,https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html,cheat sheet,8,8,8,7,8,8,8,7,7.82,near-miss: overlaps LLM01:2026
+50,Supabase Edge Functions limits,https://supabase.com/docs/guides/functions/limits,vendor docs,7,9,8,5,9,8,10,5,7.7,merged: read under Supabase Securing Edge Functions
+51,Cloudflare Durable Objects,https://developers.cloudflare.com/durable-objects/,vendor docs,6,9,8,7,9,7,9,6,7.64,near-miss
+52,OWASP Mobile Top 10 M1,https://owasp.org/www-project-mobile-top-10/2023-risks/m1-improper-credential-usage,standard,7,9,9,6,9,7,6,7,7.64,near-miss: MASWE-0004 more specific
+53,Anthropic: Mitigating prompt injections in browser use,https://www.anthropic.com/research/prompt-injection-defenses,official research post,6,9,10,6,9,5,10,7,7.61,"near-miss: browser-agent focus, less relevant to a tool-using recommender"
+54,AgentDojo,https://arxiv.org/abs/2406.13352,research (NeurIPS 2024),6,9,9,8,9,5,7,8,7.6,near-miss
+55,Simon Willison: Design patterns paper review,https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/,independent expert blog,8,8,7,6,8,8,8,9,7.6,duplicate: primary paper selected
+56,LM-Scout (Android LLM integration security),https://arxiv.org/abs/2505.08204,research (preprint),8,8,7,7,8,7,9,5,7.58,near-miss: iOS study fresher and larger
+57,AI SDK: Expo getting started,https://ai-sdk.dev/docs/getting-started/expo,framework docs,7,8,7,7,8,8,9,7,7.56,near-miss: third-party SDK; app uses Anthropic SDK on server
+58,CaMeL: Defeating Prompt Injections by Design,https://arxiv.org/abs/2503.18813,research (preprint),6,8,9,9,8,5,8,8,7.52,near-miss: covered via design-patterns paper and Willison
+59,Spotlighting,https://arxiv.org/abs/2403.14720,research (preprint),7,8,8,7,8,7,7,7,7.43,near-miss
+60,NIST AI 600-1,https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf,government standard,5,10,10,7,10,4,6,6,7.43,near-miss: too general
+61,Greshake et al.: indirect prompt injection,https://arxiv.org/abs/2302.12173,research (peer-reviewed),6,9,9,8,9,5,3,9,7.35,"near-miss: 2023, outside recency"
+62,TanStack AI: React Native transport,https://tanstack.com/ai/latest/docs/transports/react-native.md,library docs,7,8,6,6,8,8,9,5,7.22,near-miss
+63,OverThink slowdown attacks,https://arxiv.org/abs/2502.02542,research (preprint),6,8,7,7,8,5,8,6,6.9,near-miss
+64,"LiteLLM: Budgets, Rate Limits",https://docs.litellm.ai/docs/proxy/users,OSS gateway docs,6,8,6,7,8,6,7,7,6.85,near-miss: heavier than a solo dev needs
+65,ngrok: Prompt caching explainer,https://ngrok.com/blog/prompt-caching,vendor blog,6,7,5,7,7,6,9,7,6.56,near-miss: official caching docs selected
+66,Spend Limits API,https://platform.claude.com/docs/en/manage-claude/spend-limits-api,official docs,2,10,10,6,10,1,10,2,6.48,excluded: Claude Enterprise only
+67,Help Net Security: iOS LLM credential study,https://www.helpnetsecurity.com/2026/06/22/llm-api-credential-leakage-ios-apps/,trade media,7,7,6,4,7,6,10,5,6.45,duplicate: primary paper selected
+68,Approov: iOS LLM credential study,https://approov.io/blog/mitigating-llm-credential-leaks-in-ios-apps-key-insights-from-a-study,vendor blog,7,6,5,5,7,7,10,4,6.36,excluded: vendor marketing; primary paper selected
+69,The Register: $82K Gemini key bill,https://www.theregister.com/security/2026/03/03/dev-stunned-by-82k-gemini-api-key-bill-after-theft/4925029,tech media,6,7,6,4,7,6,10,6,6.28,near-miss
+70,Helicone: Custom Rate Limits,https://docs.helicone.ai/features/advanced-usage/custom-rate-limits,vendor docs,6,7,6,5,7,6,7,6,6.22,near-miss
+71,react-native-sse README,https://raw.githubusercontent.com/binaryminds/react-native-sse/master/README.md,OSS README,6,7,5,5,7,7,6,6,6.14,near-miss: expo/fetch is first-party
+72,DEV: stopped leaking Anthropic key in RN,https://dev.to/leboisdolivier/how-i-stopped-leaking-my-anthropic-api-key-in-react-native-2dm1,community blog (anecdotal),8,5,3,5,6,7,9,4,5.93,near-miss: Codeminer42 deeper
+73,HN: $38k Bedrock bill from caching miss,https://news.ycombinator.com/item?id=47933355,community thread (anecdotal),7,5,4,4,6,7,10,7,5.87,near-miss: second community slot went to €54k key-leak thread
