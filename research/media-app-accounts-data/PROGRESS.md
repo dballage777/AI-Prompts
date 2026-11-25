@@ -1,0 +1,12 @@
+# PROGRESS — media-app-accounts-data (Top 30)
+- [x] Setup, scope, access preflight (2026-11-25)
+- [x] Pass 1 discovery
+- [x] Pass 2 expansion
+- [x] Pass 3 validation
+- [x] Pass 4 community check
+- [x] Pass 5 cross-check
+- [x] Pass 6 dedupe
+- [x] Pass 7 score
+- [x] Pass 8 omission check (found Apple TN3194 and the UpGuard Sept 2026 report)
+- [x] Final verification
+- Final 30 re-verified 2026-11-25 (all HTTP 200)
