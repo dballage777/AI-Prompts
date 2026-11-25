@@ -7,3 +7,4 @@
 - [x] Final verification: all 30 URLs re-opened 2026-11-25 (HTTP 200)
 - [x] Files: TOP_30.txt, SCORED_CANDIDATES.csv, NOTES.md
 - Part 1 complete. Part 2 (Topic Learning) → knowledge/PROGRESS.md
+- Part 2 complete (knowledge/). Plan topic 1 marked done.

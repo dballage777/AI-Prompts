@@ -1,0 +1,34 @@
+point,supporting,conflicting,evidence_label,strength
+"Building, running or signing iOS apps locally requires macOS/Xcode",S1;S6;S10;S14;S25,,Documented,Strong
+"Expo services build, sign and submit iOS apps from Linux without a Mac",S2;S19,,Documented,Strong
+"Expo Simulators let a Linux host or agent drive a cloud iOS simulator (paid plans)",S2;S3,,Documented,Moderate
+"A paid Apple Developer Program membership is needed for iPhone builds, TestFlight and submission",S2;S6;S21,,Documented,Strong
+"The React Native team recommends starting new apps with a framework (Expo)",S1;S8,,Documented,Strong
+"EAS Build is used by 68% of surveyed React Native developers; New Architecture ~80% adopted",S15,,Reported,Moderate
+"Expo ships an official Claude Code plugin with skills and a remote MCP server (builds, submit, crashes, simulators)",S3;S19,,Documented,Moderate
+"Flutter ships an official Claude Code plugin; its Dart MCP server is local-only and rules must be copied manually",S4;S18,,Documented,Moderate
+"Claude Code is the most-used AI agent among surveyed Flutter developers (32%)",S22,,Documented,Moderate
+"Codemagic can sign and publish Flutter iOS apps without a Mac",S21;S6,,Documented,Moderate
+"Frontier agents resolve only ~3-12% of realistic mobile tasks unaided; success falls with files touched",S14;S24,S5,Research,Strong
+"Short defensive-programming prompts improved agent results; long checklist prompts hurt",S24,,Research,Limited
+"Agents make native development affordable again",S5;S13,S29;S14;S24,Documented/Reported,Contested
+"Native is fastest on non-UI client work; KMP closest; no universal winner",S17,S5,Research,Moderate
+"React Native apps can be fast (<500ms P75 loads, >99.9% crash-free at Shopify)",S5;S7,S26,Documented,Moderate
+"Flutter gives smoother UI than React Native for complex apps",S26;S27,S5;S7,Reported,Limited
+"React Native ships ~6 minors/year and supports the latest 3 (~6 months each)",S8;S9,,Documented,Strong
+"Recent RN releases (0.83, 0.86, 0.88) had no user-facing breaking changes",S8,,Documented,Strong
+"Framework upgrades are a top pain point (RN and Flutter)",S7;S15;S22;S29,,Documented/Reported,Strong
+"React Native is owned by the React Foundation under the Linux Foundation since Feb 2026",S20;S8,,Documented,Strong
+"Flutter is Google-led but non-Google contributors now outnumber Google staff",S18,S30,Documented,Moderate
+"The Flock fork shows no 2025-2026 activity",S30,,Documented,Limited
+"expo-video supports HLS/DASH, PiP, background play and DRM; PiP/background need a new binary; expo-av removed in SDK 55",S11,,Documented,Moderate
+"RevenueCat purchases need a development build; Test Store key crashes release/TestFlight builds",S16,,Documented,Moderate
+"Flutter's youtube_player_iframe is no longer maintained",S23,,Documented,Limited
+"OTA updates change JS/Dart and assets only; store rules still apply",S12;S27,,Documented,Strong
+"OTA updates are a key advantage for small teams",S29;S13,,Reported,Limited
+"Apple requires Xcode 26 / iOS 26 SDK for uploads since 2026-04-28",S10,,Documented,Moderate
+"Compose Multiplatform for iOS is stable (1.8.0, May 2025) but iOS work needs Apple tooling",S25,,Documented,Moderate
+"Swift SDK for Android shares logic only; no UI layer",S28,,Documented,Moderate
+"Shopify's RN libraries face stewardship changes (FlashList, Skia fork, Restyle archived)",S5,,Documented,Moderate
+"Expo Free: 15+15 builds, no simulators; Starter $19/mo with $45 credit; iOS builds $2-4 overage",S2;S12,,Documented,Moderate
+"Solo and small teams prefer cross-platform over full native",S29;S19,S5,Reported,Limited
