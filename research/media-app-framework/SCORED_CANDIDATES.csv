@@ -1,0 +1,66 @@
+rank,name,url,type,relevance,reliability,authority,depth,accuracy,practical,currentness,community,weighted_total,status
+1,React Native docs: Get Started (framework recommendation),https://reactnative.dev/docs/environment-setup,official docs,10,10,10,6,10,10,9,9,9.27,selected
+2,Expo docs: EAS Build,https://docs.expo.dev/build/introduction/,official docs,10,9,9,8,9,10,9,9,9.15,selected
+3,Expo docs: Claude Code and Expo,https://docs.expo.dev/agents/claude/,official docs,10,9,9,7,9,10,10,7,9.04,selected
+4,Flutter docs: Get started developing with AI,https://docs.flutter.dev/ai/get-started,official docs,10,9,9,7,9,10,10,7,9.04,selected
+5,Shopify Engineering: Native is now the future of mobile at Shopify,https://shopify.engineering/back-to-native,primary engineering post,10,8,9,9,8,8,10,10,8.93,selected
+6,Flutter docs: Build and release an iOS app,https://docs.flutter.dev/deployment/ios,official docs,9,10,10,7,10,8,8,6,8.83,selected
+7,Shopify Engineering: Five years of React Native at Shopify,https://shopify.engineering/five-years-of-react-native-at-shopify,primary engineering post,9,9,9,9,9,7,8,9,8.7,selected
+8,React Native 0.82: A New Era,https://reactnative.dev/blog/2025/10/08/react-native-0.82,official release post,8,10,10,7,10,7,9,7,8.66,selected
+9,React Native Releases Overview (support policy),https://reactnative.dev/releases/overview,official policy,8,10,10,6,10,8,9,6,8.58,selected
+10,Apple Developer: Upcoming requirements,https://developer.apple.com/news/upcoming-requirements/,official policy,8,10,10,5,10,8,10,6,8.53,selected
+11,Expo docs: expo-video,https://docs.expo.dev/versions/latest/sdk/video/,official library docs,8,9,9,7,9,10,9,6,8.51,selected
+12,Expo docs: EAS Update,https://docs.expo.dev/eas-update/introduction/,official docs,8,9,9,7,9,9,9,8,8.47,selected
+13,"Software Mansion: React Native vs Native, how we choose the right stack",https://swmansion.com/blog/react-native-vs-native/,engineering-firm article,9,8,8,8,8,8,10,7,8.37,selected
+14,"MobileDev-Bench (Fakorede et al., 2026)",https://arxiv.org/abs/2603.24946,research preprint,9,8,8,9,8,7,10,5,8.36,selected
+15,State of React Native 2025 survey results,https://results.stateofreactnative.com/en-US/,community survey,9,8,8,8,8,8,9,9,8.33,selected
+16,RevenueCat docs: SDK installation (Expo; Flutter),https://www.revenuecat.com/docs/getting-started/installation/expo,vendor SDK docs,8,8,8,7,9,10,9,8,8.25,selected
+17,"Cross-Platform vs Native Mobile Development: An Empirical Study of Software Quality Trade-offs (Ilovan, 2026)",https://arxiv.org/abs/2609.21544,research preprint,9,8,7,9,8,7,10,5,8.24,selected
+18,Flutter & Dart's 2026 roadmap,https://flutter.dev/blog/flutter-darts-2026-roadmap,official roadmap,8,9,10,6,9,6,10,7,8.21,selected
+19,"Expo blog: How to build mobile apps with AI, the three tools that actually matter",https://expo.dev/blog/how-to-build-mobile-apps-with-ai-the-three-tools-that-actually-matter,vendor blog,10,7,8,7,7,9,10,6,8.19,selected
+20,React Foundation announcement (react.dev),https://react.dev/blog/2026/02/24/the-react-foundation,official governance post,7,10,10,5,10,6,10,8,8.19,selected
+21,Codemagic docs: Flutter apps quick start,https://docs.codemagic.io/yaml-quick-start/building-a-flutter-app/,vendor CI docs,9,8,7,7,8,9,9,7,8.1,selected
+22,Flutter Q2 2026 user survey,https://flutter.dev/blog/flutter-q2-2026-survey,official survey,8,8,9,8,8,6,10,7,8.09,selected
+23,video_player (pub.dev),https://pub.dev/packages/video_player,official Flutter package page,7,9,9,5,9,9,9,7,7.94,selected
+24,"SWE-Bench Mobile (Tian et al., 2026)",https://arxiv.org/abs/2602.09540,research (KDD 2026),8,8,8,8,8,6,10,5,7.91,selected
+25,"JetBrains: Compose Multiplatform 1.8.0, iOS stable",https://blog.jetbrains.com/kotlin/2025/05/compose-multiplatform-1-8-0-released-compose-multiplatform-for-ios-is-stable-and-production-ready/,official release post,7,9,9,7,9,6,8,7,7.84,selected
+26,Zulip: next-gen mobile app powered by Flutter,https://blog.zulip.com/2025/06/17/flutter-mobile-app-launched/,OSS project experience report,8,8,7,8,8,7,8,8,7.78,selected
+27,"Shorebird: Flutter vs React Native in 2026, a technical architecture comparison",https://shorebird.dev/blog/flutter-vs-react-native/,vendor technical comparison,9,6,7,9,7,7,10,6,7.77,selected
+28,Swift.org: Announcing the Swift SDK for Android,https://swift.org/blog/nightly-swift-sdk-for-android/,official blog,6,9,10,6,9,5,9,8,7.64,selected
+29,Hacker News: Shopify is moving from React Native back to Swift and Kotlin,https://news.ycombinator.com/item?id=49643982,community thread (anecdotal),9,5,5,8,5,7,10,10,7.1,selected
+30,"Flock: We're forking Flutter, this is why",https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/,community governance critique,7,6,6,8,6,5,7,9,6.59,selected
+31,Shopify: Migrating to React Native's New Architecture,https://shopify.engineering/react-native-new-architecture,primary engineering post,7,9,9,8,9,6,8,8,8.02,near-miss: same-site as Five years
+32,Expo pricing,https://expo.dev/pricing,vendor pricing,7,9,9,4,9,9,10,5,7.83,near-miss: read as part of EAS Build source
+33,Expo docs: Work without a Mac,https://docs.expo.dev/preview/simulators/how-to/work-without-a-mac/,official docs,8,8,9,5,8,8,10,5,7.78,near-miss: limited-access preview; read as part of Expo site
+34,Flutter docs: Impeller,https://docs.flutter.dev/perf/impeller,official docs,6,9,10,6,9,5,9,6,7.58,near-miss
+35,React Native Directory,https://reactnative.directory/,package directory,7,8,7,6,8,8,10,8,7.58,near-miss
+36,Flutter docs: Flutter for React Native developers,https://docs.flutter.dev/flutter-for/react-native-devs,official docs,6,9,10,7,9,5,7,6,7.53,near-miss
+37,Kotlin docs: What is Kotlin Multiplatform,https://kotlinlang.org/docs/multiplatform/kmp-overview.html,official docs,6,9,9,6,9,5,9,6,7.46,near-miss: CMP post chosen
+38,purchases_flutter (pub.dev),https://pub.dev/packages/purchases_flutter,package page,7,8,8,4,8,9,10,6,7.44,near-miss: covered by RevenueCat docs
+39,Android Developers: Kotlin Multiplatform,https://developer.android.com/kotlin/multiplatform,official docs,6,9,10,5,9,5,9,6,7.43,near-miss
+40,InfoQ: Shopify drops React Native,https://www.infoq.com/news/2026/09/shopify-drops-react-native/,tech news,8,7,7,6,7,5,10,7,7.15,near-miss: secondary to Shopify post
+41,Code With Andrea: Build Flutter apps faster with Claude Code,https://codewithandrea.com/emails/2025-06-25-claude-code/,independent educator,8,7,7,5,7,7,8,8,7.03,"near-miss: newsletter, thin"
+42,"AppForge (Ran et al., 2025)",https://arxiv.org/abs/2510.07740,research preprint,6,8,7,7,8,4,9,4,6.91,near-miss: Android-only
+43,Simon Willison: Vibe coding SwiftUI apps is a lot of fun,https://simonw.substack.com/p/vibe-coding-swiftui-apps-is-a-lot,independent writer,7,7,7,5,7,5,10,9,6.86,near-miss: assumes a Mac; covered by Shopify/SWM
+44,Analyzing the Resource Usage Overhead of Mobile App Development Frameworks (EASE 2023),https://research.utwente.nl/en/publications/analyzing-the-resource-usage-overhead-of-mobile-app-development-f/,peer-reviewed,6,9,8,7,9,4,4,5,6.86,near-miss: pre-2024
+45,Alan Tippins: From Figma to the App Store (Expo + Claude Code),https://atippins.substack.com/p/from-figma-to-the-app-store,indie experience report,8,6,5,6,6,8,10,5,6.85,near-miss: single anecdote
+46,React Native Radio RNR 357: RN 0.82–0.84 & Expo 55,https://infinite.red/react-native-radio/rnr-357-react-native-082084-expo-55,podcast,7,7,7,6,7,5,9,7,6.85,near-miss
+47,Aalto MSc thesis: Challenges and solutions in cross-platform mobile development (2024),https://aaltodoc.aalto.fi/items/3ddc2600-0e11-4468-8747-17cf27c3,thesis,7,7,6,7,7,5,8,3,6.66,near-miss
+48,On the Adoption of AI Coding Agents in Open-source Android and iOS Development (2026),https://arxiv.org/abs/2602.12144,research preprint,6,7,7,6,7,4,10,4,6.56,near-miss
+49,Stack Overflow Developer Survey 2024 — Technology,https://survey.stackoverflow.co/2024/technology,survey,6,8,8,5,8,4,6,8,6.55,near-miss: 2025 dropped the comparison
+50,Simon Willison blog: Shopify React Native note,https://simonwillison.net/2026/Sep/10/shopify-react-native/,independent writer,7,7,7,3,7,4,10,8,6.43,near-miss: short
+51,dev.to (codeascent): 4 iOS apps from a Windows PC,https://dev.to/codeascent_admin/how-i-shipped-4-ios-apps-from-a-windows-pc-without-ever-touching-a-mac-el6,indie experience,8,5,4,6,5,8,10,5,6.43,near-miss
+52,Kotlin ML Pack (2024),https://arxiv.org/abs/2405.19250,technical report,5,8,8,6,8,3,7,4,6.38,near-miss
+53,SwiftEval (FORGE 2025),https://arxiv.org/abs/2505.24324,peer-reviewed workshop,5,8,7,6,8,3,8,4,6.36,near-miss
+54,dev.to (Peter): iPhone and Android app without a Mac,https://dev.to/peterto/how-i-created-and-deployed-an-iphone-and-android-app-without-a-mac-and-so-can-you-n3k,indie experience,8,5,4,6,5,8,8,5,6.23,near-miss
+55,DevClass: Flutter forked as Flock,https://www.devclass.com/development/2024/10/30/flutter-forked-as-flock-developer-cites-company-wide-issues-at-google/,tech news,6,7,7,5,7,4,7,7,6.2,near-miss: secondary to Flock post
+56,HN: Flutter 3.47 thread,https://news.ycombinator.com/item?id=49280061,community thread,7,5,5,6,5,5,10,9,6.17,near-miss
+57,nomtek: Flutter vs React Native,https://www.nomtek.com/blog/flutter-vs-react-native,agency article,7,5,5,7,6,5,8,5,6.1,near-miss: agency marketing
+58,Diffs vs Whole Files for Flutter/Dart code models (2026),https://arxiv.org/abs/2609.05779,research preprint (single author),6,6,5,6,6,4,10,3,5.99,near-miss
+59,HN: Tell HN 2 years building a kids audio app solo,https://news.ycombinator.com/item?id=46705676,community thread,6,5,4,6,5,7,10,7,5.99,near-miss
+60,OMG! Ubuntu: Canonical takes over Flutter desktop,https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained,tech news,5,7,6,4,7,3,10,6,5.9,near-miss: desktop only
+61,dev.to (fatihkurtl): Flutter vs RN is the wrong question for solo devs,https://dev.to/fatihkurtl/flutter-vs-react-native-is-the-wrong-question-for-solo-full-stack-developers-51bk,indie opinion,8,4,3,5,5,6,10,5,5.76,near-miss
+62,The Pragmatic Engineer: Cross-platform mobile development,https://newsletter.pragmaticengineer.com/p/cross-platform-mobile-development,newsletter,,,,,,,,,,excluded: PAYWALL
+63,The Pragmatic Engineer: Why has Shopify dropped React Native?,https://newsletter.pragmaticengineer.com/p/shopify-native-mobile,newsletter,,,,,,,,,,excluded: PAYWALL
+64,thedroidsonroids: Flutter vs React Native,https://www.thedroidsonroids.com/blog/flutter-vs-react-native-comparison,agency article,,,,,,,,,,excluded: BLOCKED 403
+65,Software Mansion: same app in Flutter and RN,https://swmansion.com/blog/we-built-the-same-app-in-flutter-and-react-native-here-s-what-we-found/,engineering article,,,,,,,,,,excluded: DEAD (redirects to blog index)
