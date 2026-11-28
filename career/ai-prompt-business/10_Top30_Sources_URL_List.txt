@@ -1,0 +1,43 @@
+TOP 30 SOURCES: PERFECTING THE FOUR SCHOOL AI ASSISTANTS (access checked 2026-11-28)
+
+A. Building and testing in Claude Code
+1. https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/claude-4-best-practices
+2. https://agentskills.io/specification
+3. https://code.claude.com/docs/en/skills
+4. https://docs.claude.com/en/docs/test-and-evaluate/develop-tests
+5. https://support.google.com/gemini/answer/18560919
+
+B. AI tutoring and learning science
+6. https://www.nature.com/articles/s41598-025-97652-6
+7. https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12232635/fullTextXML
+8. https://arxiv.org/abs/2407.12687
+9. https://www.anthropic.com/news/introducing-claude-for-education
+10. https://ies.ed.gov/ncee/wwc/PracticeGuide/1
+11. https://deansforimpact.org/wp-content/uploads/2016/12/The_Science_of_Learning.pdf
+12. https://www.nber.org/papers/w27476
+
+C. Math content and accuracy
+13. https://www.in.gov/doe/students/indiana-academic-standards/mathematics/
+14. https://ies.ed.gov/ncee/wwc/PracticeGuide/20
+15. https://www.nctm.org/PtA/
+16. https://access.openupresources.org/curricula/our-hs-math/index.html
+17. https://arxiv.org/abs/2410.05229
+
+D. Differentiation, reteaching, readability
+18. https://udlguidelines.cast.org/
+19. https://stars.library.ucf.edu/istlibrary/56/
+20. https://ies.ed.gov/ncee/wwc/PracticeGuide/8
+21. https://institute.commonsensemedia.org/risk-assessments/ai-teacher-assistants
+
+E. Parent communication
+22. https://www.hks.harvard.edu/publications/underutilized-potential-teacher-parent-communication-evidence-field-experiment
+23. https://jhr.uwpress.org/content/56/1/125
+24. https://education.delaware.gov/legacy/wp-content/uploads/sites/4/2024/06/dcl-factsheet-lep-parents-201501.pdf
+25. https://support.google.com/mail/answer/12921167
+
+F. Privacy, policy, integrity, accessibility
+26. https://studentprivacy.ed.gov/resources/protecting-student-privacy-while-using-online-educational-services-requirements-and-best
+27. https://secure.in.gov/doe/files/AI-Policy-Final.pdf
+28. https://thejournal.com/Articles/2025/07/23/ED-Offers-Guidance-on-the-Use-of-Federal-Grants-to-Support-Learner-Outcomes-with-AI.aspx
+29. https://arxiv.org/abs/2304.02819
+30. https://www.w3.org/WAI/WCAG21/quickref/
